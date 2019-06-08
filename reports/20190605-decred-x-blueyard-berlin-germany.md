@@ -1,20 +1,20 @@
 # Decred x BlueYard in Berlin, Germany
 
-Report by Haon.
+Report by @Haon.
 
-Info:
+#### Info:
 
-* dates: 2019-06-05
+* dates: 05 Jun 2019
 * location: BlueYard office, Berlin, Germany
 * event: [Decred x BlueYard Berlin Meetup](https://www.eventbrite.co.uk/e/decred-x-blueyard-berlin-meetup-tickets-61631192556)
 * visitors: ~50 people signed up, about 20-25 people attended
 
-Decred presence:
+#### Decred presence:
 
 * attendees: @Haon, @jholdstock, @jz, @karamble
 * BlueYard team and their acquaintances
 
-Swag:
+#### Swag:
 
 * around 10 tote bags
 * around 15 T-shirts
@@ -50,9 +50,11 @@ Reflection from @karamble:
 
 ## Media
 
-News coverage: We did not promote this event heavily, so no noteworthy news coverage.
+#### News coverage:
 
-Photos:
+We did not promote this event heavily, so no noteworthy news coverage.
+
+#### Photos:
 
 * Talking about [Decred's adaptability](https://twitter.com/NoahPierau/status/1136325206895669248)
 * Talking about [contractors all of the world](https://twitter.com/NoahPierau/status/1136327026523222016)
