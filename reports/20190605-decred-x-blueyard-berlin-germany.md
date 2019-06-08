@@ -22,7 +22,7 @@ Report by @Haon.
 * around 150 stickers
 * around 50 post cards
 
-[![photo of the swag table](https://pbs.twimg.com/media/D8T0veIV4AI5UD1?format=jpg&name=900x900 "Decred swag")](https://twitter.com/NoahPierau/status/1136302117021519872)
+![photo of the swag table](https://pbs.twimg.com/media/D8T0veIV4AI5UD1?format=jpg&name=900x900 "Decred swag")
 
 ## Overview
 
@@ -56,12 +56,16 @@ We did not promote this event heavily, so no noteworthy news coverage.
 
 #### Photos:
 
+* [Swag](https://twitter.com/NoahPierau/status/1136302117021519872)
+* [@jholdstock](https://twitter.com/jz_bz/status/1136317353128583168)
+* [Presentation](https://matrix.to/#/!aNPTuiryMFmdMQWUzb:decred.org/$15599478258744wzaOp:decred.org)
 * Talking about [Decred's adaptability](https://twitter.com/NoahPierau/status/1136325206895669248)
 * Talking about [contractors all of the world](https://twitter.com/NoahPierau/status/1136327026523222016)
 * Talking about [the future of Decred](https://twitter.com/NoahPierau/status/1136329958891110400)
+* [Discussions](https://matrix.to/#/!aNPTuiryMFmdMQWUzb:decred.org/$15599478748746GJKnQ:decred.org)
 
-[![photo of jholdstock](https://pbs.twimg.com/media/D8UCkAlU8AAxRom?format=jpg&name=4096x4096 "jholdstock")](https://twitter.com/jz_bz/status/1136317353128583168)
+![photo of jholdstock](https://pbs.twimg.com/media/D8UCkAlU8AAxRom?format=jpg&name=4096x4096 "jholdstock")
 
-[![photo of the talk](https://matrix.decred.org/_matrix/media/v1/download/decred.org/XilzIizVeVKvePzLbKHAkOet "presentation")](https://matrix.to/#/!aNPTuiryMFmdMQWUzb:decred.org/$15599478258744wzaOp:decred.org)
+![photo of the talk](https://matrix.decred.org/_matrix/media/v1/download/decred.org/XilzIizVeVKvePzLbKHAkOet "presentation")
 
-[![photo after the talk](https://matrix.decred.org/_matrix/media/v1/download/decred.org/iFLCNieuAfhybOifJBSLXzhT "discussions")](https://matrix.to/#/!aNPTuiryMFmdMQWUzb:decred.org/$15599478748746GJKnQ:decred.org)
+![photo after the talk](https://matrix.decred.org/_matrix/media/v1/download/decred.org/iFLCNieuAfhybOifJBSLXzhT "discussions")
