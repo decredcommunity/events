@@ -4,7 +4,7 @@ Report by @Haon.
 
 #### Info:
 
-* dates: 05 Jun 2019
+* dates: 05 June 2019
 * location: BlueYard office, Berlin, Germany
 * event: [Decred x BlueYard Berlin Meetup](https://www.eventbrite.co.uk/e/decred-x-blueyard-berlin-meetup-tickets-61631192556)
 * visitors: ~50 people signed up, about 20-25 people attended
