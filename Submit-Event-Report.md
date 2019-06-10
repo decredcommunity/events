@@ -45,6 +45,8 @@ This way is most advanced but is also most flexible and requires less admin assi
 1. [Fork](https://help.github.com/en/categories/collaborating-with-issues-and-pull-requests) the events repository.
 2. Create a file with your report or change an existing file in the `reports` directory. The file name must follow the format `YYYYMMDD-title-city-country.md`, e.g. `20190116-tnabc-miami-usa.md`. For content you can use [this template](https://raw.githubusercontent.com/decredcommunity/events/docs/report-template.md) as a starting point.
 3. Create a [pull request](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork) against the events repository.
+  * Check `Allow edits from maintainers` ([help](https://help.github.com/en/articles/allowing-changes-to-a-pull-request-branch-created-from-a-fork)).
+  * Optionally, use [Draft pull request](https://help.github.com/en/articles/about-pull-requests#draft-pull-requests) that cannot be merged until you mark it as ready.
 
 ## Contact admins
 
