@@ -22,11 +22,11 @@ Report by {Akin Sawyerr}.
 The event was held at the Wharton Schools of Business' San Fransisco Location at 1 Harrison Street.  Its right next to the San Fransisco-Oakland Bay Bridge.
 THe event had a diverse audience that included governance experts from crypto communities and academia. This is the full list of attendants: 
 
-1. Jacob	Arluck	Tocqueville Group 
+1. Jacob	  Arluck	Tocqueville Group 
 2. Farzaneh	Badiei	Internet Governance Project
 3. Brian	Behlendorf	Hyperledger
 4. Chris	Berg	RMIT
-5. Nic	Carter	Castle Island Ventures
+5. Nic	  Carter	Castle Island Ventures
 6. Thomas	Cox	Strongblock
 7. Meltem	Demirors	CoinShares
 8. Charlie	Firestone	Aspen Institute
@@ -84,6 +84,10 @@ To close out the day there was a spirited conversation on Public blockchains as 
 
 The group was divided into 5 working groups to discuss and flesh out the following:
 
-
+1. The context of blockchain governance: The Who? What? When? and Why?, How does blockchain governance differ in permissioned vs permisionsless networks? How blockchain-based contexts differ from traditional software engineering, open source, or corporate governance?
+2. Measurement and Quality: What are the attributes of successful blockchain governance and how can success be measured?
+3. Governance of vs By Blockchain: How blockchain systems are governed from how blockchains are employed as governance solutions for the world. How does the internal governance structure of a blockchain platform or community influence its effectiveness for managing resource allocations, asset registries, commercial ecosystems, etc.?  
+4. Behavioral and Institutional dynamics: How can the insights of economics and related fields help to design decentralized ecosystems? What role do digital assets play in incentive schemes and how can they be linked to the overall network governance? What agency conflicts can arise in multiple protocol and/or stakeholder ecosystems and how can they be identified in the design process? What patterns do projects using token incentives share? 
+5. The Governance Stack: Compose a first high-level draft of a blockchain governance outline to serve as a discussion basis for the whole-group session on the second day. Included not only identifying the relevant layers and other components which are likely to be shared by most projects, but also framed the discussion by highlighting specific focus areas worth assessment by the whole group. 
 
 }
