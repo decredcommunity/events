@@ -72,9 +72,9 @@ It was also determined and agreed to by some that it becomes increasingly harder
 
 We spent quite a bit of time trying to define stakeholders. There was a camp that wanted an expansive definition that included all of society and others who wanted in to be more limited to individuals with skin in the game or at least a direct interest in the network (i.e. miners, contractors, token holders etc).
 
-Decred occupied a good portion of airtime during the conversation about governance in practice. The conversation started with a well detailed summary of how the SegWit process went down in the Ethereum community. This provided the opportunity to contrast Ethereum and Decred which I and a number of other participants gladly jumped on.
+Decred occupied a good portion of airtime during the conversation about governance in practice. The conversation started with a well detailed summary of how the SegWit process went down in the Bitcoin community. This provided the opportunity to contrast Bitcoin and Decred which I and a number of other participants gladly jumped on.
 
-Phrases like: "If Ethereum has a clear and transparent governance process like Decred...." were used to highlight the value of an explicit and transparent process (Decred) vs an opaque process (Ethereum).
+Phrases like: "If Bitcoin has a clear and transparent governance process like Decred...." were used to highlight the value of an explicit and transparent process (Decred) vs an opaque process (Bitcoin).
 
 We talked about the importance of skin in the game and transparency, delegated governance vs non-delegated systems, principal-agent problems etc.
 
