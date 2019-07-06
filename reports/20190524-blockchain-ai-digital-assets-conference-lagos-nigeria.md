@@ -41,7 +41,13 @@ We also talked about our mobile application and how it supports SPV (Simplified 
 
 * https://twitter.com/Decred_africa/status/1131898369662750721
 * https://twitter.com/Decred_africa/status/1132004024276930560
-* https://twitter.com/decred_africa/status/1131885455534903296
+* https://twitter.com/Decred_africa/status/1131885455534903296
+* https://twitter.com/nevinomics/status/1131827538941157376
+* https://twitter.com/beansgum/status/1132911278723407873
+* https://twitter.com/beansgum/status/1132911288693284864
+* https://twitter.com/BlockchainNG/status/1134763791432986625
+* https://twitter.com/BlockchainNG/status/1134765395469058048
+* https://twitter.com/BlockchainNG/status/1134767002667667456
 
 ![photo](https://user-images.githubusercontent.com/31141573/60689626-eaa9b780-9eae-11e9-982a-22a3cf2e28cd.jpg)
 
