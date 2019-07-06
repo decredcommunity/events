@@ -19,23 +19,21 @@ Report by @metaclips.
 
 70 shirts, 100 trifold brochures, 200 postcards, 100 stickers.
 
-## Theme
-
-The Blockchain, AI and Digital Assets Conference 2019, with an ideal to support economic growth and career opportunities using the blockchain technology.
-
 ## Overview
 
-It is one of the biggest blockchain gathering in Nigeria. This was the 7th event in the series and the 3rd holding in Nigeria's largest city Lagos, the event was focused on identifying the opportunities and overcoming the challenges to making this revolutionary technology a reality in Nigeria and Africa at large. Previous editions of the events had been held in Port Harcourt and Abuja in 2017 and 2018.
+The theme of the conference is an ideal to support economic growth and career opportunities using the blockchain technology.
 
-In Nigeria, blockchain technology is an infamous keyword not well understood by many and most of the time the wrong information is passed about especially people seeing cryptocurrency as a means of making fraudulent transactions in Nigeria, the event goes out to educate people both experts and newbies about blockchain and cryptocurrency and how it could be used for a safer and faster means of exchange.
+It is one of the biggest blockchain gatherings in Nigeria. This was the 7th event in the series and the 3rd holding in Nigeria's largest city Lagos, the event was focused on identifying the opportunities and overcoming the challenges to making this revolutionary technology a reality in Nigeria and Africa at large. Previous editions of the event had been held in Port Harcourt and Abuja in 2017 and 2018.
 
-We also had at the event intermediate and upcoming cryptocurrency exchanges that came to show audiences ways to perform secure transactions both in local currency and cryptocurrencies using the POS (Point Of Sale) protocol as a means of exchange.
+In Nigeria, blockchain technology is an infamous keyword not well understood by many and most of the time the wrong information is passed about, especially people seeing cryptocurrency as a means of making fraudulent transactions in Nigeria. The event goes out to educate people both experts and newbies about blockchain and cryptocurrency and how it could be used for a safer and faster means of exchange.
+
+We also had at the event intermediate and upcoming cryptocurrency exchanges that came to show audiences ways to perform secure transactions both in local currency and cryptocurrencies using the POS (Point of Sale) protocol as a means of exchange.
 
 We had at the event cryptocurrencies Decred and Dash, Kudi exchange, Bit2Big which uses the POS system and XendBit exchange, which are all major exchanges in Africa. We also had speakers like James Hinton from flash coin, Michael Kiberu Nugenda CEO of Bit2Big, Germaine Ifudu Cryptocurrency Advisor, Yongjie Athena Yu from Binance Charity Foundation, Dr. Andrew Nevin chief economist Price Waterhouse Coopers and Olanrewaju Collins @beansgum from Decred project.
 
-We gave earnest listeners who came to our stand to enquire about Decred, swags and also got contacts for a follow up, they mostly wanted to know about us and what differentiates our cryptocurrency from others which we told them Decred has all features in Bitcoin embedded in it, hybrid PoW+PoS (Proof of Work Proof of Stake) and a consensus community whereby everyone who holds Decred has the right to vote in or out a particular feature of Decred, allowing everyone the ability to decide the future of the cryptocurrency.
+To earnest listeners who came to our stand to enquire about Decred we gave swags and also got contacts for a follow up. People mostly wanted to know about us and what differentiates our cryptocurrency from others. We told them that Decred has all features of Bitcoin, hybrid PoW+PoS (Proof of Work Proof of Stake) and a consensus community whereby everyone who holds Decred has the right to vote in or out a particular feature of Decred, allowing everyone the ability to decide the future of the cryptocurrency.
 
-We also talked about our mobile application and how it supports SPV (Simplified Payment Verification) which doesn't require you to download all blocks which could run to gigabytes of data saving users the stress of not running full node especially on a mobile phone and also allowing less data consumption, one of our decred developers @beansgum also gave a speech to the audiences talking about crypto governance and how decred is unique.
+We also talked about our mobile application and how it supports SPV (Simplified Payment Verification) that doesn't require you to download all the blocks which could run to gigabytes of data, saving users the stress of not running full node especially on a mobile phone and also allowing less data consumption. One of our decred developers @beansgum gave a speech about crypto governance and how Decred is unique.
 
 ## Media
 
