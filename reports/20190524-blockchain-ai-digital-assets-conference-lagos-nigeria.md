@@ -13,7 +13,7 @@ Report by @metaclips.
 
 #### Decred presence:
 
-* attendees: @beansgum @edonomorrison @macsleven @metaclips @micodon2k10 @osho_refueled
+* attendees: [@beansgum](https://twitter.com/beansgum), [@edonomorrison](https://twitter.com/edonomorrison), [@macsleven](https://twitter.com/macsleven), [@metaclips](https://twitter.com/metaclips), [@micodon2k10](https://twitter.com/micodon2k10), [@osho_refueled](https://twitter.com/osho_refueled) (Twitter handles)
 
 #### Swag:
 
@@ -29,7 +29,7 @@ In Nigeria, blockchain technology is an infamous keyword not well understood by 
 
 We also had at the event intermediate and upcoming cryptocurrency exchanges that came to show audiences ways to perform secure transactions both in local currency and cryptocurrencies using the POS (Point of Sale) protocol as a means of exchange.
 
-We had at the event cryptocurrencies Decred and Dash, Kudi exchange, Bit2Big which uses the POS system and XendBit exchange, which are all major exchanges in Africa. We also had speakers like James Hinton from flash coin, Michael Kiberu Nugenda CEO of Bit2Big, Germaine Ifudu Cryptocurrency Advisor, Yongjie Athena Yu from Binance Charity Foundation, Dr. Andrew Nevin chief economist Price Waterhouse Coopers and Olanrewaju Collins @beansgum from Decred project.
+We had at the event cryptocurrencies Decred and Dash, Kudi exchange, Bit2Big which uses the POS system and XendBit exchange, which are all major exchanges in Africa. We also had speakers like James Hinton from FlashCoin, Michael Kiberu Nugenda CEO of Bit2Big, Germaine Ifudu Cryptocurrency Advisor, Yongjie Athena Yu from Binance Charity Foundation, Dr. Andrew Nevin chief economist Price Waterhouse Coopers and Olanrewaju Collins @beansgum from Decred project.
 
 To earnest listeners who came to our stand to enquire about Decred we gave swags and also got contacts for a follow up. People mostly wanted to know about us and what differentiates our cryptocurrency from others. We told them that Decred has all features of Bitcoin, hybrid PoW+PoS (Proof of Work Proof of Stake) and a consensus community whereby everyone who holds Decred has the right to vote in or out a particular feature of Decred, allowing everyone the ability to decide the future of the cryptocurrency.
 
