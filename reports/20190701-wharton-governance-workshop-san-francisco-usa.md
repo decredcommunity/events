@@ -94,7 +94,7 @@ The group was divided into 5 breakout teams to discuss and flesh out the followi
 
 2. Measurement and Quality: What are the attributes of successful blockchain governance and how can success be measured?
 
-3. Governance of vs by Blockchain: How blockchain systems are governed from how blockchains are employed as governance solutions for the world. How does the internal governance structure of a blockchain platform or community influence its effectiveness for managing resource allocations, asset registries, commercial ecosystems, etc.?
+3. Governance of Blockchain Networks versus Governance leveraging Blockchain solutions: How blockchain systems are governed from how blockchains are employed as governance solutions for the world. How does the internal governance structure of a blockchain platform or community influence its effectiveness for managing resource allocations, asset registries, commercial ecosystems, etc.?
 
 4. Behavioral and Institutional dynamics: How can the insights of economics and related fields help to design decentralized ecosystems? What role do digital assets play in incentive schemes and how can they be linked to the overall network governance? What agency conflicts can arise in multiple protocol and/or stakeholder ecosystems and how can they be identified in the design process? What patterns do projects using token incentives share?
 
@@ -114,12 +114,10 @@ I and a few others on a number of occasions had to interrupt proceedings to stat
 
 #### Photos:
 
-* [building entrance](https://photos.app.goo.gl/b2jyURHiWBcnSNiG6)
-* [session](https://photos.app.goo.gl/qoz7XN6saMNNtrAZ9)
-* [view from the window](https://photos.app.goo.gl/DkNEaFDbobsSXFar5)
+![photo](https://user-images.githubusercontent.com/17677506/60760943-93b9f480-a00c-11e9-8fc1-14590955ba44.jpg "building entrance")
 
-![photo](https://photos.app.goo.gl/b2jyURHiWBcnSNiG6 "building entrance")
+![photo](https://user-images.githubusercontent.com/17677506/60760942-93b9f480-a00c-11e9-88c9-2bdc574e7574.jpg "session")
 
-![photo](https://photos.app.goo.gl/qoz7XN6saMNNtrAZ9 "session")
+![photo](https://user-images.githubusercontent.com/17677506/60760941-93b9f480-a00c-11e9-903a-82596a3800e2.jpeg "session")
 
-![photo](https://photos.app.goo.gl/DkNEaFDbobsSXFar5 "view from the window")
+![photo](https://user-images.githubusercontent.com/17677506/60760940-93b9f480-a00c-11e9-8148-17d0d7780bee.jpg "view from the window")
