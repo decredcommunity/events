@@ -3,7 +3,7 @@ Report by {Akin Sawyerr}.
 #### Info:
 
 * dates: {01 July 2019 - 02 July 2019 (2 days)}
-* location: {(Wharton School of Business), San Fransisco, USA}
+* location: {(Wharton School of Business), San Francisco, USA}
 * event: {https://zicklincenter.wharton.upenn.edu/event/wharton-cryptogovernance-workshop/}
 * site: {https://zicklincenter.wharton.upenn.edu/wp-content/uploads/2019/05/Wharton-Cryptogovernance-Workshop-7-19.pdf}
 * Twitter: {https://twitter.com/kwerb}
@@ -19,7 +19,7 @@ Report by {Akin Sawyerr}.
 
 ## Overview
 
-The event was held at the Wharton Schools of Business' San Fransisco Location at 1 Harrison Street.  Its right next to the San Fransisco-Oakland Bay Bridge.
+The event was held at the Wharton School of Business' San Francisco Location at 1 Harrison Street.  Its right next to the San Francisco-Oakland Bay Bridge.
 
 The event had a diverse audience that included governance experts from crypto communities and academia. This is the full list of attendants: 
 
@@ -52,7 +52,7 @@ The event had a diverse audience that included governance experts from crypto co
 
 ## Details
 
-The event took the format of a roundtable discussion with 2 small group breakout workshops on Day 1 and Day 2 respetively.  
+The event took the format of a roundtable discussion with 2 small group breakout workshops on Day 1 and Day 2 respectively.  
 
 ### The first day's conversations centered around:
 
@@ -61,36 +61,36 @@ The event took the format of a roundtable discussion with 2 small group breakout
 3. Perspectives on Blockchain Governance
 4. Working Group Discussions
 
-We had lively conversations that set the tone for a very interactive event.  Various definitions of governance were put forth and the conversations delved into Governance theory and attempted to reach some consensus around what Givernance is.
+We had lively conversations that set the tone for a very interactive event.  Various definitions of governance were put forth and the conversations delved into Governance theory and attempted to reach some consensus around what Governance is.
 
-A few key questions that emerged from the day were: Can one build scalable governance? Can governance be portable? Can governance be built that is not succitable to plutocracy or some form of capture by the wealthy or powerful?
+A few key questions that emerged from the day were: Can one build scalable governance? Can governance be portable? Can governance be built that is not susceptible to plutocracy or some form of capture by the wealthy or powerful?
 
-There was general agreement that every cryptonetwork has a governance system whether it thinks so or not.  Networks that do not explicity develop and seek to adhere to a self determined governance process will have one imposed on it.
+There was general agreement that every cryptonetwork has a governance system whether it thinks so or not.  Networks that do not explicitly develop and seek to adhere to a self determined governance process will have one imposed on it.
 
 We discussed wide ranging themes on how a governance structure determines the culture that emerges in networks and sets the trajectory of the community.  
 
-It was also determined and agreed to by some that it becomes increasingly harder to impose an explicit governance structure on a community that does not outline a process at its onset, once a system is capured, its very difficult to change governance course.
+It was also determined and agreed to by some that it becomes increasingly harder to impose an explicit governance structure on a community that does not outline a process at its onset, once a system is captured, its very difficult to change governance course.
 
 We spent quite a bit of time trying to define stakeholders. There was a camp that wanted an expansive definition that included all of society and others who wanted in to be more limited to individuals with skin in the game or at least a direct interest in the network (i.e. miners, contractors, token holders etc)
 
-Decred occupied a good portion of airtime dusing the conversation about governance in practice.  The conversation started with a well detailed summary of how the Segwit process went down in the Etherum communty.  This provided the opportunity to contrast Etherum and Decred which I an a number of other participants galdly jumped on.
+Decred occupied a good portion of airtime during the conversation about governance in practice.  The conversation started with a well detailed summary of how the Segwit process went down in the Etherum community.  This provided the opportunity to contrast Etherum and Decred which I an a number of other participants gladly jumped on.
 
-Phrases like: "If Etherum has a clear and transparent governance process like Decred...." were used to highlight the value of an explicit and transparent process (decred) vs an opaque (Etherum) process.
+Phrases like: "If Ethereum has a clear and transparent governance process like Decred...." were used to highlight the value of an explicit and transparent process (Decred) vs an opaque (Ethereum) process.
 
-We talked about the importance of skin in the game and transaprency, delegated governence vs  non-delegared systems, principal - agent problems etc.
+We talked about the importance of skin in the game and transparency, delegated governance vs  non-delegated systems, principal - agent problems etc.
 
-To close out the day there was a spirited conversation on Public blockchains as a public utility.  Issues of social reponsibility, unintended consequences, unacounted for "stakeholders" were discussed.
+To close out the day there was a spirited conversation on Public blockchains as a public utility.  Issues of social responsibility, unintended consequences, unaccounted for "stakeholders" were discussed.
 
 
 ### The second day's conversations centered around
 
 1. Refining and finalizing outputs from working group discussions
-2. Attempting to pull together a blokchain givernance framwork by reaching consensus on key issues
+2. Attempting to pull together a blockchain governance framework by reaching consensus on key issues
 3. Next steps the project should take to advance the state of understanding, and pracice around blockchain governance
 
 The group was divided into 5 breakout teams to discuss and flesh out the following:
 
-1. The context of blockchain governance: The Who? What? When? and Why?, How does blockchain governance differ in permissioned vs permisionsless networks? How blockchain-based contexts differ from traditional software engineering, open source, or corporate governance?
+1. The context of blockchain governance: The Who? What? When? and Why?, How does blockchain governance differ in permissioned vs permissionless networks? How blockchain-based contexts differ from traditional software engineering, open source, or corporate governance?
 
 2. Measurement and Quality: What are the attributes of successful blockchain governance and how can success be measured?
 
@@ -105,13 +105,13 @@ Each group gave a 10 min report out of their conclusions.  These reports can be 
 
 ## Reflection
 
-The overall exprience was eye opening, scary at times, and extremely validating.  It was clear that governance was top of mind for all participants present.  
+The overall experience was eye opening, scary at times, and extremely validating.  It was clear that governance was top of mind for all participants present.  
 
-It was intresting to see how little up front thought a number of projects had put into governance. It was also scary at the same time to see how vulnerable a number of multi-million and multi-billion marketcap networks are.  A number are clearly in a state where they have been captured by powerful interest, and this stands as a major threat to the longevity of these networks.  
+It was intresting to see how little up front thought a number of projects had put into governance. It was also scary at the same time to see how vulnerable a number of multi-million and multi-billion market-cap networks are.  A number are clearly in a state where they have been captured by powerful interests, and this stands as a major threat to the longevity of these networks.  
 
 The cohort of newer projects present all seemed to have or be in the process of rolling out governance on and off chain governance processes.  A number of them made explicit references to Decred as an example they sought to emulate in principle.  
 
-I and a few others on a number of occassions had to interupt proceedings to state that Decred actually had working governance processes that some in the group assumed did not exist in the wild.  I walked away with an even stronger sense of the pionnering role Decred has in the cryptocommunity.  We still have some time to go before the market catces up to understanding just how much has already been accomplished at Decred and the growth path our governance systems are on.
+I and a few others on a number of occasions had to interrupt proceedings to state that Decred actually had working governance processes that some in the group assumed did not exist in the wild.  I walked away with an even stronger sense of the pioneering role Decred has in the cryptocommunity.  We still have some time to go before the market catches up to understanding just how much has already been accomplished at Decred and the growth path our governance systems are on.
 
 #### Photos:
 
