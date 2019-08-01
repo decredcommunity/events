@@ -86,3 +86,17 @@ These following contacts could be used in the next Decred projects in Vietnam.
 - 2 coin investors (I will contact them via email): Scott Boyajian and Pham Cuong (CEO of Happy Life joint-stock company)
 
 ##Photos
+
+![2627-1](https://github.com/duyenemdo/events/blob/master/2627-2.jpg)
+
+![2627-2](https://github.com/duyenemdo/events/blob/master/2627-3.jpg)
+
+![2627-3](https://github.com/duyenemdo/events/blob/master/2627.jpg)
+
+![28-1](https://github.com/duyenemdo/events/blob/master/2807-1.jpg)
+
+![28-2](https://github.com/duyenemdo/events/blob/master/2807-2.jpg)
+
+![28-3](https://github.com/duyenemdo/events/blob/master/2807-3.jpg)
+
+![28-4](https://github.com/duyenemdo/events/blob/master/2807-4.jpg)
