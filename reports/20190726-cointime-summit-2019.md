@@ -3,16 +3,22 @@ COINTIME SUMMIT 2019, VIETNAM
 Reeport by Duyen Em.
 
 ##Info
-- Dates: 25-26/07/2019 & 28/07/2019.
-- Locations: Equatorial HoTel, District 5, Ho Chi Minh City, Vietnam & Dreamplex, 195 Dien Bien Phu, Binh Thanh District, Ho Chi Minh city, Vietnam.
-- Events: Cointime Summit 2019 & Vietnam Staking Economy.
+* The first event:
+- Date: 25-26/07/2019.
+- Location: Equatorial HoTel, District 5, Ho Chi Minh City, Vietnam.
+- Event: Cointime Summit 2019.
 - Visitors: ~100.
+* The sencond event:
+- Date: 28/07/2019.
+- Location:Dreamplex, 195 Dien Bien Phu, Binh Thanh District, Ho Chi Minh city, Vietnam.
+- Event: Vietnam Staking Economy.
+- Visitors: ~80.
 
 ##Decred presence
 - Attendees: Duyen Em, Viet Anh.
 
 ##Details
-* Day 1:
+* Day 1 (25/07/2019 - Cointime Summit 2019):
 - Ecological Investment in Blockchain Industry (DuJun- Founding Partner of Node Capital)
 - Mid-2019 Outlook: The 10 Biggest Trends in Blockchain (Hubery Yuan - Head of Huobi Research)
 - Building Decentralized Storage Platform on Blockchain (Raymond Fu - Founder and CEO of Filestorm, CPO of MOAC)
@@ -27,7 +33,7 @@ Reeport by Duyen Em.
 - Stable tokens, from Stella to Staking to Project Libra (Micheal Ran - Stellar Head pf Technical Department)
 - Explore the Road to Mass Adoption of Blockchain from the Southest Asia - Exchanges' Perspective (Cary - IDAX Co-Founder, coinbucks Founder; Johny Lyu - VP & Co-Founder of Kucoin; Christian Hsieh - CEO of Tokenomy; Dominick Weil - Co-Founder of BitCoinVn; Lynn Hoang - Pertner of Remitano & Co-chair of BlockchainAngles)
 - Viewing Vietnam Blockchain Development - Potential from the Perspective of Community - Operation and Management (Nhat Quang - COO of VIC Group; Susan Pham - Vietnam Head Country of Infinito; Nguyen Bui - Director Parnership of Tomochain; Zane - Founder of Coin68)
-* Day 2:
+* Day 2 (26/07/2019 - Cointime Summit 2019):
 - The analysis of blockchain development and cryto currency investment trend (Next Lin - LinkVC Founder)
 - The Charm of Gold-backed Cryptocurrency (Quyang Yun - CEO of Goldlinks)
 - Homecoming - From Globalization to Asia Market - DFG's Asia Strategies (James Wo - founder of DFG)
@@ -41,7 +47,7 @@ Reeport by Duyen Em.
 - Classic guide of mining (Xin Tian - Co-founder of Antpool)
 - HPT - Constructing new Mining Ecology (CaoFei - Huobi pool Founder)
 - How Can Blockchain Technology Transform or Upgrade Traditional Industries? (Benjamin Soong - Head of Asia Pacific of Ledger; Tony Gu - Founding Parner of NGC; Robert Vong - Co-founder of Elefos; Dang Manh Nguyen - KOL of BTS Group; Xion Yidan - Co-founder of BeeCast)
-* Day 3:
+* Day 3 (28/07/2019 - Vietnam Staking Economy):
 - What is staking?
 - Introduce about Bitcoin: Bitcoin is digital money. The future of finance is decentralized  (Mr.John - Bitcoin magazine)
 - Sen-ecosystem (lee quang tuan - director of senpoint)
@@ -54,11 +60,12 @@ Reeport by Duyen Em.
 - Joeri van Geelen, Founder and CEO of Build Blocks Group, when talked a bout Decred :"awesome project! I have invested in Decred for a long time (2 years and a half)".
 - However, Vietnamese speakers does not know about Decred. 
 
-* About the conference: 
+* About the first event:
 - It was presentations right after presentations. There was no room for us to speak out or to reach to the audiences but had to do it individually.
 - Almost all of the coins which are mentioned in the conference are in lower ranks in comparison to Decred. But their community is really big and active in Ho Chi Minh City.  "Our community has meeting every week"
 - Most of the speakers talked about the potential of Vietnamese market. They all believe in the bright future of crytocurrency here. 
-- Smart strategies: download hushkeyhub and receive tomo via airdrop (2rounds to keep people stay till the end); answer questions and get airdrop
+* About the second event:
+- Smart strategies: download hushkeyhub and receive tomo via airdrop (2rounds to keep people stay till the end); answer questions and get airdrop. That we can learn from them.
 - International blockchain week - the biggest event about blockchain in China - is coming. Dcr team in China should go. 
 - There were too many people but I could not talk to all of them. I had 1 hour in break time to make contacts.
 
@@ -77,9 +84,11 @@ Ideas:
 
 ##Contacts made:
 These following contacts could be used in the next Decred projects in Vietnam.
+* The first event:
 - Nguyen Bui, Director Parnership of Tomochain, Telegram: @nguyen5
 - Joeri Van Geelen, Founder & CEO of Build Blocks Group, Telegram: @Joppasss
 - Quyen Dang, KOL of BTS Group, Telegram: @Quyen
+* The second event:
 - A group of young people (added in Decred Vietnam's Telegram)
 - 2 more people from KTS Vietnam (added in Decred Vietnam's Telegram)
 - Ly Minh, the one Tomochain's Director Partnership called "professor in blockchain".
