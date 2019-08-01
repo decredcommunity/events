@@ -115,6 +115,8 @@ Almost all of the coins which are mentioned in the conference are in lower ranks
 
 Most of the speakers talked about the potential of Vietnamese market. They all believe in the bright future of crytocurrency here. 
 
+Postcard, Trifold, Sticker, each was given out 23 copies. 
+
 * About the second event:
 
 Smart strategies: download hushkeyhub and receive tomo via airdrop (2rounds to keep people stay till the end); answer questions and get airdrop. That we can learn from them.
@@ -122,6 +124,8 @@ Smart strategies: download hushkeyhub and receive tomo via airdrop (2rounds to k
 International blockchain week - the biggest event about blockchain in China - is coming. Dcr team in China should go. 
 
 There were too many people but I could not talk to all of them. I had 1 hour in break time to make contacts.
+
+Postcard, Trifold, Sticker, each was given out 35 copies. 
 
 * Host our own conference. 
 
@@ -149,7 +153,7 @@ Mr Joeri Van Geelen, Founder & CEO of Build Blocks Group, offered to contribute 
 
 We have doubled our members to 30 people from different areas in the @decredvietnam telegram group. 
 
-After the events, we came up with future strategy which is to continue with the new partnerships in Ho Chi Minh City as well as continue to expand in Hanoi by some contacts we made with. They are interested in partnering with Decred and help our community grow strongly in both the North and South of Vietnam. These following contacts could also help with that and be used in the next Decred projects in Vietnam.
+After the events, we came up with future strategy which is to continue with the new partnerships in Ho Chi Minh City as well as continue to expand in Hanoi by some contacts we made with (KTS Group: http://ktsgroup.io - https://www.facebook.com/groups/TienSo/). They are interested in partnering with Decred and help our community grow strongly in both the North and South of Vietnam. These following contacts could also help with that and be used in the next Decred projects in Vietnam.
 
 ## Contact:
 
@@ -159,7 +163,7 @@ Nguyen Bui, Director Parnership of Tomochain, Telegram: @nguyen5
 
 Joeri Van Geelen, Founder & CEO of Build Blocks Group, Telegram: @Joppasss
 
-Quyen Dang, KOL of BTS Group, Telegram: @Quyen
+Quyen Dang, KOL of BTS Group (KTS Group: http://ktsgroup.io - https://www.facebook.com/groups/TienSo/), Telegram: @Quyen
 
 * The second event:
 
