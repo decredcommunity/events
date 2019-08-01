@@ -123,7 +123,7 @@ Smart strategies: download hushkeyhub and receive tomo via airdrop (2rounds to k
 
 International blockchain week - the biggest event about blockchain in China - is coming. Dcr team in China should go. 
 
-There were too many people but I could not talk to all of them. I had 1 hour in break time to make contacts.
+I had 1 hour in break time to make contacts, a lot of young people actively talked to me, asked me questions while I was talking to others about about Decred. Many others curiously looked at the Decred T-shirt. They might know or want to know more about Decred. 
 
 * Host our own conference. 
 
