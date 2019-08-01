@@ -14,10 +14,10 @@ Reeport by Duyen Em.
 - Event: Vietnam Staking Economy.
 - Visitors: ~80.
 
-##Decred presence
+## Decred presence
 - Attendees: Duyen Em, Viet Anh.
 
-##Details
+## Details
 * Day 1 (25/07/2019 - Cointime Summit 2019):
 - Ecological Investment in Blockchain Industry (DuJun- Founding Partner of Node Capital)
 - Mid-2019 Outlook: The 10 Biggest Trends in Blockchain (Hubery Yuan - Head of Huobi Research)
@@ -53,7 +53,7 @@ Reeport by Duyen Em.
 - Sen-ecosystem (lee quang tuan - director of senpoint)
 - Staking on PoW (Ivy Qi - Marketing Director of Conflux)
 
-##Reflection
+## Reflection
 
 * Guest speakers talked about Decred: 
 - Kin, guest speaker, tomochain team member, said "decred is awesome, of course everyone here (vietnam) will know about it.". "I really like Decred. I have followed it since 2017."
@@ -82,7 +82,7 @@ Ideas:
 * About our postcards and trifolds, we should have QR code on our postcards and trifords. It must be much more easier to reach to our sites. 
 * About our team: Vietnamese team is too small (only 2 people) while Decred deserves a so much bigger community. I propose a pressing request to grow a proper Vietnamese community and to host a real conference of our own in the near future. 
 
-##Contacts made:
+## Contacts made:
 These following contacts could be used in the next Decred projects in Vietnam.
 * The first event:
 - Nguyen Bui, Director Parnership of Tomochain, Telegram: @nguyen5
@@ -94,7 +94,7 @@ These following contacts could be used in the next Decred projects in Vietnam.
 - Ly Minh, the one Tomochain's Director Partnership called "professor in blockchain".
 - 2 coin investors (I will contact them via email): Scott Boyajian and Pham Cuong (CEO of Happy Life joint-stock company)
 
-##Photos
+## Photos
 
 ![26273](https://github.com/duyenemdo/events/blob/master/2627.jpg)
 
