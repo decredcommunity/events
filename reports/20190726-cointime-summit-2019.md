@@ -1,6 +1,6 @@
-** COINTIME SUMMIT 2019, VIETNAM
+## COINTIME SUMMIT 2019, VIETNAM
 
-Reeport by Duyen Em.
+Report by Duyen Em.
 
 ## Info
 * The first event:
