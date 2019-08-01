@@ -8,7 +8,7 @@ Report by Duyen Em.
 - Location: Equatorial HoTel, District 5, Ho Chi Minh City, Vietnam.
 - Event: Cointime Summit 2019.
 - Visitors: ~100.
-* The sencond event:
+* The second event:
 - Date: 28/07/2019.
 - Location:Dreamplex, 195 Dien Bien Phu, Binh Thanh District, Ho Chi Minh city, Vietnam.
 - Event: Vietnam Staking Economy.
