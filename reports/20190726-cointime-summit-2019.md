@@ -64,6 +64,7 @@ Reeport by Duyen Em.
 
 * Host our own conference. 
 Because:
+- Next time we should plan to have a booth so we can get more attention.
 - Many Vietnamese young people are interested in coin market
 Ideas: 
 - We should host one in Hanoi and one in Ho Chi Minh city. If we do it in a university, I can help with that. Last year, our law research club invited a ministry of justice staff come to teach about cryptocurrency, there were almost 200 students join and they asked a lot of questions. They were all interested in the topic.
