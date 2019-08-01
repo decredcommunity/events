@@ -1,8 +1,8 @@
-**COINTIME SUMMIT 2019, VIETNAM
+** COINTIME SUMMIT 2019, VIETNAM
 
 Reeport by Duyen Em.
 
-##Info
+## Info
 * The first event:
 - Date: 25-26/07/2019.
 - Location: Equatorial HoTel, District 5, Ho Chi Minh City, Vietnam.
