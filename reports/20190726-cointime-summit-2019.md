@@ -4,9 +4,11 @@ Report by Duyen Em.
 
 ## Info
 * The first event:
-- Date: 2019/07/25 & 2019/07/26.
-- Location: Equatorial HoTel, District 5, Ho Chi Minh City, Vietnam.
-- Event: Cointime Summit 2019.
+Date: 2019/07/25 & 2019/07/26.
+
+Location: Equatorial HoTel, District 5, Ho Chi Minh City, Vietnam.
+
+Event: Cointime Summit 2019.
 - Visitors: ~100.
 * The second event:
 - Date: 2019/07/28.
