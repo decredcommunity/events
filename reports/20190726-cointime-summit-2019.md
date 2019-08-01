@@ -96,11 +96,11 @@ These following contacts could be used in the next Decred projects in Vietnam.
 
 ##Photos
 
-![26271](https://github.com/duyenemdo/events/blob/master/2627-2.jpg)
+![26273](https://github.com/duyenemdo/events/blob/master/2627.jpg)
 
 ![26272](https://github.com/duyenemdo/events/blob/master/2627-3.jpg)
 
-![26273](https://github.com/duyenemdo/events/blob/master/2627.jpg)
+![26271](https://github.com/duyenemdo/events/blob/master/2627-2.jpg)
 
 ![281](https://github.com/duyenemdo/events/blob/master/2807-1.jpg)
 
