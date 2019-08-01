@@ -41,11 +41,9 @@ Reeport by Duyen Em.
 - Classic guide of mining (Xin Tian - Co-founder of Antpool)
 - HPT - Constructing new Mining Ecology (CaoFei - Huobi pool Founder)
 - How Can Blockchain Technology Transform or Upgrade Traditional Industries? (Benjamin Soong - Head of Asia Pacific of Ledger; Tony Gu - Founding Parner of NGC; Robert Vong - Co-founder of Elefos; Dang Manh Nguyen - KOL of BTS Group; Xion Yidan - Co-founder of BeeCast)
-
 * Day 3:
 - What is staking?
 - Introduce about Bitcoin: Bitcoin is digital money. The future of finance is decentralized  (Mr.John - Bitcoin magazine)
--  (Hashkey digital asset group)
 - Sen-ecosystem (lee quang tuan - director of senpoint)
 - Staking on PoW (Ivy Qi - Marketing Director of Conflux)
 
