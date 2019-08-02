@@ -154,6 +154,10 @@ How far we got:
 
 * After the events, we came up with future strategy which is to continue with the new partnerships in Ho Chi Minh City as well as continue to expand in Hanoi by some contacts we made with (KTS Group: http://ktsgroup.io - https://www.facebook.com/groups/TienSo/). They are interested in partnering with Decred and help our community grow strongly in both the North and South of Vietnam. These following contacts could also help with that and be used in the next Decred projects in Vietnam.
 
+* Decred Vietnam's facebook page: https://www.facebook.com/Decred-DCR-Vietnam-108991833777572/ 
+
+* Decred Vietnam's Twitter account: https://twitter.com/DecredVietnam
+
 ## Contact:
 
 Cointime Summit 2019:
