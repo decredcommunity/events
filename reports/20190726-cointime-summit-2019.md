@@ -4,29 +4,33 @@ Report by Duyen Em.
 
 ## Info
 
-The first event:
+Cointime Summit 2019
 
 * Date: 2019/07/25 & 2019/07/26.
 
 * Location: Equatorial HoTel, District 5, Ho Chi Minh City, Vietnam.
 
-* Event: Cointime Summit 2019.
-
 * Visitors: ~100.
 
-The second event:
+Vietnam Staking Economy
 
 * Date: 2019/07/28.
 
 * Location:Dreamplex, 195 Dien Bien Phu, Binh Thanh District, Ho Chi Minh city, Vietnam.
 
-* Event: Vietnam Staking Economy.
-
 * Visitors: ~80.
 
 ## Decred presence
 
-Attendees: Duyen Em, Viet Anh.
+* Attendees: Duyen Em, Viet Anh.
+
+## Swag
+
+* 58 trifolds
+
+* 58 postcards
+
+* 80 stickers
 
 ## Details
 
@@ -180,16 +184,26 @@ Vietnam Staking Economy:
 
 ## Photos
 
-![283](https://github.com/duyenemdo/events/blob/master/2807-3.jpg)
+![283](https://github.com/duyenemdo/events/blob/master/image/2807-3.jpg)
 
-![282](https://github.com/duyenemdo/events/blob/master/2807-2.jpg)
+![282](https://github.com/duyenemdo/events/blob/master/image/2807-2.jpg)
 
-![26273](https://github.com/duyenemdo/events/blob/master/2627.jpg)
+![26273](https://github.com/duyenemdo/events/blob/master/image/2627.jpg)
 
-![26272](https://github.com/duyenemdo/events/blob/master/2627-3.jpg)
+![26272](https://github.com/duyenemdo/events/blob/master/image/2627-3.jpg)
 
-![26271](https://github.com/duyenemdo/events/blob/master/2627-2.jpg)
+![26271](https://github.com/duyenemdo/events/blob/master/image/2627-2.jpg)
 
-![281](https://github.com/duyenemdo/events/blob/master/2807-1.jpg)
+![281](https://github.com/duyenemdo/events/blob/master/image/2807-1.jpg)
 
-![284](https://github.com/duyenemdo/events/blob/master/2807-4.jpg)
+![284](https://github.com/duyenemdo/events/blob/master/image/2807-4.jpg)
+
+![material1](https://github.com/duyenemdo/events/blob/master/image/photo_2019-08-02_11-55-26.jpg)
+
+![material2](https://github.com/duyenemdo/events/blob/master/image/photo_2019-08-02_11-55-22.jpg)
+
+![material3](https://github.com/duyenemdo/events/blob/master/image/photo_2019-08-02_11-57-50.jpg)
+
+![material4](https://github.com/duyenemdo/events/blob/master/image/photo_2019-08-02_11-55-14.jpg)
+
+![material5](https://github.com/duyenemdo/events/blob/master/image/photo_2019-08-02_11-57-47.jpg)
