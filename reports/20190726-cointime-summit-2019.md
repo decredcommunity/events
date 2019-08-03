@@ -1,8 +1,8 @@
-### Cointime Summit 2019, Vietnam.
+## Cointime Summit 2019, Vietnam.
 
 Report by Duyen Em.
 
-## Info
+### Info
 
 Cointime Summit 2019
 
@@ -20,11 +20,11 @@ Vietnam Staking Economy
 
 * Visitors: ~80.
 
-## Decred presence
+### Decred presence
 
 * Attendees: Duyen Em, Viet Anh.
 
-## Swag
+### Swag
 
 * 58 trifolds
 
@@ -32,7 +32,7 @@ Vietnam Staking Economy
 
 * 80 stickers
 
-## Details
+### Details
 
 Day 1 (2019/07/25 - Cointime Summit 2019):
 
@@ -102,7 +102,7 @@ Day 3 (2019/07/28 - Vietnam Staking Economy):
 
 * Staking on PoW (Ivy Qi - Marketing Director of Conflux)
 
-## Reflection
+### Reflection
 
 Guest speakers talked about Decred: 
 
@@ -162,7 +162,7 @@ How far we got:
 
 * Decred Vietnam's Twitter account: https://twitter.com/DecredVietnam
 
-## Contact:
+### Contact:
 
 Cointime Summit 2019:
 
@@ -182,7 +182,7 @@ Vietnam Staking Economy:
 
 * 2 coin investors (I will contact them via email): Scott Boyajian and Pham Cuong (CEO of Happy Life joint-stock company)
 
-## Photos
+### Photos
 
 ![283](https://github.com/duyenemdo/events/blob/master/image/2807-3.jpg)
 
