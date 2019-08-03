@@ -1,4 +1,4 @@
-## Cointime Summit 2019, Vietnam.
+### Cointime Summit 2019, Vietnam.
 
 Report by Duyen Em.
 
