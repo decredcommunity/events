@@ -186,30 +186,30 @@ Vietnam Staking Economy:
 
 Cointime Summit 2019:
 
-![26273](https://github.com/duyenemdo/events/blob/master/image/2627.jpg)
+![Cointime Summit 2019](https://pbs.twimg.com/media/EA8EloKUYAAqore.jpg)
 
-![26271](https://github.com/duyenemdo/events/blob/master/image/2627-2.jpg)
+![Cointime Summit 2019](https://pbs.twimg.com/media/EA8EloJUcAEHkEz.jpg)
 
-![26272](https://github.com/duyenemdo/events/blob/master/image/2627-3.jpg)
+![Cointime Summit 2019](https://pbs.twimg.com/media/EA8EloLVUAAeF3D.jpg)
 
 Vietnam Staking Economy:
 
-![283](https://github.com/duyenemdo/events/blob/master/image/2807-3.jpg)
+![Vietnam Staking Economy](https://pbs.twimg.com/media/EA8GMDLUYAA9CHj.jpg)
 
-![282](https://github.com/duyenemdo/events/blob/master/image/2807-2.jpg)
+![Vietnam Staking Economy](https://pbs.twimg.com/media/EA8GMDTVUAAB0Ig.jpg)
 
-![281](https://github.com/duyenemdo/events/blob/master/image/2807-1.jpg)
+![Vietnam Staking Economy](https://pbs.twimg.com/media/EA8GMDNUIAANYD0.jpg)
 
-![284](https://github.com/duyenemdo/events/blob/master/image/2807-4.jpg)
+![Vietnam Staking Economy](https://pbs.twimg.com/media/EA8GMDSU4AEG4Zr.jpg)
 
 Swag:
 
-![material1](https://github.com/duyenemdo/events/blob/master/image/photo_2019-08-02_11-55-26.jpg)
+![Vietnamese handouts](https://user-images.githubusercontent.com/24484727/62710059-1fe18200-b9e6-11e9-9eaa-06bb1a8be921.jpg)
 
-![material2](https://github.com/duyenemdo/events/blob/master/image/photo_2019-08-02_11-55-22.jpg)
+![Vietnamese handouts](https://user-images.githubusercontent.com/24484727/62710061-1fe18200-b9e6-11e9-83a0-df234e50c996.jpg)
 
-![material3](https://github.com/duyenemdo/events/blob/master/image/photo_2019-08-02_11-57-50.jpg)
+![Vietnamese handouts](https://user-images.githubusercontent.com/24484727/62710063-1fe18200-b9e6-11e9-958a-0764d4678510.jpg)
 
-![material4](https://github.com/duyenemdo/events/blob/master/image/photo_2019-08-02_11-55-14.jpg)
+![Vietnamese handouts](https://user-images.githubusercontent.com/24484727/62710066-207a1880-b9e6-11e9-9838-77c84451db5d.jpg)
 
-![material5](https://github.com/duyenemdo/events/blob/master/image/photo_2019-08-02_11-57-47.jpg)
+![Vietnamese handouts](https://user-images.githubusercontent.com/24484727/62710068-207a1880-b9e6-11e9-861f-bfdaaf4bc951.jpg)
