@@ -184,19 +184,25 @@ Vietnam Staking Economy:
 
 ### Photos
 
+Cointime Summit 2019:
+
+![26273](https://github.com/duyenemdo/events/blob/master/image/2627.jpg)
+
+![26271](https://github.com/duyenemdo/events/blob/master/image/2627-2.jpg)
+
+![26272](https://github.com/duyenemdo/events/blob/master/image/2627-3.jpg)
+
+Vietnam Staking Economy:
+
 ![283](https://github.com/duyenemdo/events/blob/master/image/2807-3.jpg)
 
 ![282](https://github.com/duyenemdo/events/blob/master/image/2807-2.jpg)
 
-![26273](https://github.com/duyenemdo/events/blob/master/image/2627.jpg)
-
-![26272](https://github.com/duyenemdo/events/blob/master/image/2627-3.jpg)
-
-![26271](https://github.com/duyenemdo/events/blob/master/image/2627-2.jpg)
-
 ![281](https://github.com/duyenemdo/events/blob/master/image/2807-1.jpg)
 
 ![284](https://github.com/duyenemdo/events/blob/master/image/2807-4.jpg)
+
+Swag:
 
 ![material1](https://github.com/duyenemdo/events/blob/master/image/photo_2019-08-02_11-55-26.jpg)
 
