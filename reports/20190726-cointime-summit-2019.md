@@ -123,18 +123,21 @@ How far we got:
 
 ## Contacts
 
+Contacts with several groups have been made. Contact Duyen Em for more info.
+
 Cointime Summit 2019:
 
-* Nguyen Bui, Director Parnership of TomoChain, Telegram: @nguyen5
-* Joeri Van Geelen, Founder & CEO of Build Blocks Group, Telegram: @Joppasss
-* Quyen Dang, KOL of BTS Group ([KTS Group](http://ktsgroup.io) - [Kiem Tien So](https://www.facebook.com/groups/TienSo/)), Telegram: @Quyen
+* Director Parnership of TomoChain
+* Founder & CEO of Build Blocks Group
+* KOL of BTS Group ([KTS Group](http://ktsgroup.io) - [Kiem Tien So](https://www.facebook.com/groups/TienSo/))
 
 Vietnam Staking Economy:
 
 * A group of young people (added in @decredvietnam Telegram)
 * 2 more people from KTS Vietnam (added in @decredvietnam Telegram)
-* Ly Minh, the one TomoChain's Director Partnership called "professor in blockchain"
-* 2 coin investors (I will contact them via email): Scott Boyajian and Pham Cuong (CEO of Happy Life joint-stock company)
+* Another TomoChain's Director Partnership
+* CEO of Happy Life joint-stock company
+* 2 coin investors
 
 ## Media
 
