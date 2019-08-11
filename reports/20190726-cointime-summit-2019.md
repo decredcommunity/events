@@ -8,12 +8,14 @@ Cointime Summit 2019:
 
 * dates: 25 July 2019 - 26 July 2019 (2 days)
 * location: Hotel Equatorial, District 5, Ho Chi Minh City, Vietnam
+* event links: [Facebook](https://www.facebook.com/events/2400009453610808/)
 * visitors: ~100
 
 Vietnam Staking Economy:
 
 * dates: 28 July 2019
 * location: Dreamplex, 195 Dien Bien Phu, Binh Thanh District, Ho Chi Minh City, Vietnam
+* event links: [Facebook](https://www.facebook.com/events/dreamplex-2/vietnam-staking-economy/2251343728284813/)
 * visitors: ~80
 
 #### Decred presence:
@@ -94,7 +96,7 @@ About Vietnam Staking Economy:
 
 * International blockchain week - the biggest event about blockchain in China - is coming. Decred team in China should go.
 
-* I had 1 hour in break time to make contacts, a lot of young people actively talked to me, asked me questions while I was talking to others about about Decred. Many others curiously looked at the Decred T-shirt. They might know or want to know more about Decred.
+* I had 1 hour in break time to make contacts, a lot of young people actively talked to me, asked me questions while I was talking to others about Decred. Many others curiously looked at the Decred T-shirt. They might know or want to know more about Decred.
 
 Host our own conference.
 
@@ -130,7 +132,7 @@ Cointime Summit 2019:
 
 * Nguyen Bui, Director Parnership of TomoChain, Telegram: @nguyen5
 * Joeri Van Geelen, Founder & CEO of Build Blocks Group, Telegram: @Joppasss
-* Quyen Dang, KOL of BTS Group (([KTS Group](http://ktsgroup.io) - [Kiem Tien So](https://www.facebook.com/groups/TienSo/)), Telegram: @Quyen
+* Quyen Dang, KOL of BTS Group ([KTS Group](http://ktsgroup.io) - [Kiem Tien So](https://www.facebook.com/groups/TienSo/)), Telegram: @Quyen
 
 Vietnam Staking Economy:
 
@@ -141,9 +143,14 @@ Vietnam Staking Economy:
 
 ## Media
 
+#### Social media:
+
+* Cointime Summit 2019: [Facebook](https://www.facebook.com/permalink.php?story_fbid=109008563775899&id=108991833777572), [Twitter](https://twitter.com/DecredVietnam/status/1157148709236305921)
+* Vietnam Staking Economy: [Facebook](https://www.facebook.com/permalink.php?story_fbid=109014860441936&id=108991833777572), [Twitter](https://twitter.com/DecredVietnam/status/1157150461947813888)
+
 #### Photos:
 
-[Cointime Summit 2019](https://twitter.com/DecredVietnam/status/1157148709236305921):
+Cointime Summit 2019:
 
 ![Cointime Summit 2019](https://pbs.twimg.com/media/EA8EloKUYAAqore.jpg)
 
@@ -151,7 +158,7 @@ Vietnam Staking Economy:
 
 ![Cointime Summit 2019](https://pbs.twimg.com/media/EA8EloLVUAAeF3D.jpg)
 
-[Vietnam Staking Economy](https://twitter.com/DecredVietnam/status/1157150461947813888):
+Vietnam Staking Economy:
 
 ![Vietnam Staking Economy](https://pbs.twimg.com/media/EA8GMDLUYAA9CHj.jpg)
 
