@@ -1,11 +1,11 @@
-# Decred Privacy presentation in Amsterdam
+# Decred Privacy Presentation in Amsterdam, Netherlands
 
 Event report by @Haon
 
 #### Info:
 
 * date: 10 September 2019
-* location: [Meet Berlage](https://meetberlage.com/welcome/en/), Amsterdam, the Netherlands
+* location: [Meet Berlage](https://meetberlage.com/welcome/en/), Amsterdam, Netherlands
 * event link: [Decred Privacy presentation](https://www.meetup.com/Permissionless-Society/events/dnkzvqyzmbnb/)
 * visitors: 15 people signed up, 15 people attended
 
@@ -22,7 +22,7 @@ Event report by @Haon
 
 ## Overview
 
-With the release of the new privacy features, Decred contributors were asked to organize local meetups and spread the news. Amsterdam has an active crypto community, so I decided to join forces with an existing meetup that organizes blockchain events and co-working days. The event venue was located very close to the central station so people from different cities could attend as well. 
+With the release of the new privacy features, Decred contributors were asked to organize local meetups and spread the news. Amsterdam has an active crypto community, so I decided to join forces with an existing meetup that organizes blockchain events and co-working days. The event venue was located very close to the central station so people from different cities could attend as well.
 
 ## Event description
 
@@ -35,6 +35,7 @@ It was great to reconnect with the Dutch crypto community. There is a lot of int
 ## Media
 
 The event was announced in several Telegram groups as well as on Twitter:
+
 - https://twitter.com/BlockDAM_DAO/status/1169575344728395777
 - https://twitter.com/NoahPierau/status/1169590315709292546
 - https://twitter.com/NoahPierau/status/1170198038301855745
@@ -44,13 +45,12 @@ The event was announced in several Telegram groups as well as on Twitter:
 - https://twitter.com/bvanmaarseveen/status/1171408446387838978
 - https://twitter.com/blockblanc/status/1171412052180529152
 - https://twitter.com/plucoinz/status/1171857002823184384
-
-The @decredproject account retweeted [this Twitter thread](https://twitter.com/NoahPierau/status/1171527613732417540).
+- https://twitter.com/NoahPierau/status/1171527613732417540 (retweeted by @decredproject)
 
 #### Photos:
 
-![photo of the audience](https://pbs.twimg.com/media/EEIaJVsUEAYV92r?format=jpg "audience")
+![photo of the audience](https://pbs.twimg.com/media/EEIaJVsUEAYV92r.jpg "audience")
 
-![photo from the back](https://pbs.twimg.com/media/EEIaK4VVUAMcqaa?format=jpg "perspective")
+![photo from the back](https://pbs.twimg.com/media/EEIaK4VVUAMcqaa.jpg "perspective")
 
-![photo of the presentation](https://pbs.twimg.com/media/EEIaKSSU4AEw8HG?format=jpg "presentation")
+![photo of the presentation](https://pbs.twimg.com/media/EEIaKSSU4AEw8HG.jpg "presentation")
