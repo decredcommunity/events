@@ -146,3 +146,11 @@ People reading this ideally should understand that often at public blockchain ev
 
 2. Be open, friendly, interested and interesting to everyone you speak with, spending most of your time after the main event working the room, primarily attending to the most impactful people to lay the foundations for follow-up work conducive to the enhancement of Decred.
 
+## Photos
+![](https://github.com/PrimeDominus/decred-photos/blob/master/IMG_20190918_210308_982.jpg?raw=true)
+![](https://github.com/PrimeDominus/decred-photos/blob/master/IMG-20190918-WA0014.jpg?raw=true)
+![](https://github.com/PrimeDominus/decred-photos/blob/master/IMG-20190918-WA0011.jpg?raw=true)
+![](https://github.com/PrimeDominus/decred-photos/blob/master/IMG-20190918-WA0009.jpg?raw=true)
+![](https://github.com/PrimeDominus/decred-photos/blob/master/IMG-20190918-WA0008.jpg?raw=true)
+![](https://github.com/PrimeDominus/decred-photos/blob/master/IMG-20190918-WA0007.jpg?raw=true)
+![](https://github.com/PrimeDominus/decred-photos/blob/master/temp_image_20190918_191116_f684c312-e02f-4f24-ade8-123baef8126d_6217926640909553223.jpg?raw=true)
