@@ -4,6 +4,8 @@ Report by @eSizeDave
 
 #### Info:
 
+* date: 18 September 2019
+* location: Stone & Chalk, Melbourne, Australia
 * event: https://www.meetup.com/BlockchainMelbourne/events/264425160/
 * attendance: easily over 100 people
 
