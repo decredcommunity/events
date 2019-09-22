@@ -1,4 +1,4 @@
-# The Great Bitcoin vs. Blockchain Debate + Exchange Tour in Melbourne, Australia
+# The Great Bitcoin vs Blockchain Debate and Exchange Tour in Melbourne, Australia
 
 Report by @eSizeDave
 
