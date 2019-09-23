@@ -4,23 +4,23 @@ Report by @pablito
 
 #### Info:
 
-- date: 05 September 2019
-- location: Montevideo, Uruguay
-- event: https://www.eventbrite.com/e/blockchain-summit-uruguay-en-streaming-hd-tickets-69890565563
-- site: https://blockchainsummit.uy/
-- Twitter: https://twitter.com/SummitUruguay
-- visitors: ~200 (estimated)
+* date: 05 September 2019
+* location: Montevideo, Uruguay
+* event: https://www.eventbrite.com/e/blockchain-summit-uruguay-en-streaming-hd-tickets-69890565563
+* site: https://blockchainsummit.uy/
+* Twitter: https://twitter.com/SummitUruguay
+* visitors: ~200 (estimated)
 
 #### Decred presence:
 
-- attendees: @camilolwi (speaker), @pablito (social media/production)
+* attendees: @camilolwi (speaker), @pablito (social media/production)
 
 #### Swag:
 
-- 20 shirts
-  - 10 DCR shirts
-  - 10 Stakey shirts
-- 500+ stickers
+* 20 shirts
+  * 10 DCR shirts
+  * 10 Stakey shirts
+* 500+ stickers
 
 ## Overall experience
 
@@ -40,17 +40,17 @@ We could use a more general presentation focused on Online Decentralized Governm
 
 ## Media
 
-- CoinTelegraph Español [interview](https://es.cointelegraph.com/news/it-is-estimated-that-decred-cryptocurrency-moves-about-usd-4-million-per-day-in-transactions) titled "Se estima que la criptomoneda Decred mueve unos USD 4 millones por día en transacciones" (English: "It is estimated that Decred cryptocurrency moves about USD 4 million per day in transactions")
+* CoinTelegraph Español [interview](https://es.cointelegraph.com/news/it-is-estimated-that-decred-cryptocurrency-moves-about-usd-4-million-per-day-in-transactions) titled "Se estima que la criptomoneda Decred mueve unos USD 4 millones por día en transacciones" (English: "It is estimated that Decred cryptocurrency moves about USD 4 million per day in transactions")
 
 #### Social media:
 
-- announcement: https://twitter.com/cryptorocketok/status/1169641617474633728
-- https://twitter.com/Decred_ES/status/1169622627771723781
-- https://twitter.com/Decred_ES/status/1169622769635647489
-- https://twitter.com/cryptorocketok/status/1169610933418844160
-- https://twitter.com/Decred_ES/status/1170082007537160192
-- https://twitter.com/Decred_ES/status/1169632625134198784
-- swag: https://www.instagram.com/p/B16fAo7l0pg/
+* announcement: https://twitter.com/cryptorocketok/status/1169641617474633728
+* https://twitter.com/Decred_ES/status/1169622627771723781
+* https://twitter.com/Decred_ES/status/1169622769635647489
+* https://twitter.com/cryptorocketok/status/1169610933418844160
+* https://twitter.com/Decred_ES/status/1170082007537160192
+* https://twitter.com/Decred_ES/status/1169632625134198784
+* swag: https://www.instagram.com/p/B16fAo7l0pg/
 
 #### Photos:
 
