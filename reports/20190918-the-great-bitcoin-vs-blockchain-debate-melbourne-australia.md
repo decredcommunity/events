@@ -21,8 +21,8 @@ Event Sponsors:
 
 * S2M Digital Recruitment
 * Blockchain Australia
-* Mine Digital Exchange (new Australian exchange)
-* Australia's award-winning exchange Independent Reserve (one of the world's few crypto exchanges insured by a major underwriter)
+* Mine Digital Exchange, new Australian exchange
+* Independent Reserve, Australia's award-winning exchange, one of the world's few crypto exchanges insured by a major underwriter
 * The Blockchain Centre (Melbourne)
 * Stone & Chalk, Australia's largest innovation hub
 
@@ -39,10 +39,10 @@ Audience constituted of:
 * Traders and speculators
 * By far mostly people who are of a blockchain-for-everything mindset
 
-Event Agenda:
+Event agenda:
 
 1. Welcome by the hosts, Blockchain Australia
-2. The Great Bitcoin vs. Blockchain Debate
+2. The Great Bitcoin vs Blockchain Debate
 3. Panel Discussion
 4. Exchange Tour/Presentations
 
@@ -100,7 +100,7 @@ Other wins:
 
 * One of the managers of bitcoin.com.au (I'm told this is Australia's oldest crypto exchange) approached me to discuss Decred. He offered to exchange details and said we should meet soon. I call this a "win".
 
-* A PhD student doing research on crypto asset auditing investment/trading/use-for-purchasing-from-merchants asked if he could interview me for his PhD on auditing. I said if we could focus on the Decred block explorer it would be good. He agreed. We exchanged details. I call this a "win".
+* A PhD student doing research on crypto asset auditing/investment/trading/use-for-purchasing-from-merchants asked if he could interview me for his PhD on auditing. I said if we could focus on the Decred block explorer it would be good. He agreed. We exchanged details. I call this a "win".
 
 * Steve Vallas from Blockchain APAC (and Australia's most reputable blockchain conference organiser) proactively made the effort to introduce me to several of his contacts. I call this a "win".
 
