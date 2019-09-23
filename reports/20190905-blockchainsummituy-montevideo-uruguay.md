@@ -40,7 +40,7 @@ We could use a more general presentation focused on Online Decentralized Governm
 
 ## Media
 
-- CoinTelegraph Español [interview](https://es.cointelegraph.com/news/it-is-estimated-that-decred-cryptocurrency-moves-about-usd-4-million-per-day-in-transactions) (title: "Se estima que la criptomoneda Decred mueve unos USD 4 millones por día en transacciones", in English: "It is estimated that Decred cryptocurrency moves about USD 4 million per day in transactions")
+- CoinTelegraph Español [interview](https://es.cointelegraph.com/news/it-is-estimated-that-decred-cryptocurrency-moves-about-usd-4-million-per-day-in-transactions) titled "Se estima que la criptomoneda Decred mueve unos USD 4 millones por día en transacciones" (English: "It is estimated that Decred cryptocurrency moves about USD 4 million per day in transactions")
 
 #### Social media:
 
