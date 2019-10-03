@@ -1,3 +1,13 @@
+## Before you start
+
+Things to remember:
+
+* This repository is **public**. Anyone can read both final reports and their drafts in the pull requests. Do not leak sensitive information.
+* Your email can be extracted from Git commits. Read [this info](https://help.github.com/en/articles/setting-your-commit-email-address) to understand and configure which email address is recorded when you save documents on GitHub.
+* Please don't commit images, they quickly grow the size of the repository (see below).
+
+## 3 ways to submit
+
 There are multiple ways to submit an event report depending on how familiar you are with GitHub and Git:
 
 1. Create a gist with the report and send it to admins of this repo
@@ -6,9 +16,13 @@ There are multiple ways to submit an event report depending on how familiar you 
 
 To submit changes to existing reports, options 2 and 3 apply.
 
-Note: read [this info](https://help.github.com/en/articles/about-commit-email-addresses) to understand and configure which email address is recorded when you save documents on GitHub.
-
 Reports are written in a format called Markdown. It is pretty simple, but for some techniques you don't use often there is an excellent [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) that should be in your bookmarks.
+
+## No images in Git
+
+Please do not commit images (e.g. photos) or other large files into Git because it grows repository size too quickly. Instead, link to images hosted on in your signed Keybase public folder ([example](https://keybase.pub/jz_bz/)), Twitter, IPFS, etc.
+
+File hosting is an open issue. Ultimately we need a robust and replicated [file archive](https://github.com/decredcommunity/issues/issues/26) but this is not available yet.
 
 ## 1. The gist way
 
@@ -48,9 +62,24 @@ This way is most advanced but is also most flexible and requires less admin assi
   * Check `Allow edits from maintainers` ([help](https://help.github.com/en/articles/allowing-changes-to-a-pull-request-branch-created-from-a-fork)).
   * Optionally, use [Draft pull request](https://help.github.com/en/articles/about-pull-requests#draft-pull-requests) that cannot be merged until you mark it as ready.
 
+## Tell people about your report
+
+When your report is processed and "merged" (kind of released), let people know about it. Use the final link in the master branch and:
+
+1. Share it to other events people in #event\_planning
+2. Submit it to [r/decred](https://www.reddit.com/r/decred/) subreddit
+3. Post it on your Twitter
+4. Optionally, ask in #social\_media chat room to retweet
+
 ## Contact admins
 
 To get your reports merged or to propose an improvement:
 
 * either [create an issue](https://github.com/decredcommunity/events/issues)
-* or ask in #event\_planning chat room via [Matrix](https://decred.org/matrix/), [Discord](https://discord.gg/GJ2GXfz) or [Slack](https://slack.decred.org/) (ping @bee)
+* or ask in #event\_planning chat room (ping @bee)
+
+To propose a tweet or retweet of your report:
+
+* ask in #social\_media room chat room.
+
+Chat rooms are available in [Matrix](https://decred.org/matrix/), [Discord](https://discord.gg/GJ2GXfz) or [Slack](https://slack.decred.org/).
