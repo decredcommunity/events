@@ -1,98 +1,110 @@
-## BALI BLOCKCHAIN CONFLEX IN BALI, INDONESIA.
+# Bali Blockchain Confex 2019 in Legian, Indonesia
 
-** Reported by Em.**
+Report by Duyen Em.
 
-# Info:
+#### Info:
 
-Bali Blockchain Conflex:
+* dates: 27 September 2019 - 28 September 2019 (2 days)
+* location: The Stones Hotel, Legian, Bali, Indonesia
+* site: [bali.blockconfex.com](https://bali.blockconfex.com/)
+* Twitter: [@blockconfex](https://twitter.com/blockconfex)
+* visitors: ~200
 
-Date: 27 September 2019 – 28 September 2019 (2 days)
-Location: The Stones Hotel, Legian, Bali, Indonesia.
-Event link: https://bali.blockconfex.com/register/ 
-Visitor: ~ 200 
+#### Decred presence:
 
-# Decred presence:
+* attendees: Duyen Em
 
-Attendee: Em
+#### Swag:
 
-# Swag:
+* 50 trifolds
+* 150 postcards
+* 100 stickers
 
-50 trifolds
-150 postcards 
-100 stickers
-
-# Agenda 
+## Agenda
 
 Day 1:
 
-Introductory Discussion, Q&A – Unblock Blockchain
-Let’s be realistic about blockchain/Crypto Adoption
-Panel Discussion – Women in Blockchain 
-SonicX Solution Meetup 
-SonicX Solution Meetup
+* Introductory Discussion, Q&A Session - Unblock Blockchain
+* Let's be realistic about Blockchain/Crypto Adoption
+* Panel Discussion: Women in Blockchain
+* SonicX Solution Meetup
 
 Day 2:
 
-Blockchain in Indonesia – Digital Economic Strategy 
-AI & Blockchain (DR. IR. ARWIN SUMARI, Colonel (Electronic), Assist. Prof, Airforce Indonesia. 
-Keynote: - SonicX Empowering iGaming with Safe Payment Solution. (Kevin Dole, CEO SonicX) 
-Panel Discussion – Rise of Security Tokens (STO’s), Future of Cryptocurency Exchanges (Edward Chen - Huobi Group, APAC Managing Director; Marie Tatiboque – CMO – GATE.IO; Dr. David Nguyen Vu – President and Chief Financial Officer, Midas Protocol;…) 
-Keynote: Proof of… - How Blockchains are secured (Roberto Capodieci, Founder & CEO of blockchain Zoo)
-Government presentation: Vietnam Blockchain & Start-up Landscape (Mr Le Toan Thang - Acting Director General, National Start-up Support Center of Vietnam (NSSC))
-Terato Representation: Industrial Revolution 4.0
-Blockchain in numbers (Mohammad Deivito Dunggio – Chairman of Asosiasi Blockchain Indonesia 
-Panel Discussion: Integrating DLT into your Business Model (Lim Hui Jie – Founder & Executive Director Vision Group; Vally Azar – VP Growth Kommerce; Roberto Capodieci – Founder & CEO of Blockchain Zoo) 
-Creating Worldwide and Bounderless Supermarket for Digital Assets (Irvan Tisnabudi – Regional Business Development, LATOKEN)
-Fireside Chat: - “How has the cryptocurrency market matured over the past year” (John Lee Quigley – Founder of Research Firm Adaptive Analysis Luke Jones, Founder, Fortifex)
-Keynote: The future of institution Business in Crypto (Edward Chen – Huobi group, APAC Managing Director) 
-DLT regulatory framework of blockchain island (Yulla Khrenova, E&S Group (Legal Tax advisor), Malta.
-Panel Discussion – Raising Capital to Drive Crypto & Blockchain Start-up’s 
-Block Conflex – Start-up Presentation (TOKOIN – Masscoin – Arenabot – BOTCHAIN.
-Panel Discussion: Educating the Masses on Digital assets and Taking Control of your Asset ownership, Challenges for Mass Adoption
-Regroup – Rewind – Review.
+* Blockchain in Indonesia - Digital Economic Strategy
+* AI & Blockchain (DR. IR. Arwin Sumari, Colonel (Electronic), Assist. Prof, Airforce Indonesia)
+* Keynote: SonicX Empowering iGaming with Safe Payment Solution. (Kevin Dole, CEO SonicX)
+* Panel Discussion: Rise of Security Tokens (STO's), Future of Cryptocurency Exchanges (Edward Chen - APAC Managing Director, Huobi Group; Marie Tatibouet - CMO, GATE.IO; Dr. David Nguyen Vu - President and Chief Financial Officer, Midas Protocol; ...)
+* Keynote: Proof of... - How Blockchains Are Secured (Roberto Capodieci - Founder & CEO of Blockchain Zoo)
+* Government presentation: Vietnam Blockchain & Start-up Landscape (Mr Le Toan Thang - Acting Director General, National Start-up Support Center of Vietnam (NSSC))
+* Terato Representation: Industrial Revolution 4.0
+* Blockchain In Numbers more connected than ever before: driving customer & business value (Mohammad Deivito Dunggio - Chairman of Asosiasi Blockchain Indonesia)
+* Panel Discussion: Integrating DLT into your Business Model (Lim Hui Jie - Founder & Executive Director, Vision Group; Vally Azar - VP Growth, Kommerce; Roberto Capodieci - Founder & CEO of Blockchain Zoo)
+* Creating Worldwide and Bounderless Supermarket for Digital Assets (Irvan Tisnabudi - Regional Business Development, LATOKEN)
+* Fireside Chat: "How has the cryptocurrency market matured over the past year" (John Lee Quigley - Founder of Research Firm Adaptive Analysis; Luke Jones - Founder, Fortifex)
+* Keynote: The Future of Institution Business in Crypto (Edward Chen - APAC Managing Director, Huobi Group)
+* DLT regulatory Framework of Blockchain Island (Yulla Khrenova - Legal Tax Advisor, , E&S Group, Malta).
+* Panel Discussion: Raising Capital to Drive Crypto & Blockchain Startups
+* Block Confex - Start-up Presentation (Tokoin, Masscoin, Arenabot, Botchain).
+* Panel Discussion: Educating the Masses on Digital assets and Taking Control of Your Asset Ownership, Challenges for Mass Adoption
+* Regroup - Rewind - Review.
 
-# Reflection
+## Reflection
 
-People get to know about Decred:
+People get to know about Decred.
 
-People in the conference: most of them are investors and projectors. 
+Most people at the conference were investors and projectors.
 
-In the conference, most of them get to know about Decred for the first time. Many investors are interested in Decred right after knowing about Decred and DCR projects. 
+In the conference, most of them get to know about Decred for the first time. Many investors are interested in Decred right after knowing about it and its projects.
 
-There was a miner asked a lot about Decred. He will research more on DCR. 
+One miner asked a lot about Decred and was looking to research more.
 
-A Vietnamese investor, a leader of an investor group in Vietnam, said he would like to have a meeting with DCR representative in Hanoi to ask more about DCR and he found DCR is potential to be invested in. 
+A Vietnamese investor, lead of an investor group in Vietnam, said he would like to have a meeting with Decred representative in Hanoi to ask more about DCR and he found DCR has potential to be invested in.
 
 Information gets from the conference:
 
 There are 2 upcoming events in Vietnam that Indonesian investors will come:
-Vietnam Blockchain conflex (Jan 2020)
 
+- Vietnam Blockchain Confex (Jan 2020)
 
-Ideas to improve: 
+Ideas for improvement:
 
-Put Decred’s short name (DCR) into trifolds and postcards. Many people asked what DCR’s short name is.
+- Put Decred's short name (DCR) into trifolds and postcards. Many people asked what Decred's short name is.
 
-# Contact
+## Contact
 
 Day 1:
 
-One from HiBTC (added in @decredvietnam Telegram) 
+* A person HiBTC (added in @decredvietnam Telegram)
+* A Vietnamese speaker from Vietnamese government, ministry of science and technology.
+* 2 Indonesian investors (added in @decredvietnam Telegram)
+* 4 Vietnamese investors (one was added in @decredvietnam Telegram)
 
-A Vietnamese speaker from Vietnamese government, ministry of science and technology. 
+Day 2:
 
-Two Indonesian Investor (added in @decredvietnam Telegram)
+* 4 Indonesian and Indian investors (added in @decredvietnam Telegram)
+* Programme developer, Blockchain Zoo (added in @decredvietnam Telegram)
+* A group of 9 programme and community developers.
+* 8 people working in different roles in cryptocurrency field (Visiting cards)
 
-Four Vietnamese investors (one was added in @decredvietnam Telegram)
+## Media
 
-Day 2: 
+#### Photos:
 
-Four Indonesian and Indian investors (added in @decredvietnam Telegram)
+![](https://user-images.githubusercontent.com/46216385/66362221-0dff6980-e9ac-11e9-805f-bdbe64238d1b.jpeg)
 
-Programme developer, Blockchain Zoo (added in @decredvietnam Telegram)
+![](https://user-images.githubusercontent.com/46216385/66362219-0d66d300-e9ac-11e9-9af6-7cc9fcbd30de.jpg)
 
-A group of nine programme and community developers.   
+![](https://user-images.githubusercontent.com/46216385/66363676-405f9580-e9b1-11e9-897b-ee9d1f1abebe.jpeg)
 
-Eight people work in different roles in cryptocurrency field (Visiting cards) 
+![](https://user-images.githubusercontent.com/46216385/66362214-0b9d0f80-e9ac-11e9-9263-d85533b6cca9.jpg)
 
-# Photo
+![](https://user-images.githubusercontent.com/46216385/66362215-0c35a600-e9ac-11e9-95fc-9f0ad55230e7.jpg)
+
+![](https://user-images.githubusercontent.com/46216385/66362216-0c35a600-e9ac-11e9-918c-31ee9c80f755.jpg)
+
+![](https://user-images.githubusercontent.com/46216385/66362217-0cce3c80-e9ac-11e9-9b4b-dbefa5127ecc.jpg)
+
+![](https://user-images.githubusercontent.com/46216385/66362218-0cce3c80-e9ac-11e9-9af6-89cbd98102ea.jpg)
+
+![](https://user-images.githubusercontent.com/46216385/66362220-0d66d300-e9ac-11e9-967c-b8991373b9a3.jpg)
