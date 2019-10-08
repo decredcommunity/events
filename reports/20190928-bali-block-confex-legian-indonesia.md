@@ -61,21 +61,17 @@ One miner asked a lot about Decred and was looking to research more.
 
 A Vietnamese investor, lead of an investor group in Vietnam, said he would like to have a meeting with Decred representative in Hanoi to ask more about DCR and he found DCR has potential to be invested in.
 
-Information gets from the conference:
-
-There are 2 upcoming events in Vietnam that Indonesian investors will come:
-
-- Vietnam Blockchain Confex (Jan 2020)
+There are 2 upcoming events in Vietnam that Indonesian investors will come, one of them is Vietnam Blockchain Confex (Jan 2020).
 
 Ideas for improvement:
 
 - Put Decred's short name (DCR) into trifolds and postcards. Many people asked what Decred's short name is.
 
-## Contact
+## Contacts
 
 Day 1:
 
-* a person from HiBTC
+* a person from HiBTC (not to be confused with HitBTC)
 * a person from Vietnamese government, ministry of science and technology
 * 2 Indonesian investors
 * 4 Vietnamese investors
