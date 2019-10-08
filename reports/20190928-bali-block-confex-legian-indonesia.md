@@ -75,17 +75,19 @@ Ideas for improvement:
 
 Day 1:
 
-* A person HiBTC (added in @decredvietnam Telegram)
-* A Vietnamese speaker from Vietnamese government, ministry of science and technology.
-* 2 Indonesian investors (added in @decredvietnam Telegram)
-* 4 Vietnamese investors (one was added in @decredvietnam Telegram)
+* a person from HiBTC
+* a person from Vietnamese government, ministry of science and technology
+* 2 Indonesian investors
+* 4 Vietnamese investors
 
 Day 2:
 
-* 4 Indonesian and Indian investors (added in @decredvietnam Telegram)
-* Programme developer, Blockchain Zoo (added in @decredvietnam Telegram)
-* A group of 9 programme and community developers.
-* 8 people working in different roles in cryptocurrency field (Visiting cards)
+* 4 Indonesian and Indian investors
+* developer from Blockchain Zoo
+* a group of 9 developers and community builders
+* 8 people working in different roles in cryptocurrency field
+
+Most of the contacts above were added in @decredvietnam Telegram group.
 
 ## Media
 
