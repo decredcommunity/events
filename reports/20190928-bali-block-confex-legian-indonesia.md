@@ -51,21 +51,32 @@ Day 2:
 
 ## Reflection
 
-People get to know about Decred.
+People got to know about Decred.
 
-Most people at the conference were investors and projectors.
+Most of people at the conference were investors and speculators.
 
-In the conference, most of them get to know about Decred for the first time. Many investors are interested in Decred right after knowing about it and its projects.
+At the conference, most of them got to know about Decred for the first time. Many investors are interested in Decred right after learning about it and its projects.
 
-One miner asked a lot about Decred and was looking to research more.
+Over 40 people were reached and learned about Decred one by one. Some people grabbed Decred handouts by themselves and initiatively got back to ask for more details.
 
-A Vietnamese investor, lead of an investor group in Vietnam, said he would like to have a meeting with Decred representative in Hanoi to ask more about DCR and he found DCR has potential to be invested in.
+* About over 30 trifolds, 25-30 postcards of each type, 10 stickers were given away to people one by one.
+* 10 trifolds, 30 postcards, 30 stickers were grabbed by people themselves.
+
+One miner asked a lot about Decred and was looking to research more. As he said he would think about creating a miner team in Singapore to mine Decred.
+
+A Vietnamese investor, lead of an investor group in Vietnam, said he would like to have a meeting with Decred representative in Hanoi to ask more about DCR and he found DCR has potential to be invested in. His contact was added into Decred Vietnam Telegram group. We can get back to him via Telegram.
 
 There are 2 upcoming events in Vietnam that Indonesian investors will come, one of them is Vietnam Blockchain Confex (Jan 2020).
 
 Ideas for improvement:
 
-- Put Decred's short name (DCR) into trifolds and postcards. Many people asked what Decred's short name is.
+* Trifolds and postcards should be redesigned to have better looks such as:
+  - There is too much text on trifolds that makes it too much to read and the font size is too small.
+  - There are 3 different postcards that seem to confuse people when they receive and read them.
+  - Add QR code into the handouts.
+  - Put Decred's short name (DCR) on trifolds and postcards. Many people asked what Decred's short name is.
+
+* Hold a meeting in Hanoi or Ho Chi Minh City for people who learned about Decred to provide more detailed information and keep them interested. Since so many coins and tokens have launched, we need to keep bringing Decred to people who already know it.
 
 ## Contacts
 
