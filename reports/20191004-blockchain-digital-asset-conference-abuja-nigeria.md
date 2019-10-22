@@ -76,3 +76,4 @@ Day 2:
 
 #### Photos:
 
+https://twitter.com/beansgum/status/1180162628259373056?s=12
