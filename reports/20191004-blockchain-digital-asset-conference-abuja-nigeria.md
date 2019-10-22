@@ -17,7 +17,7 @@ Report by Abubakar Suleiman.
 
 * 300 postcards
 
-### Stand
+#### Stand
 
 * We were provided with a booths by the conference organisers, which we turned into a quasi-stand by flanking it with three roll-ups and a banner.
 
