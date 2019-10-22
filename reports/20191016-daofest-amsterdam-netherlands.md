@@ -4,20 +4,21 @@ Event report by @Haon
 
 #### Info:
 
-* date: 16 October 2019
-* location: [Primalbase](https://primalbase.com/en/workspaces/amsterdam/), Amsterdam, Netherlands
-* event link: DAOfest [Meetup link](https://www.meetup.com/DAOfest-Amsterdam/events/265559630/) and [event page](https://thenextweb.com/hardfork-summit/events/daofest-amsterdam-meetup)
-* visitors: 35 people signed up, ~40 people attended
+- date: 16 October 2019
+- location: [Primalbase](https://primalbase.com/en/workspaces/amsterdam/), Amsterdam, Netherlands
+- event link: DAOfest [Meetup link](https://www.meetup.com/DAOfestNL/events/265559630/) and [event page](https://thenextweb.com/hardfork-summit/events/daofest-amsterdam-meetup)
+- Twitter: [@DAOfest_](https://twitter.com/DAOfest_), [#DAOfestAMS](https://twitter.com/hashtag/DAOfestAMS)
+- visitors: 35 people signed up, ~40 people attended
 
 #### Decred presence:
 
-* presenter: @evok3d
-* panel: @evok3d & @Haon
+- presenter: @evok3d
+- panel: @evok3d, @Haon
 
 #### Swag:
 
-* around 30 small stickers
-* around 30 post cards flyers
+- around 30 small stickers
+- around 30 post cards flyers
 
 I brought the swag in vain, there was no time to distribute.
 
@@ -27,7 +28,7 @@ This was the first DAOfest in the Netherlands. It was organized as an official s
 
 ## Event description
 
-The first thing I noticed: the event was very well organized. The venue was top-notch and the audience was "in the know" about crypto and DAOs. I arrived during the introduction by Luuk Weber, the event-organizer, as he gave an overview of DAOs and DAOstack. The first presentation was by @evok3d and he talked about his experiences in Mexico, as well as Decred's governance model (on-chain consensus votes and Politeia proposals) and Decred's new privacy features. The second  talk was about "continuous funding" but this seemed not too relevant for Decred. The final part of the meetup was a fireside chat without fireside that had @evok3d, Samuel Gosling (Validity) and myself on the panel. It was a discussion about the fundamentals of DAOs, the opportunities, challenges, and whether DAOs will one day reach mainstream adoption. After the main program ended there was plenty of time for networking and drinks.
+The first thing I noticed: the event was very well organized. The venue was top-notch and the audience was "in the know" about crypto and DAOs. I arrived during the introduction by Luuk Weber, the event-organizer, as he gave an overview of DAOs and DAOstack. The first presentation was by @evok3d and he talked about his experiences in Mexico, as well as Decred's governance model (on-chain consensus votes and Politeia proposals) and Decred's new privacy features. The second talk was about "continuous funding" but this seemed not too relevant for Decred. The final part of the meetup was a fireside chat without fireside that had @evok3d, Samuel Gosling (Validity) and myself on the panel. It was a discussion about the fundamentals of DAOs, the opportunities, challenges, and whether DAOs will one day reach mainstream adoption. After the main program ended there was plenty of time for networking and drinks.
 
 ## Reflection
 
@@ -35,7 +36,7 @@ It was great to experience the professionalism of the Dutch crypto community. It
 
 ## Media
 
-The event was announced in the [Decred_NL Telegram group](https://t.me/Decred_NL) as well as on Twitter:
+The event was announced in the [Decred_NL](https://t.me/Decred_NL) Telegram group as well as on Twitter:
 
 - https://twitter.com/daostack/status/1182641174374506496
 - https://twitter.com/Luukjweber/status/1182291163916705793
