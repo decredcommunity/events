@@ -8,17 +8,17 @@ Report by {credit all those who contributed to the report, e.g. @Haon}.
 
 #### Info:
 
-* dates: {e.g. 05 June 2019, or e.g. 28 July 2019 - 01 August 2019 (5 days)}
-* location: {(optional place), city, country}
-* event: {link to event page at event site or general site like meetup.com, eventbrite.com or similar}
-* site: {link to event website}
-* Twitter: {link to event Twitter account}
-* visitors: {number of visitors, specify if the number is accurate or estimated}
+- dates: {e.g. 05 June 2019, or e.g. 28 July 2019 - 01 August 2019 (5 days)}
+- location: {(optional place), city, country}
+- event: {link to event page at event site or general site like meetup.com, eventbrite.com or similar}
+- site: {link to event website}
+- Twitter: {link to event Twitter account}
+- visitors: {number of visitors, specify if the number is accurate or estimated}
 
 #### Decred presence:
 
-* attendees: {list community members who attended, e.g. @Haon, @karamble}
-* {any other info about booth, sponsorship, hosting, talks and speaking slots, etc)
+- attendees: {list community members who attended, e.g. @Haon, @karamble}
+- {any other info about booth, sponsorship, hosting, talks and speaking slots, etc)
 
 #### Swag:
 
@@ -26,10 +26,10 @@ Report by {credit all those who contributed to the report, e.g. @Haon}.
 
 Distributed/Total:
 
-* {stickers: 90/100}
-* {T-shirts: 10/20}
-* {post cards: 30/50}
-* {tote bags: 10/20}
+- {stickers: 90/100}
+- {T-shirts: 10/20}
+- {post cards: 30/50}
+- {tote bags: 10/20}
 
 ## Overview
 
@@ -49,16 +49,16 @@ feel free to use more headings: start the line with ## for level 2 headings or #
 
 #### News coverage:
 
-* {optional title and link}
+- {optional title and link}
 
 #### Videos:
 
-* {optional title and link}
-* {example} "Decentralized Governance" - talk by {author} ([youtube]({link}))
+- {optional title and link}
+- {example} "Decentralized Governance" - talk by {author} ([youtube]({link}))
 
 #### Photos:
 
-* {optional title and link}
+- {optional title and link}
 
 {embed any extra photos at the end like the examples below}
 
