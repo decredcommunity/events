@@ -22,8 +22,14 @@ Report by {credit all those who contributed to the report, e.g. @Haon}.
 
 #### Swag:
 
-* {e.g. 3 tote bags}
-* {e.g. 20 stickers}
+{below are some examples, please note both how many items you brought and how many were actually distributed}
+
+Distributed/Total:
+
+* {stickers: 90/100}
+* {T-shirts: 10/20}
+* {post cards: 30/50}
+* {tote bags: 10/20}
 
 ## Overview
 
