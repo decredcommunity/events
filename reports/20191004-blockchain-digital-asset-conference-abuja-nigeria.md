@@ -4,14 +4,14 @@ Report by Abubakar Suleiman.
 
 #### Info:
 
-* dates: 4 October 2019 - 5 October 2019 (2 days)
-* location: Ladi Kwali Hall, Abuja Sheraton Hotel, Nigeria
+* Dates: 4 October 2019 - 5 October 2019 (2 days)
+* Location: Ladi Kwali Hall, Abuja Sheraton Hotel, Nigeria
 * Twitter: [@blockchainNG](https://twitter.com/blockchainng)
-* visitors: ~600
+* Visitors: ~600
 
 #### Decred presence:
 
-* attendees: @macsleven @beansgum @metaclips
+* Attendees: @macsleven @beansgum @metaclips
 
 #### Swag:
 
@@ -51,9 +51,9 @@ Day 2:
 * Industry Presentation – Abekure Tega- CEO KureCoinHub. Programmable Money vs Fiat. Are we better off?
 * IndustryPresentation – LuckyUwakwe–CEOSabii RiskaroundBlockchainandit’sderivative.
 * BREAKOUT SESSION – Business Track [Moderator – Emmanuel Darko] The Business track will discuss Blockchain from a strategic and business perspective. Topics in this track include on how Blockchain is shaping the business and corporate strategies of organizations, how potential risks should be taken care of and how Blockchain can help improve operations.
-* BREAK-OUT SESSION – Technology Track [Moderator – Abdulsalam Umar] The Technology track will address the challenges and breakthroughs from a technological point of view. Several projects that are beyond the Proof of Concept stage will be discussed and the latest developments and updates on prominent Blockchains and Distr ibuted Ledgers initiatives like HyperLedger, Vite, Tezos and Ethereum will be given.
-* BREAK-OUTSESSION–Government Track[Moderator-ChimezieChuta] The Government track will cover the use of Blockchain technology to deliver better public services to citizens. Several national and local governments, including the Netherlands, and NCS have blockchain projects that are up and running. A selection will be made, and discussed further in detail.
-* BREAK-OUTSESSION–Sustainability Track[Moderator–SalisuKaka] The Sustainability track will feature the use and implementation of emerging technologies, in particular Blockchain, for a better world. This track included Blockchain in combination with renewable energies, voting, finance, agriculture, health care, identity solutions to fight poverty and platforms for sustainable food supply chains.
+* BREAK-OUTSESSION – Technology Track [Moderator – Abdulsalam Umar] The Technology track will address the challenges and breakthroughs from a technological point of view. Several projects that are beyond the Proof of Concept stage will be discussed and the latest developments and updates on prominent Blockchains and Distr ibuted Ledgers initiatives like HyperLedger, Vite, Tezos and Ethereum will be given.
+* BREAK-OUT SESSION–Government Track[Moderator-ChimezieChuta] The Government track will cover the use of Blockchain technology to deliver better public services to citizens. Several national and local governments, including the Netherlands, and NCS have blockchain projects that are up and running. A selection will be made, and discussed further in detail.
+* BREAK-OUT SESSION–Sustainability Track[Moderator–SalisuKaka] The Sustainability track will feature the use and implementation of emerging technologies, in particular Blockchain, for a better world. This track included Blockchain in combination with renewable energies, voting, finance, agriculture, health care, identity solutions to fight poverty and platforms for sustainable food supply chains.
 * BlockchainDev1000 Launch/ Ethereum Development Training –Facilitators: Joseph Peculier,Charles OkaforMbah, and Oluchi Enebeli
 
 ## Reflection
