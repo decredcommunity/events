@@ -66,10 +66,10 @@ Learn more about gists [here](https://help.github.com/en/articles/about-gists).
 
 When your report is processed and "merged" (kind of released), let people know about it. Use the final link in the master branch and:
 
-1. Share it to other events people in #event\_planning chat room
+1. Share it to other events people in #events chat room
 2. Submit it to [r/decred](https://www.reddit.com/r/decred/) subreddit
 3. Post it on your Twitter
-4. Optionally, ask in #social\_media room to retweet
+4. Optionally, ask in #media room to retweet
 
 ## Contact admins
 
@@ -77,10 +77,10 @@ To get your reports merged or to propose an improvement:
 
 * submit a pull request as detailed above
 * or [create an issue](https://github.com/decredcommunity/events/issues)
-* or ask in #event\_planning chat room (ping @bee)
+* or ask in #events chat room (ping @bee)
 
 To propose a tweet or retweet of your report:
 
-* ask in #social\_media chat room.
+* ask in #media chat room.
 
 Chat rooms are available in [Matrix](https://decred.org/matrix/), [Discord](https://discord.gg/GJ2GXfz) or [Slack](https://slack.decred.org/).
