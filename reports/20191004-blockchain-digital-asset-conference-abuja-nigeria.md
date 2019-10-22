@@ -1,4 +1,4 @@
-# Abuja Blockchain & Digital Assets Conference 2019 in Abuja, Nigeria
+# Blockchain & Digital Assets Conference 2019 in Abuja, Nigeria
 
 Report by Abubakar Suleiman.
 
