@@ -11,7 +11,7 @@ Report by Abubakar Suleiman.
 
 #### Decred presence:
 
-* Attendees: @macsleven @beansgum @metaclips
+* Attendees: @macsleven @beansgum @metaclips @micodon2k10
 
 #### Swag:
 
