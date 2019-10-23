@@ -11,7 +11,7 @@ Report by Abubakar Suleiman.
 
 #### Decred presence:
 
-* Attendees: @macsleven @beansgum @metaclips @micodon2k10
+* Attendees: @macsleven @beansgum @metaclips @micodon2k10 @ademu_anthony
 
 #### Swag:
 
@@ -19,7 +19,7 @@ Report by Abubakar Suleiman.
 
 #### Stand
 
-* We were provided with a booths by the conference organisers, which we turned into a quasi-stand by flanking it with three roll-ups and a banner.
+* We were provided with a booth by the conference organisers, which we turned into a quasi-stand by flanking it with three roll-ups and a banner.
 
 ## Agenda
 
