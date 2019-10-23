@@ -62,25 +62,19 @@ Day 2:
 
 ## Reflection
 It was a whole lot of interesting moment/experience. The experience was worth while, most people got to know about Decred for the first time. Most of the people at the Conference were Investors, Speculators and dignitaries who graced the occasion with their presence.
-Former Deputy Governor of CBN Prof. Kingsley Moghalu shared knowledge on what it means to develop a blockchain-based system, immediate benefits and long-term transformational potential for Africa. Many investors are interested in Decred right after learning about it and its projects.
+Former Deputy Governor of the Central Bank Of Nigeria Prof. Kingsley Moghalu shared knowledge on what it means to develop a blockchain-based system, immediate benefits and long-term transformational potential for Africa. Many investors are interested in Decred right after learning about it and its projects, we were also the only global cryptocurrency also having a high coinmarketcap rating, this especially got attendees blown away.
 
-Over 30 people were reached and learned about Decred one on one while over 50 people grabbed Decred handouts by themselves. About over 30 postcards of each type were given away to people one by one. 57 postcards were grabbed by people themselves.
+Over 30 people were reached and learned about Decred one on one while over 50 people grabbed Decred handouts by themselves. About over 30 postcards of each type were given away to people one by one. 57 postcards were grabbed by people themselves even though we were not able to reach out to most of the attendees because of the limited time given for Innovation Showcase. We also got a confirmation from one of the exchanges [Kudi Exchange](https://kudi.exchange)  to listing our coin on their platform come December/January.
 
-Though we were not able to reach out to most of the attendees because of the limited time given for Innovation Showcase, one of those we spoke with is the CEO of Kudi Exchange(https://kudi.exchange) who promised they are working on listing Decred on their platform come December/January.
-In summmary, most people were suprised about the growth of Decred and being listed among top 50 on CoinMarketCap. 
+In summmary, most people were suprised about the growth of Decred and being listed on CoinMarketCap. 
 
 
 Ideas for improvement:
-
-* Postcards should be redesigned to have better looks:
-  - There are 3 different postcards that seem to confuse people when they receive and read them.
+  - A large screen display that'll help for a better presentation to attendees who come to our stand.
+  - Better sticker designs probably also add stakey icon as stickers.
 
 ## Contacts
-
-Day 1:
-
-
-Day 2:
+A person willing to help run nodes for the decred network we also got to add attendees who came to our stand to our telegram community. [@decredafrica](https://t.me/decredafrica)
 
 ## Media
 
