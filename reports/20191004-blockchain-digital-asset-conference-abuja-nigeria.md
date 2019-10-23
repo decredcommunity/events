@@ -72,7 +72,7 @@ In summmary, most people were suprised about the growth of Decred and being list
 
 Ideas for improvement:
 
-* Postcards should be redesigned to have better looks such as:
+* Postcards should be redesigned to have better looks:
   - There are 3 different postcards that seem to confuse people when they receive and read them.
 
 ## Contacts
