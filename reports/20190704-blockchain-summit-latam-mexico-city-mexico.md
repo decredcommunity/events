@@ -60,3 +60,13 @@ Swag:
 - https://twitter.com/Decred_ES/status/1147869784614277121
 
 After party sponsored by Decred: https://twitter.com/Decred_ES/status/1147869826657988608
+
+![talk](https://pbs.twimg.com/media/D-qDiMzXYAEsCDh.jpg "talk")
+
+![audience](https://pbs.twimg.com/media/D_EEbI3VAAALL1d.jpg "audience")
+
+![key chain](https://pbs.twimg.com/media/D-vE_mSXkAALbiU.jpg "key chain")
+
+![after party](https://pbs.twimg.com/media/D-4NgBMXUAIfOuo.jpg "after party")
+
+![after party](https://pbs.twimg.com/media/D-4Ngy_WkAAm6d6.jpg "after party")
