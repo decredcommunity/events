@@ -17,6 +17,8 @@ Report by @elian
 
 #### Swag:
 
+Distributed:
+
 - 50 magnets
 - 50 magnetic pins
 - 20 key chains
