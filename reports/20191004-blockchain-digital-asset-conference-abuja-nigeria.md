@@ -27,7 +27,7 @@ Day 1:
 
 * Documentary Movie (Bitcoin: The End of Money as we know it) / Welcome message by Coordinator Blockchain Nigeria User Group.
 * Keynote – Hon Femi Gbajabiamila, Hon Speaker HoR, Nigeria: How Government can leverage Blockchain and Technologies of the 4IR for better service delivery.
-* Keynote -Special Guest of Honor, Prof. Kingsley Moghalu, former UN Diplomat, former Deputy Governor CBN, shares knowledge on what it means to develop a blockchain-based system, immediatebenefits and long-term transformational potential for Africa.
+* Keynote -Special Guest of Honor, Prof. Kingsley Moghalu, former UN Diplomat, former Deputy Governor CBN, shares knowledge on what it means to develop a Blockchain-based system, immediatebenefits and long-term transformational potential for Africa.
 * Platform Presentation – Luke Kim, CMO Vite Lab: Building Blockchain Solutions that deliver value to governments and enterprises.
 * 1st Panel Session - Can Nigeria emerge & lead Africa as the next fintech/ blockchain hub?
 * Platform Presentation – Garmine Ifudu - Kudi Exchange: Enabling seamless payments in a decentralized economy.
@@ -53,10 +53,10 @@ Day 2:
 * Platform Presentation Timi Agama -SEC Nigeria – Blockchain & Digital Assets Transforming Risk and Regulatory Compliance.
 * 2nd Panel Session - The Role of Crypto-Assets Exchanges in Mass Adoption of Crypto currencies.
 * Industry Presentation – Abekure Tega- CEO KureCoinHub. Programmable Money vs Fiat. Are we better off?
-* IndustryPresentation – LuckyUwakwe–CEOSabii RiskaroundBlockchainandit’sderivative.
+* IndustryPresentation – LuckyUwakwe – CEO Sabii - Risk around Blockchain and it’s derivative.
 * BREAKOUT SESSION – Business Track [Moderator – Emmanuel Darko] The Business track will discuss Blockchain from a strategic and business perspective. Topics in this track include on how Blockchain is shaping the business and corporate strategies of organizations, how potential risks should be taken care of and how Blockchain can help improve operations.
-* BREAK-OUTSESSION – Technology Track [Moderator – Abdulsalam Umar] The Technology track will address the challenges and breakthroughs from a technological point of view. Several projects that are beyond the Proof of Concept stage will be discussed and the latest developments and updates on prominent Blockchains and Distr ibuted Ledgers initiatives like HyperLedger, Vite, Tezos and Ethereum will be given.
-* BREAK-OUT SESSION–Government Track[Moderator-ChimezieChuta] The Government track will cover the use of Blockchain technology to deliver better public services to citizens. Several national and local governments, including the Netherlands, and NCS have blockchain projects that are up and running. A selection will be made, and discussed further in detail.
+* BREAK-OUTSESSION – Technology Track [Moderator – Abdulsalam Umar] The Technology track will address the challenges and breakthroughs from a technological point of view. Several projects that are beyond the Proof of Concept stage will be discussed and the latest developments and updates on prominent Blockchains and Distributed Ledgers initiatives like HyperLedger, Vite, Tezos and Ethereum will be given.
+* BREAK-OUT SESSION–Government Track[Moderator-ChimezieChuta] The Government track will cover the use of Blockchain technology to deliver better public services to citizens. Several national and local governments, including the Netherlands, and NCS have blockchain projects that are up and running. A selection will be made and discussed further in detail.
 * BREAK-OUT SESSION–Sustainability Track[Moderator–SalisuKaka] The Sustainability track will feature the use and implementation of emerging technologies, in particular Blockchain, for a better world. This track included Blockchain in combination with renewable energies, voting, finance, agriculture, health care, identity solutions to fight poverty and platforms for sustainable food supply chains.
 * BlockchainDev1000 Launch/ Ethereum Development Training –Facilitators: Joseph Peculier,Charles OkaforMbah, and Oluchi Enebeli
 
