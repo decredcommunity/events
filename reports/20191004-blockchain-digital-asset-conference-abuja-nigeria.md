@@ -62,7 +62,7 @@ Day 2:
 
 ## Reflection
 It was a lot of interesting experiences. The experience was worth while. Most people got to know about Decred for the first time. Most of the people at the conference were investors, speculators and dignitaries who graced the occasion with their presence.
-Former Deputy Governor of Central Bank of Nigeria Prof. Kingsley Moghalu gave a talk titled. Many investors were interested in Decred right after learning about it. We were also the only global cryptocurrency there, and having a high coinmarketcap rating got attendees blown away.
+Former Deputy Governor of Central Bank of Nigeria Prof. Kingsley Moghalu gave a talk titled "Blockchain-Based System, Immediate Benefits and Long-term Transformational Potential for Africa". Many investors were interested in Decred right after learning about it. We were also the only global cryptocurrency there, and having a high coinmarketcap rating got attendees blown away.
 
 We got to have one on one session with attendees where they gave questions about spv, lightning network and our DEX system. We also gave them postcards for a follow up. Although we were not able to reach out to most of the attendees due to the limited time given for Innovation Showcase. We also got a confirmation from one of the exchanges [Kudi Exchange](https://kudi.exchange)  to listing our coin on their platform come December/January.
 
