@@ -61,10 +61,10 @@ Day 2:
 * BlockchainDev1000 Launch/ Ethereum Development Training –Facilitators: Joseph Peculier,Charles OkaforMbah, and Oluchi Enebeli
 
 ## Reflection
-It was a whole lot of interesting experience. The experience was worth while, most people got to know about Decred for the first time. Most of the people at the Conference were Investors, Speculators and dignitaries who graced the occasion with their presence.
-Former Deputy Governor of Central Bank Of Nigeria Prof. Kingsley Moghalu shared knowledge on what it means to develop a "Blockchain-Based System, Immediate Benefits and Long-term Transformational Potential for Africa". Many investors are interested in Decred right after learning about it and its projects, we were also the only global cryptocurrency and having a high coinmarketcap rating got attendees blown away.
+It was a lot of interesting experiences. The experience was worth while. Most people got to know about Decred for the first time. Most of the people at the conference were investors, speculators and dignitaries who graced the occasion with their presence.
+Former Deputy Governor of Central Bank of Nigeria Prof. Kingsley Moghalu gave a talk titled. Many investors were interested in Decred right after learning about it. We were also the only global cryptocurrency there, and having a high coinmarketcap rating got attendees blown away.
 
-We got to have one on one session with attendees where they gave budding questions about spv, lightning network and our DEX system, we also gave them postcards for a follow up. Although we were not able to reach out to most of the attendees due to the limited time given for Innovation Showcase. We also got a confirmation from one of the Exchanges [Kudi Exchange](https://kudi.exchange)  to listing our coin on their platform come December/January.
+We got to have one on one session with attendees where they gave questions about spv, lightning network and our DEX system. We also gave them postcards for a follow up. Although we were not able to reach out to most of the attendees due to the limited time given for Innovation Showcase. We also got a confirmation from one of the exchanges [Kudi Exchange](https://kudi.exchange)  to listing our coin on their platform come December/January.
 
 In summmary, most people were suprised about the growth of Decred and being listed on CoinMarketCap. 
 
@@ -74,7 +74,7 @@ Ideas for improvement:
   - Better sticker designs probably also add stakey icon as stickers.
 
 ## Contacts
-A person willing to help run nodes for the decred network came to us to talk about Decred. We added attendees who came to us to the telegram community. [@decredafrica](https://t.me/decredafrica)
+We met a person who was willing to help run nodes for the decred network. We added attendees who came to us to the telegram community. [@decredafrica](https://t.me/decredafrica)
 
 ## Media
 
