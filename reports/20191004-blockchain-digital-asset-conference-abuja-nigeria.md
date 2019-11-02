@@ -4,22 +4,21 @@ Report by Abubakar Suleiman.
 
 #### Info:
 
-- Dates: 4 October 2019 - 5 October 2019 (2 days)
-- Location: Ladi Kwali Hall, Abuja Sheraton Hotel, Nigeria
-- Twitter: [@blockchainNG](https://twitter.com/blockchainng)
-- Visitors: ~600
+- dates: 4-5 October 2019 (2 days)
+- location: Ladi Kwali Hall, Abuja Sheraton Hotel, Abuja, Nigeria
+- event links: [eventbrite](https://www.eventbrite.com/e/abuja-blockchain-digital-assets-conference-2019-tickets-67571336687)
+- Twitter: [@BlockchainNG](https://twitter.com/BlockchainNG)
+- site: [blockchainnigeria.group](https://blockchainnigeria.group/)
+- visitors: ~600
 
 #### Decred presence:
 
-- Attendees: Abubakar Suleiman(@macsleven), Collins Olanrewaju(@beansgum), Ademu Andtony(@ademu_anthony), Micheal Uti(@metaclips), Shweigerchen Eze(@micodon2k10)
+- attendees: Abubakar Suleiman (@macsleven), Collins Olanrewaju (@beansgum), Ademu Andtony (@ademu\_anthony), Micheal Uti (@metaclips), Shweigerchen Eze (@micodon2k10)
+- We were provided with a booth by the conference organisers, which we turned into a quasi-stand by flanking it with three roll-ups and a banner.
 
 #### Swag:
 
 - 300 postcards
-
-#### Stand
-
-- We were provided with a booth by the conference organisers, which we turned into a quasi-stand by flanking it with three roll-ups and a banner.
 
 ## Agenda
 
