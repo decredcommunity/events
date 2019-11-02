@@ -11,7 +11,7 @@ Report by Abubakar Suleiman.
 
 #### Decred presence:
 
-* Attendees: Abubakar Suleiman(@macsleven), Collins Olanrewaju(@beansgum), Ademu Andtony(@ademu_anthony), Micheal Uti(@metaclips), Shweigerchen Eze(@micodon2k10) 
+* Attendees: Abubakar Suleiman(@macsleven), Collins Olanrewaju(@beansgum), Ademu Andtony(@ademu_anthony), Micheal Uti(@metaclips), Shweigerchen Eze(@micodon2k10)
 
 #### Swag:
 
@@ -40,7 +40,6 @@ Day 1:
 * Industry Presentation/ Blockchain4good Hackathon Sprint – Mr. Omotayo Idowu , IBM West Africa Blockchain Lead (Becoming a leader, and not a casualty in the Digital Age)
 * Innovation Showcase:Opening of Exhibition of Blockchain Products and Projects.
 
-
 Day 2:
 
 * Documentary Movie: The Story of the Blockchain
@@ -61,19 +60,21 @@ Day 2:
 * BlockchainDev1000 Launch/ Ethereum Development Training –Facilitators: Joseph Peculier,Charles OkaforMbah, and Oluchi Enebeli
 
 ## Reflection
+
 It was a lot of interesting experiences. The experience was worth while. Most people got to know about Decred for the first time. Most of the people at the conference were investors, speculators and dignitaries who graced the occasion with their presence.
 Former Deputy Governor of Central Bank of Nigeria Prof. Kingsley Moghalu gave a talk titled "Blockchain-Based System, Immediate Benefits and Long-term Transformational Potential for Africa". Many investors were interested in Decred right after learning about it. We were also the only global cryptocurrency there, and having a high coinmarketcap rating got attendees blown away.
 
-We got to have one on one session with attendees where they gave questions about spv, lightning network and our DEX system. We also gave them postcards for a follow up. We also got a confirmation from one of the exchanges [Kudi Exchange](https://kudi.exchange)  to listing our coin on their platform come December/January.
+We got to have one on one session with attendees where they gave questions about spv, lightning network and our DEX system. We also gave them postcards for a follow up. We also got a confirmation from one of the exchanges [Kudi Exchange](https://kudi.exchange) to listing our coin on their platform come December/January.
 
-In summmary, most people were suprised about the growth of Decred and being listed on CoinMarketCap. 
-
+In summmary, most people were suprised about the growth of Decred and being listed on CoinMarketCap.
 
 Ideas for improvement:
-  - A large screen display for a better presentation to attendees who come to our stand.
-  - Better sticker designs probably also add stakey icon as stickers.
+
+- A large screen display for a better presentation to attendees who come to our stand.
+- Better sticker designs probably also add stakey icon as stickers.
 
 ## Contacts
+
 We met a person who was willing to help run nodes for the decred network. We added attendees who came to us to the telegram community. [@decredafrica](https://t.me/decredafrica)
 
 ## Media
