@@ -16,9 +16,9 @@ Report by Abubakar Suleiman.
 - attendees: Abubakar Suleiman (@macsleven), Collins Olanrewaju (@beansgum), Ademu Andtony (@ademu\_anthony), Micheal Uti (@metaclips), Shweigerchen Eze (@micodon2k10)
 - We were provided with a booth by the conference organisers, which we turned into a quasi-stand by flanking it with three roll-ups and a banner.
 
-#### Swag:
+Swag distributed/total:
 
-- 300 postcards
+- postcards: 100/300
 
 ## Agenda
 
