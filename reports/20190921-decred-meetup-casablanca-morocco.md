@@ -17,21 +17,19 @@ Report by @arij.
 
 (shared in chat on [2019-09-22](https://matrix.to/#/!aNPTuiryMFmdMQWUzb:decred.org/$156914094936513JoWdj:decred.org))
 
-Hey all, I want to share with you some photos from yesterday's meetup at Casablanca Morocco about "Success Story and Innovation" where I shared together with 2 other guys shared our experience working in the digital field.
+In this meetup I shared "Success Story and Innovation" together with 2 other guys shared our experience working in the digital field.
 
-There was 33 people who attended the meetup in total.
+I started my presentation talking about my experience working as a contractor for Decred, then I talked about Decred and its governance system, Politeia, privacy and the end shared my future plans.
 
-I started my presentation talking about my experience working as a contractor for Decred Group, then I talked about Decred and its gouvernance system, Politeia, Privacy and shared with them at the end my future plans.
+People have asked us if we can do courses about blockchain in their universities and associations.
 
-Others have asked us if we can do courses about blockchain in their universities and associations.
+The attendance were very interested in Decred, and some of them wanted to know more about what is blockchain and what is governance and asked us if we can do more meetups about that.
 
-The attendance were very interested in Decred, and some of them wanted to know more about what is blockchain and what is gouvernance and asked us if we can do  more meetups about them.
+At the end, some of the speakers have suggested to do some robotics courses for poor children for free and asked us if Decred could help with that by bringing someone to teach the kids.
 
-At the end, some of the speakers has suggested to do some robotics courses for poor children for free and asked us if Decred could help with that by bringing someone to teach the kids
+It was a great to share my experience and knowledge with other people and seeing people interested and asking questions even when the time was up. The meetup was supposed to end at 18:30 but people stayed until 19:30, and they still wanted to stay more and know more.
 
-It was a great experience sharing with other people my experience and my knowledge and seeing people interested and asking questions even when the time was up "the meetup was suppose to end at 18h30 but people stayed until 19h30", people still wanted to stay more and know more.
-
-I’ve been asked by an association that assisted to our meetup that was held the 21 September at Casablanca Morocco, to talk about blockchain and its technology in their association building on the 20 October. There will be mostly university students and we were given two hours to talk.
+Later I was asked by an association that assisted our meetup to talk about blockchain technology in their association building on the Oct 20. There will be mostly university students and we were given two hours to talk.
 
 ## Media
 
