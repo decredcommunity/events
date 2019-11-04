@@ -16,6 +16,8 @@ Report by @arij.
 
 (shared in chat on [2019-10-20](https://matrix.to/#/!aNPTuiryMFmdMQWUzb:decred.org/$157159415718215tdXiN:decred.org))
 
+I was asked by the Wafaa Association to talk about blockchains after they helped to run the [meetup](20190921-decred-meetup-casablanca-morocco.md) in Casablanca on Sep 21.
+
 There were about 20 people that attended the event, they were mostly students from universities.
 
 I started the presentation talking about blockchain fundamentals, and then I talked about the consensus system and how it works, the presentation took us two hours from 10 to 12 am.
