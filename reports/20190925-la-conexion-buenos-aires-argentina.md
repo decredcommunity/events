@@ -2,7 +2,7 @@
 
 Report by @elian
 
-#### Info:
+#### Info
 
 La Conexión:
 
@@ -20,16 +20,16 @@ Argentina Crypto Fest:
 - Facebook: [cryptofest.arg](https://www.facebook.com/cryptofest.arg/)
 - visitors: ~50
 
-#### Decred presence:
+#### Decred presence
 
 - attendees: @elian, @victorarubin
 - small Decred booth at both events
 - Decred was a sponsor at La Conexión
 
-#### Swag:
+Swag:
 
-- 40 T-shirts
-- 200 stickers
+- T-shirts: 40
+- stickers: 200
 
 ## Overview
 
@@ -75,7 +75,7 @@ Argentina Crypto Fest:
 - talk (19 min): https://twitter.com/Decred_ES/status/1178024538023628801
 - Q&A (1 min): https://twitter.com/Decred_ES/status/1177968071220355077
 
-Meetings Argentina:
+Meetings in Argentina:
 
 - @pablito and @nachito: https://twitter.com/elianhuesca/status/1182100127865085952
 - Crypto Rocket Group: https://twitter.com/victorarubin/status/1180151911422529541
