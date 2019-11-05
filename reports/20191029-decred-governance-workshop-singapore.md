@@ -7,7 +7,7 @@ Report by @zohand.
 - dates: 29 October 2019
 - location: WeWork's office, Singapore
 - announcements: [meetup](https://www.meetup.com/Blockchain-innovation-Singapore/events/265738541/), [twitter](https://twitter.com/decredproject/status/1185129220613259264)
-- visitors: ~29
+- visitors: 30 registered, 18 attended
 
 #### Decred presence
 
