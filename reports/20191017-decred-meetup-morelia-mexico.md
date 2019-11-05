@@ -13,7 +13,7 @@
 
 Swag:
 
-- T-shirts: 15 {how many distributed?}
+- T-shirts: 15 (All the T-shirts were distributed to the first 15 people who first arrived at the meetup).
 
 ## Goals
 
@@ -29,7 +29,7 @@ Swag:
 - The presentation of @francov\_ on blockchain and digital economy was very good, she did not use blockchain technicalities that at the time could be difficult to understand by a person who knows nothing or has barely heard about blockchain and Bitcoin.
 - Also the presentation of @luisantoniocrag about an introduction to Decred Project was very good. They understood the basics and asked a lot. What really caught their attention was the degree of decentralization where to work together it doesn't matter university degrees, age, nationality or anything else to be able to work and do great things.
 - The event aroused interest so much, that they asked about what programming language is better for developing a blockchain (obviously Go haha). We also had questions about what we thought about the creation of a blockchain agency and things like that.
-- After the meetup, they invited us to a very important state entrepreneurship event, that same night to talk about Decred and blockchain and tell the public.
+- After the meetup, they invited us to a very important state entrepreneurship event, that same night to talk about Decred and blockchain and tell the public. The organizers were very attracted to the Decred project. We were invited to participate in a next panel for the next talent nights (there is no date yet).
 - In short, the event fully met expectations.
 
 ## Learnings & Outcomes
@@ -37,6 +37,7 @@ Swag:
 1. Make more visual content like animations. People had a higher level of interest in that type of media.
 2. Have more swag, people loved Decred T-shirts (they almost fought over them).
 3. Have a more efficient mechanism to get more followers in our social networks. In the event we only obtained about +25 followers in total.
+  (+11 instagram - decred_es,  +5 twitter - @decred_es and +9 facebook - decredESP).
 
 ## Media
 
