@@ -11,7 +11,7 @@
 
 - attendees: @francov\_, @luisantoniocrag
 
-Swag distributed::
+Swag distributed:
 
 - T-shirts: 15
 
