@@ -11,9 +11,9 @@
 
 - attendees: @francov\_, @luisantoniocrag
 
-Swag:
+Swag distributed::
 
-- T-shirts: 15 (All the T-shirts were distributed to the first 15 people who first arrived at the meetup).
+- T-shirts: 15
 
 ## Goals
 
