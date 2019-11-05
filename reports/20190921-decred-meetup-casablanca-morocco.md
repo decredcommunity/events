@@ -13,6 +13,11 @@ Report by @arij.
 
 - attendees: @arij
 
+Swag distributed:
+
+- trifolds: 20
+- booklets: 10
+
 ## Overview
 
 (shared in chat on [2019-09-22](https://matrix.to/#/!aNPTuiryMFmdMQWUzb:decred.org/$156914094936513JoWdj:decred.org))
