@@ -42,3 +42,7 @@ Later I was asked by an association that assisted our meetup to talk about block
 
 - https://twitter.com/DecredArabia/status/1175676467889475585
 - https://twitter.com/in_insaf/status/1175692906826481664
+
+![](https://pbs.twimg.com/media/EFDXFXeWsAA44kU.jpg)
+
+![](https://pbs.twimg.com/media/EFDXFYgWwAEmb-4.jpg)
