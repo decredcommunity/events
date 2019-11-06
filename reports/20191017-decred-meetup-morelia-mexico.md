@@ -36,8 +36,7 @@ Swag distributed:
 
 1. Make more visual content like animations. People had a higher level of interest in that type of media.
 2. Have more swag, people loved Decred T-shirts (they almost fought over them).
-3. Have a more efficient mechanism to get more followers in our social networks. In the event we only obtained about +25 followers in total.
-  (+11 instagram - decred_es,  +5 twitter - @decred_es and +9 facebook - decredESP).
+3. Have a more efficient mechanism to get more followers in our social networks. In the event we only obtained about +25 followers in total. (+11 [@decred_es](https://www.instagram.com/decred_es/) Instagram, +5 [@Decred_ES](https://twitter.com/Decred_ES) Twitter and +9 [DecredESP](https://www.facebook.com/DecredESP/) Facebook).
 
 ## Media
 
