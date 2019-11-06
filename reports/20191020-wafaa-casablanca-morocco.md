@@ -29,3 +29,7 @@ The attendees were very interested in the blockchain technology as they heard ab
 #### Photos
 
 - https://twitter.com/DecredArabia/status/1186195669943537664
+
+![](https://pbs.twimg.com/media/EHY2bIgXYAAK-JO.jpg)
+
+![](https://pbs.twimg.com/media/EHY2bIbW4AUR74_.jpg)
