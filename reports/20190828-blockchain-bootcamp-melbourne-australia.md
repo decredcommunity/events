@@ -19,7 +19,7 @@ Report by @eSizeDave and @zohand.
 
 (originally shared in chat on [2019-08-28](https://matrix.to/#/!OfChXgczrIlpEZSFAv:decred.org/$156697235011245SxvJY:decred.org) and [2019-09-02](https://matrix.to/#/!aNPTuiryMFmdMQWUzb:decred.org/$156739040517633gdQNG:decred.org))
 
-We've been invited by Ernst & Young to run a Decred-specific presentation to start work on exploring how we may be of use to their clients in terms of prototyping some case studies.
+We've been invited by The Blockhain Centre as part of Digital Innovation Festival, an initiative by the State Government of Victoria.
 
 The participants consisted of lawyers from top law firms down in Australia, consultants from the big 4, academics and other interesting folk who are active in the ecosystem.
 
