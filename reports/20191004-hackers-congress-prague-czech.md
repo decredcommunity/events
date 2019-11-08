@@ -34,7 +34,7 @@ My name is [Amin Rafiee](https://magazine.seats2meet.com/nice-to-meet-amin-rafie
 
 > "I am grateful to have been attending the Hackers Congress, hosted by Paralelni Polis, since 2015. Much has changed in those 5 years, though I am proud to say that the core values and vision have not shifted. It is the only place in the world operating purely on cryptocurrencies in its 6 years of operation. This is mostly due to the dedicated and well informed individuals who founded the concept, as well as all the people who keep on supporting and contributing to its growth, without sacrificing integrity. Paralelni Polis has become my home and the gold standard of cryptoanarchy and crypto-related events." - [A Review of the Hackers Congress in Prague](https://decentralize.today/privacy/opting-out-a-review-of-the-hackers-congress-in-prague), Decentralize.Today, 2019
 
-## Why Decred?
+### Why Decred?
 
 I have been monitoring the Decred environment and progress since 2017. Due to my extensive experience in this space and the number of projects which have failed to stand for the principles of decentralization, I wanted to wait and see how the project and overall community function. The more time I spent analyzing the Decred environment, the more I came to see the benefits and strengths in all aspects.
 
@@ -83,11 +83,6 @@ DCR: DsWdLmF6wjiAS4yJVqPM8nWso6vG7hPbbUS
 #### News coverage
 
 - Opting Out - A Review of the Hackers Congress in Prague ([decentralize.today](https://decentralize.today/privacy/opting-out-a-review-of-the-hackers-congress-in-prague)) (Decred not mentioned)
-
-#### Social media
-
-- https://twitter.com/Luukjweber/status/1185179344299319296
-- https://twitter.com/davesaddress/status/1166600112136753152
 
 #### Videos
 
