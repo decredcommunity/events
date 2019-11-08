@@ -15,16 +15,16 @@ Report by @evok3d.
 - site: [opt-out.hcpp.cz](https://opt-out.hcpp.cz/)
 - Twitter: [#HCPP19](https://twitter.com/hashtag/HCPP19)
 - hosts: [Paralelni Polis](https://www.paralelnipolis.cz/) ([@Paralelni_polis](https://twitter.com/Paralelni_polis))
-- visitors: {}
+- visitors: 500-600 (estimated)
 
 #### Decred presence
 
 - attendees: @evok3d
-- 5-min Decred section in @evok3d's talk "The Age of Decentralizatio: Society 3.0"
+- 5-min Decred section in @evok3d's talk "The Age of Decentralizatio: Society 3.0", attended by ~100 people
 
-Swag distributed/available:
+Swag distributed:
 
-- {}
+- stickers: 10-15
 
 ## Overview
 
