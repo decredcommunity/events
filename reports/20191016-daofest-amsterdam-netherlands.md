@@ -36,20 +36,25 @@ It was great to experience the professionalism of the Dutch crypto community. It
 
 ## Media
 
-The event was announced in the [Decred_NL](https://t.me/Decred_NL) Telegram group as well as on Twitter:
+#### Announcements
 
+- announced in the [Decred_NL](https://t.me/Decred_NL) Telegram
 - https://twitter.com/daostack/status/1182641174374506496
 - https://twitter.com/Luukjweber/status/1182291163916705793
 - https://twitter.com/NoahPierau/status/1184048655310970880
 
-#### Coverage:
+#### Audio
+
+- @evok3d's [talk about DAOs](https://www.youtube.com/watch?v=Jt_2vk-hf4o) (Decred part starts at [19:38](https://www.youtube.com/watch?v=Jt_2vk-hf4o&t=19m38s))
+
+#### Photos
 
 - https://twitter.com/Luukjweber/status/1185179344299319296
+- https://twitter.com/Luukjweber/status/1185179390226898944
 - https://twitter.com/bvanmaarseveen/status/1184535358685569024
 - https://twitter.com/hoihansie/status/1184535146957017088
 - https://twitter.com/NoahPierau/status/1184529799177539589
-
-#### Photos:
+- https://twitter.com/NoahPierau/status/1184531894257569797
 
 ![photo of the panel](https://pbs.twimg.com/media/EHKaZZfX0AEDZ8r.jpg "panel")
 
