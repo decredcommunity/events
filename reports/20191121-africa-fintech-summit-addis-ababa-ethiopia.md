@@ -82,10 +82,8 @@ I plan to follow-up with a number of the key contacts I made in Ethiopia over th
 
 - https://twitter.com/AkinSawyerr/status/1197403988821467136
 
-![Pic 1](https://photos.app.goo.gl/MPcJZsTtNuyWHccy6 "Blockchain Panel")
+![Pic 1](https://user-images.githubusercontent.com/17677506/69585707-7cc17200-0fae-11ea-8170-f6f626f9025f.png "Blockchain Panel")
 
-![Pic 2](https://photos.app.goo.gl/rM8fFBLDoZGoJ8Qm6 "The Event Organizing Team")
+![Pic 2](https://user-images.githubusercontent.com/17677506/69585710-7cc17200-0fae-11ea-8cd2-43673896cf64.png "Payments and APIs breakout session")
 
-![Pic 3](https://photos.app.goo.gl/Vwhb12mGfY7PBeGQ6 "Payments and APIs breakout session")
-
-![Pic 4](https://photos.app.goo.gl/5QySvFDJ1QgdZhVg8 "The Event Main Stage")
+![Pic 3](https://user-images.githubusercontent.com/17677506/69585709-7cc17200-0fae-11ea-8163-31ba375ee582.png "The Event Main Stage")
