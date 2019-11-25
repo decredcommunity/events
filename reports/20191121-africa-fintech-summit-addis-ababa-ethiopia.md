@@ -78,7 +78,9 @@ I am particularly keen on exploring opportunities to work with Okapi because:
 
 I plan to follow-up with a number of the key contacts I made in Ethiopia over the next few weeks and months. I think building relationships and awarness with key entrepreneurs and organizations across Africa would be an efficient way to plug into ecosystems, and continually iterate on a starategy and approach.
 
-#### Photos:
+#### Photos
+
+- https://twitter.com/AkinSawyerr/status/1197403988821467136
 
 ![Pic 1](https://photos.app.goo.gl/MPcJZsTtNuyWHccy6 "Blockchain Panel")
 
