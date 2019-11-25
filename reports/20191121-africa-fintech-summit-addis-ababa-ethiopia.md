@@ -23,9 +23,9 @@ The event was well attended by over 60 speakers and 350 guests from around the w
 
 ## Details
 
-As Africa’s fastest growing economy and the continent’s second most populous country, Ethiopia is at the precipice of unprecedented change. Thanks to extensive infrastructure investments across the last two decades, an ambitious structural reform agenda, and imminent liberalization of the telecom and finance sectors, Ethiopia presents unparalleled opportunities for fintech.
+As Africa's fastest growing economy and the continent's second most populous country, Ethiopia is at the precipice of unprecedented change. Thanks to extensive infrastructure investments across the last two decades, an ambitious structural reform agenda, and imminent liberalization of the telecom and finance sectors, Ethiopia presents unparalleled opportunities for fintech.
 
-The Summit was a gathering of disruptors, tech and finance professionals, regulators, and investors from across Africa to Addis Ababa which is often called Africa’s political capital as its the permamnent location of the African Union and the homebase of the United Nations in Africa.
+The Summit was a gathering of disruptors, tech and finance professionals, regulators, and investors from across Africa to Addis Ababa which is often called Africa's political capital as its the permamnent location of the African Union and the homebase of the United Nations in Africa.
 
 ### Expectations and Goals
 
@@ -59,20 +59,20 @@ Gisele is originally from the DRC, works in over 8 African markets, and operates
 
 Through desktop, mobile apps, and agent networks Okapi lets individuals and businesses:
 
- - Send and receive digital payments
- - Pay invoices and bills online and at points of sale
- - Deposit and withdraw funds between the Okapi wallet and bank accounts
- - Buy business insurance coverage
- - Disburse salaries, loans, pension payouts etc
+- Send and receive digital payments
+- Pay invoices and bills online and at points of sale
+- Deposit and withdraw funds between the Okapi wallet and bank accounts
+- Buy business insurance coverage
+- Disburse salaries, loans, pension payouts etc
 
 Okapi provides these services through a PCI DSS cetified platform and has been recognized by governments and development funding institutions for its work to bring financial inclusion to cross-border traders that are often vulnerable to extortion and theft.
 
 I am particularly keen on exploring opportunities to work with Okapi because:
 
- - It is completly focused on unbanked and underbanked populations that go largely ignored relative to solutions targetting the middle class.
- - It is built on a platform that's fully regulatory compliant with European rules and regulations which makes it an attractive partner to financial services institutions across Africa who can leverage them with peace of mind.
- - Gisel is a tough CEO who has managed to enter 8 African markets and earn the respect and support of a number of OG Nigerian bankers that I know, who she worked with to establish a beach head in Nigeria.
- - Its established as an European company which should make it much easier for Decred to partner with should it make sense.
+- It is completly focused on unbanked and underbanked populations that go largely ignored relative to solutions targetting the middle class.
+- It is built on a platform that's fully regulatory compliant with European rules and regulations which makes it an attractive partner to financial services institutions across Africa who can leverage them with peace of mind.
+- Gisel is a tough CEO who has managed to enter 8 African markets and earn the respect and support of a number of OG Nigerian bankers that I know, who she worked with to establish a beach head in Nigeria.
+- Its established as an European company which should make it much easier for Decred to partner with should it make sense.
 
 ## Next Steps
 
