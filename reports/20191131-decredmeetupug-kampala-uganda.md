@@ -1,11 +1,11 @@
-# Decred Meetup, Uganda
+# Decred Meetup in Kampala, Uganda
 
 Report by Jabz Rodgers.
 
 #### Info
 
-- date 30-11-2019
-- location: JP Hotel, Seeta, Kampala
+- date 30 November 2019
+- location: JP Hotel, Seeta, Kampala, Uganda
 - event: https://web.facebook.com/events/957442061308144/
 - Twitter: https://twitter.com/RodgersJabz/status/1194309441774063617
 - visitors: 53
