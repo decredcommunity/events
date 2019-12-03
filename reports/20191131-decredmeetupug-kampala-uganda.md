@@ -23,19 +23,15 @@ Distributed/total:
 
 ## Overview
 
-53 participants attanded the meetup from the 50 people who were expected.
+53 participants attended the meetup from the 50 people who were expected.
 
-We had a brief introduction to Blockchain from @Joackim
+We had a brief introduction to Blockchain from @Joackim.
 
-Intoduced participants to Decred, Covering topis like What Decred is, Where to store DCR Coins and helped some
-participants to install the wallet, make the back up of their wallets.
+Intoduced participants to Decred, Covering topis like What Decred is, Where to store DCR Coins and helped some participants to install the wallet, make the back up of their wallets.
 
-Shared about how and where to Buy DCR
-We further explained Decred features, hybrid proof-of-work and proof-of-stake consensus voting system
-A censorship-resistant blockchain-anchored public proposal platform
-Cross-chain atomic swaps between different digital currencies and Smart contracts
+Shared about how and where to Buy DCR. We further explained Decred features, hybrid proof-of-work and proof-of-stake consensus voting system, A censorship-resistant blockchain-anchored public proposal platform, Cross-chain atomic swaps between different digital currencies and Smart contracts.
 
-Our Meetup started at 5:30PM and ended at 8PM, was comprised of Both Presentation and networking accompanied by some Refreshments
+Our Meetup started at 5:30PM and ended at 8PM, was comprised of Both Presentation and networking accompanied by some Refreshments.
 
 ## Media
 
