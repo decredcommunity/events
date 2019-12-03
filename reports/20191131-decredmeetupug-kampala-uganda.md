@@ -6,8 +6,7 @@ Report by Jabz Rodgers.
 
 - date 30 November 2019
 - location: JP Hotel, Seeta, Kampala, Uganda
-- event: https://web.facebook.com/events/957442061308144/
-- Twitter: https://twitter.com/RodgersJabz/status/1194309441774063617
+- announcements: [Facebook](https://www.facebook.com/events/957442061308144/), [Twitter](https://twitter.com/RodgersJabz/status/1194309441774063617)
 - visitors: 53
 
 #### Decred presence
