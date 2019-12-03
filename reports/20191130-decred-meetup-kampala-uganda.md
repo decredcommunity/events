@@ -13,9 +13,7 @@ Report by Jabz Rodgers.
 
 - attendees: @jabz
 
-Swag:
-
-Distributed/total:
+Swag distributed/total:
 
 - T-shirts: 10/10
 - post cards: 25/30
