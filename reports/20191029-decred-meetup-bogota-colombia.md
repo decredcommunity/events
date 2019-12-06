@@ -6,7 +6,7 @@ Report by @elian
 
 - dates: 29 October 2019
 - location: Prime Coworking, Bogota, Colombia
-- announcements: [twitter](https://twitter.com/Decred_ES/status/1188496680133500934), [twitter](https://twitter.com/Decred_ES/status/1188872913660862464), [eventbrite](https://www.eventbrite.com/e/que-hace-a-decred-una-criptomoneda-diferente-primer-meetup-oficial-tickets-78464211569)
+- announcements: [twitter](https://twitter.com/Decred_ES/status/1188496680133500934), [twitter](https://twitter.com/Decred_ES/status/1188872913660862464), [twitter](https://twitter.com/Decred_ES/status/1188493832863866886), [eventbrite](https://www.eventbrite.com/e/que-hace-a-decred-una-criptomoneda-diferente-primer-meetup-oficial-tickets-78464211569)
 - visitors: 45
 
 #### Decred presence
