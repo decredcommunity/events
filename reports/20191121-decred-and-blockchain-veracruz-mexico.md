@@ -19,15 +19,15 @@ Swag distributed:
 
 On November 21, the Decred meeting concluded in Veracruz, Mexico.
 
-The conference was divided into 3 presentations, @francov\_ started with an introduction on blockchain and alternative digital economy, taking Bitcoin as a quick example, then @luisantoniocrag with a Decred introduction and then our partner Luis Miguel García who talked about tokenization. (Luis M. García is a contact we have thanks to the Monterrey blockchain community, who encourages us to attend the University and manages the open space for us).
+The conference was divided into 3 presentations: @francov\_ started with an introduction on blockchain and alternative digital economy, taking Bitcoin as a quick example, then @luisantoniocrag with a Decred introduction and then our partner Luis Miguel García who talked about tokenization. (Luis M. García is a contact we have thanks to the Monterrey blockchain community, who encouraged us to attend the University and managed the open space for us).
 
-The space was filled with 180 attendees of which 140 were initially occupied but after a hour and half many students began to leave because they had classes and only contemplated that time. At the end, 60 attendees stayed, leaving 30. From there we opened a panel of questions and that is where the interesting thing was put because we began to answer their questions, one of them that most struck me was about quantum computers, how it would affect long term to cryptocurrencies.
+The space was filled with 180 attendees of which 140 were initially occupied but after a hour and half many students began to leave because they had classes and only contemplated that time. At the end, 60 attendees stayed, leaving 30. From there we opened a panel of questions and that is where the interesting thing happened as we began to answer their questions. One of them that struck me most was about quantum computers, how it would affect cryptocurrencies long-term.
 
-(It should be said that many of the attending students who stayed until the end are doing their thesis in cryptocurrencies and blockchain) so the theme came in handy but what entertained us the most was that 2 public finance teachers and a systems man with whom we started a debate on Decred vs. Mexican peso attended the public.
+It should be noted that many of the attending students who stayed until the end are doing their thesis in cryptocurrencies and blockchain, so the theme came in handy. What entertained us the most was that 2 public finance teachers and a systems man attended, with whom we started a debate on Decred vs. Mexican peso.
 
-If it is already complicated to discuss with Bitcoin maximalists, imagine with Fiat money maximalists.
+If it is already complicated to discuss with Bitcoin maximalists, imagine a debate with fiat money maximalists.
 
-The debate was so intense with reasonable arguments from each party that we kept those 30 attendees another 20 min more, in addition to taking advantage of distributing the Decred T-shirts they reached for everyone who had stayed.
+The debate was so intense with reasonable arguments from each side that we kept those 30 attendees for another 20 min, in addition to taking advantage of distributing Decred T-shirts that were available for everyone who had stayed.
 
 Conclusion: the debate was very good because we gave points of view where there was evidence that "money" is a very volatile concept in human matters, but that we can correct all those details that have led us to make mistakes and we can land it and be objective thanks to the technological advance that we have, which makes it possible.
 
