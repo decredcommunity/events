@@ -23,6 +23,8 @@ It was interesting to notice that the panel had two very different points of vie
 
 One of my core arguments for reflection on digital identities was the power that centralised corporations have to collect and mine personal data. I argued that sovereign identities are key for empowering those who want to take control over their data. Nonetheless, with great power comes great responsibility, being in control of our data requires a serious degree of technological involvement. One of the question that I put on the table was if we were ready to have such control or do we prefer to have a "forgot your password?" button. One of the key facts that resonated among the audience was the fact that 12 million people around the world do not have an identity, limiting everything they can do or access.
 
+There was a 30% discount via a promocode `DECRED30`.
+
 ## Media
 
 Photos:
