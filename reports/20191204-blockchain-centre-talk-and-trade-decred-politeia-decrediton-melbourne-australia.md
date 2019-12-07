@@ -1,4 +1,4 @@
-# Talk & Trade - Blockchain & Cryptocurrency Meetup (Decred and Politeia) in Melbourne, Australia
+# Blockchain Centre Talk & Trade - Blockchain & Cryptocurrency Meetup (Decred and Politeia) in Melbourne, Australia
 
 Report by @eSizeDave.
 
