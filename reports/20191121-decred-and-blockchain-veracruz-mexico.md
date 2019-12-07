@@ -21,7 +21,7 @@ On November 21, the Decred meeting concluded in Veracruz, Mexico.
 
 The conference was divided into 3 presentations: @francov\_ started with an introduction on blockchain and alternative digital economy, taking Bitcoin as a quick example, then @luisantoniocrag with a Decred introduction and then our partner Luis Miguel García who talked about tokenization. (Luis M. García is a contact we have thanks to the Monterrey blockchain community, who encouraged us to attend the University and managed the open space for us).
 
-The space was filled with 180 attendees of which 140 were initially occupied but after a hour and half many students began to leave because they had classes and only contemplated that time. At the end, 60 attendees stayed, leaving 30. From there we opened a panel of questions and that is where the interesting thing happened as we began to answer their questions. One of them that struck me most was about quantum computers, how it would affect cryptocurrencies long-term.
+The space was filled with 180 attendees of which 140 were initially occupied but after a hour and half many students began to leave because they had classes and only contemplated that time. At the end, 30 attendees stayed. From there we opened a panel of questions and that is where the interesting thing happened as we began to answer their questions. One of them that struck me most was about quantum computers, how it would affect cryptocurrencies long-term.
 
 It should be noted that many of the attending students who stayed until the end are doing their thesis in cryptocurrencies and blockchain, so the theme came in handy. What entertained us the most was that 2 public finance teachers and a systems man attended, with whom we started a debate on Decred vs. Mexican peso.
 
@@ -35,7 +35,7 @@ Create a decentralized economic alternative.
 
 - As a curious anecdote, among the public was a professor who teaches systems at that same university, who also at the end debated why cryptocurrencies have no future, and his argument was based on the fact that cryptos are made of "faith of religion" because they will only work if people believe in them, but that that will be impossible because as money can be something that is not touched or seen, it is a blind faith.
 
-- We debated for a while but at the end we realized that in technology in economics it is not up to date, has never made interbank transfers, does not handle credit cards or has used bank applications in addition to staying asleep at the conference
+- We debated for a while but at the end we noticed with the comments we exchanged with the professor of computer systems who does not know how technology is currently being used in financial sector. He does not know how an interbank transfer works, use of banking apps and paying with QR code.
 
 ## Goals
 
