@@ -13,7 +13,7 @@ Report by @elian
 
 - attendees: @elian, @victorarubin
 
-Swag {distributed?}:
+Swag distributed:
 
 - T-shirts: 20
 - stickers: 100
