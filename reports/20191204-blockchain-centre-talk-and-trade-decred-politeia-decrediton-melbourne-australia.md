@@ -24,15 +24,15 @@ Distributed/Total:
 
 ## Overview
 
-Blockchain Centre's newly introduced Talk & Trade format now includes a more educational bend to it whereby products and services are demo'ed and deeper insights into projects are shared.
+The Blockchain Centre's newly introduced Talk & Trade format now includes a more educational bend to it whereby products and services are demo'd and deeper insights into projects are shared.
 
-We were invited to this weeks session and it was a wonderful time for everyone involved. The demo was meant to go for no more than 30 minutes, however we surpassed 1.45 hours in total - including an informal and open debate amongst the participants.
+We were invited to this week's session and it was a wonderful time for everyone involved. The demo was meant to go for no more than 30 minutes, however we surpassed 1.45 hours in total - including an informal and open debate amongst the participants.
 
-Within the 1.45 hours, we gave an overview of Decred, its principles, its governance design, shared the mechanics of how our governance works and then showcased Politeia and Decrediton. In addition to that, we discussed staking and its role in decred's model as well as the incentives brings about in shaping the behavioural element of all Decred participants.
+Within the 1:45 hours, we gave an overview of Decred, its principles, its governance design, shared the mechanics of how our governance works and then showcased Politeia and Decrediton. In addition to that, we discussed staking and its role in Decred's model as well as the incentives brings about in shaping the behavioural element of all Decred participants.
 
-Questions were asked by the participants on how to best game the system, and we had a great time debating theories on how it would work and why it would even be the case should someone or some entity try to game the decred network. This has brought about an interesting side to the conversation and we are going to touch on this aspect a lot more in future workshops and presentations.
+Questions were asked by the participants on how to best game the system, and we had a great time debating theories on how it would work and why it would even be the case should someone or some entity try to game the Decred network. This has brought about an interesting side to the conversation and we are going to touch on this aspect a lot more in future workshops and presentations.
 
-Blockchain Centre has invited us to run another workshop in 2020, sometime February and they are very happy with the content we share as they believe it is very informative and valuable to furthering an individuals understanding of the blockchain industry.
+The Blockchain Centre has invited us to run another workshop in 2020, likely sometime February, and they are very happy with the content we share as they believe it is very informative and valuable to furthering an individuals understanding of the blockchain industry.
 
 ## Media
 
