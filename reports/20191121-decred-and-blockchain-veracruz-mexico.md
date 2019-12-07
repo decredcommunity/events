@@ -29,6 +29,18 @@ If it is already complicated to discuss with Bitcoin maximalists, imagine a deba
 
 The debate was so intense with reasonable arguments from each side that we kept those 30 attendees for another 20 min, in addition to taking advantage of distributing Decred T-shirts that were available for everyone who had stayed.
 
+The debate was so intense with reasonable arguments from each side that we kept those 30 attendees for another 20 min, in addition to taking advantage of distributing Decred T-shirts that were available for everyone who had stayed.
+
+The most interesting part of the debate was the question: who will back up my money in Decred? Arguing that if something happens to FIAT money at least someone will answer for it.
+
+**I don't blame them for this, it's the system that lived cheating us all this time.**
+
+The answer was Decred may not be for everyone, we are an alternate digital economy, with our own system of government and where the community has its own voice about the future of its own money.
+
+If you are happy with the current system, the answer is that this technology is not for you, but if at least you feel uncomfortable, I recommend you review the project.
+
+In the end they were reflecting on it, and they told us that it would be excellent to set up a workshop or some deeper conference so that they understand the use of Decred and blockchain technology and how Decred improves the way decisions are made in Mexico and LATAM.
+
 Conclusion: the debate was very good because we gave points of view where there was evidence that "money" is a very volatile concept in human matters, but that we can correct all those details that have led us to make mistakes and we can land it and be objective thanks to the technological advance that we have, which makes it possible.
 
 Create a decentralized economic alternative.
