@@ -44,9 +44,3 @@ Blockchain Centre has invited us to run another workshop in 2020, sometime Febru
 #### Photos:
 
 - ![@eSizeDave beginning the presentation](https://pbs.twimg.com/media/EK7Q9SuU8AAksH9?format=jpg&name=4096x4096 "@eSizeDave beginning the presentation")
-- WAITING ON MORE PHOTOS
-
-{embed any extra photos at the end like the examples below}
-
-![fallback text](http://example.com/image.jpg "tooltip text")
-![fallback text](http://example.com/image.jpg "tooltip text")
