@@ -1,4 +1,4 @@
-# Panel International Law and DAOs in Medellín, Colombia
+# Journey 4.0 in Medellín, Colombia
 
 Report by @elian
 
