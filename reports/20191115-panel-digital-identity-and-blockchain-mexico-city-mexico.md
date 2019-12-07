@@ -1,4 +1,4 @@
-## Panel on Digital Identity and Blockchain in Mexico City, Mexico
+## Open Banking, Fintech and Blockchain Summit in Mexico City, Mexico
 
 Report by @elian
 
@@ -21,7 +21,7 @@ I was invited by the organisers of the Open Banking, Fintech and Blockchain Summ
 
 It was interesting to notice that the panel had two very different points of view towards digital identity, the risks, challenges and potential use cases for digital identities. During the panel I gave a brief introduction to Decred, the importance of privacy and security of personal data from the perspective of a Decentralised Autonomous Organisation. Furthermore, I explained the differences between centralised, federated and sovereign identity, their main characteristics and examples of how these identities work. I received several complements from the audience due to the strong arguments to reflection on identity, user data protection and our self responsibility to take care of such information.
 
-One of my core arguments for reflection on digital identities was the power that centralised corporations to collect and mine personal data. I argued that sovereign identities are key for empower those who want to take control over their data. Nonetheless, with great power comes great responsibility, being in control of our data requires a serious degree of technological involvement. One of the question that I put on the table was if we were ready to have such control or do we prefer to have a “forgot your password?” button. One of the key facts that resonated among the audience was the fact that 12 million people round the world do not have an identity, limiting everything they can do or access.
+One of my core arguments for reflection on digital identities was the power that centralised corporations have to collect and mine personal data. I argued that sovereign identities are key for empowering those who want to take control over their data. Nonetheless, with great power comes great responsibility, being in control of our data requires a serious degree of technological involvement. One of the question that I put on the table was if we were ready to have such control or do we prefer to have a "forgot your password?" button. One of the key facts that resonated among the audience was the fact that 12 million people around the world do not have an identity, limiting everything they can do or access.
 
 ## Media
 
