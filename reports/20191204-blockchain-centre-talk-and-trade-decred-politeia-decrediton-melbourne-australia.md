@@ -44,3 +44,4 @@ The Blockchain Centre has invited us to run another workshop in 2020, likely som
 #### Photos:
 
 - ![@eSizeDave beginning the presentation](https://pbs.twimg.com/media/EK7Q9SuU8AAksH9?format=jpg&name=4096x4096 "@eSizeDave beginning the presentation")
+- ![@eSizeDave and the Talk & Trade audience](https://pbs.twimg.com/media/ELTt7pHU8AASD2t?format=jpg&name=900x900 "@eSizeDave and the Talk & Trade audience")
