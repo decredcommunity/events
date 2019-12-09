@@ -40,6 +40,7 @@ The Blockchain Centre has invited us to run another workshop in 2020, likely som
 
 - Twitter post by @GB_Discovery [DECRED'ing at the @BlockchainCTR tonight @decredproject](https://twitter.com/GB_Discovery/status/1202127915430756353)
 - Twitter post by @gtklefevre [Great talk this evening from @DecredAustralia on their governance platform Politeia with a bonus discussion on PoS attack vectors and incentives. Thanks for hosting @BlockchainCTR](https://twitter.com/gtklefevre/status/1202147360601559040)
+- Twitter post by @DecredAustralia [Thank you @BlockchainCTR for having us on your weekly talk and trade! Great crowd and we look forward to more collabs with your community :) @decredproject \$DCR #decred](https://twitter.com/DecredAustralia/status/1203848619415097344?s=20)
 
 #### Photos:
 
