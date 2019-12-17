@@ -2,23 +2,19 @@
 
 Report by @eSizeDave.
 
-#### Info:
+#### Info
 
-- Dates: 04 December 2019 (1 day)
-- Location: Stone & Chalk, Melbourne, Australia
-- Event: https://www.meetup.com/en-AU/blockchaincentre/events/jlpnlryzqbgb/
-- Site: n/a
-- Twitter: https://twitter.com/DecredAustralia/status/1200942720975425536
-- Visitors: 20 attendees (estimate)
+- dates: 04 December 2019
+- location: Stone & Chalk, Melbourne, Australia
+- announcements: [meetup](https://www.meetup.com/blockchaincentre/events/266659342/), [meetup](https://www.meetup.com/BlockchainMelbourne/events/266857183/), [twitter](https://twitter.com/DecredAustralia/status/1200942720975425536)
+- visitors: 20 (estimate)
 
-#### Decred presence:
+#### Decred presence
 
-- Attendees: @eSizeDave and @zohand
-- We were the main presentation
+- attendees: @eSizeDave, @zohand
+- we were the main presentation
 
-#### Swag:
-
-Distributed/Total:
+Swag distributed/total:
 
 - T-shirts: 10/10
 
@@ -36,13 +32,14 @@ The Blockchain Centre has invited us to run another workshop in 2020, likely som
 
 ## Media
 
-#### Social media posts by audience attendees:
+#### Social media posts by attendees
 
-- Twitter post by @GB_Discovery [DECRED'ing at the @BlockchainCTR tonight @decredproject](https://twitter.com/GB_Discovery/status/1202127915430756353)
-- Twitter post by @gtklefevre [Great talk this evening from @DecredAustralia on their governance platform Politeia with a bonus discussion on PoS attack vectors and incentives. Thanks for hosting @BlockchainCTR](https://twitter.com/gtklefevre/status/1202147360601559040)
-- Twitter post by @DecredAustralia [Thank you @BlockchainCTR for having us on your weekly talk and trade! Great crowd and we look forward to more collabs with your community :) @decredproject \$DCR #decred](https://twitter.com/DecredAustralia/status/1203848619415097344?s=20)
+- "DECRED'ing at the @BlockchainCTR tonight @decredproject" ([@GB_Discovery](https://twitter.com/GB_Discovery/status/1202127915430756353))
+- "Great talk this evening from @DecredAustralia on their governance platform Politeia with a bonus discussion on PoS attack vectors and incentives. Thanks for hosting @BlockchainCTR" ([@gtklefevre](https://twitter.com/gtklefevre/status/1202147360601559040))
+- "Thank you @BlockchainCTR for having us on your weekly talk and trade! Great crowd and we look forward to more collabs with your community :) @decredproject $DCR #decred" ([@DecredAustralia](https://twitter.com/DecredAustralia/status/1203848619415097344))
 
-#### Photos:
+#### Photos
 
-- ![@eSizeDave beginning the presentation](https://pbs.twimg.com/media/EK7Q9SuU8AAksH9?format=jpg&name=4096x4096 "@eSizeDave beginning the presentation")
-- ![@eSizeDave and the Talk & Trade audience](https://pbs.twimg.com/media/ELTt7pHU8AASD2t?format=jpg&name=900x900 "@eSizeDave and the Talk & Trade audience")
+![@eSizeDave beginning the presentation](https://pbs.twimg.com/media/EK7Q9SuU8AAksH9.jpg "@eSizeDave beginning the presentation")
+
+![@eSizeDave and the Talk & Trade audience](https://pbs.twimg.com/media/ELTt7pHU8AASD2t.jpg "@eSizeDave and the Talk & Trade audience")
