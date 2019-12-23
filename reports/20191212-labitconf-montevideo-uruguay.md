@@ -23,7 +23,7 @@ Swag distributed:
 
 Labitconf is the most prestigious event about Bitcoin, cryptocurrencies and blockchain in Latin America. The event is designed to be a hot spot for networking between businesses in the cryptocurrency industries and to showcase new projects and ideas.
 
-The conference was held in the Radisson Hotel of Montevideo, Uruguay, and gathered around 500 visitors. The audience was mainly cryptocurrency professionals from a variety of projects and organisations. There was a small number of enthusiasts that attended to know more about cryptocurrencies and blockchain technology. The professional audience that attended the conference was focused on exploring Business to Business opportunities (B2B). This set an interesting atmosphere to talk about business and collaborations to continue fostering the cryptocurrency ecosystem.
+The conference was held in the Radisson Hotel of Montevideo, Uruguay, and gathered around 1000 visitors. The audience was mainly cryptocurrency professionals from a variety of projects and organisations. There was a small number of enthusiasts that attended to know more about cryptocurrencies and blockchain technology. The professional audience that attended the conference was focused on exploring Business to Business opportunities (B2B). This set an interesting atmosphere to talk about business and collaborations to continue fostering the cryptocurrency ecosystem.
 
 Decred team at Labitconf included by @victorarubin and @elian from Mexico, @pablito, @nachito, @tomme, @camilolwi and @guido from Argentina. During two days the team got the chance to talk and network with all the companies and organisations that attended Labitconf, setting an interesting precedent for Decred project as this has been the largest team the project has sent to Labitconf. During the conference we got the chance to discover that our efforts during the past year were successful in terms of brand awareness and recognition. During the conference we could notice that practically all projects, both from Argentina and international, knew about Decred project. This is something that was perceived by all crew members both from Mexico and Argentina.
 
@@ -69,9 +69,9 @@ Some of the people and companies we got the chance to talk are:
 - Diego Saldivar CEO de RIF labs, founder of RSK.
 - Pablo Coirolo from Aeternity Blockchain.
 - Rocelo Lopes from Stratum.
-- Pablo Gonzales CEO, Eduardo Arenas Listing Manager and Jose Rodriguez VP Payments from Bitso, we talk about having DCR listed next year after they settle their operations in Argentina and Brazil.
+- Pablo Gonzales CEO, Eduardo Arenas Listing Manager and Jose Rodriguez VP Payments from Bitso, we talked about new opportunities for Latin America, particularly the interest of Decred and Bitso in Argentina and Brazil.
 - Tim Byun CEO OKCoin, Jim Nguyen VP Marketing, Oscar Muñoz Compliance Officer, Pablo Almagro Regional Manager Latam, we talk about having a cohosted event between OKCoin and Decred.
-- Rafael Bonventi Client Success Specialist, Lane Fraum Account Manager at Kraken Exchange, talked about having DCR listed and get introduced to the listing team to follow up on the conversation.
+- Rafael Bonventi Client Success Specialist, Lane Fraum Account Manager at Kraken Exchange, talked about opportunities between Kraken and DCR and introduced to the listing team to follow up on the conversation.
 - Staff from Houbi Global, we talked about having DCR listed in Houbi Argentina for next year as they are getting ready to start operation in Argentina.
 - Fernando Gutierrez CMO, Ernesto Contreras Community Manager Latam Dash Core
 
