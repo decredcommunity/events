@@ -71,7 +71,7 @@ Some of the people and companies we got the chance to talk are:
 - Rocelo Lopes from Stratum.
 - Pablo Gonzales CEO, Eduardo Arenas Listing Manager and Jose Rodriguez VP Payments from Bitso, we talked about new opportunities for Latin America, particularly the interest of Decred and Bitso in Argentina and Brazil.
 - Tim Byun CEO OKCoin, Jim Nguyen VP Marketing, Oscar Muñoz Compliance Officer, Pablo Almagro Regional Manager Latam, we talk about having a cohosted event between OKCoin and Decred.
-- Rafael Bonventi Client Success Specialist, Lane Fraum Account Manager at Kraken Exchange, talked about opportunities between Kraken and DCR and introduced to the listing team to follow up on the conversation.
+- Rafael Bonventi Client Success Specialist, Lane Fraum Account Manager at Kraken Exchange, talked about opportunities between Kraken and DCR and got introduced to the listing team to follow up on the conversation.
 - Staff from Houbi Global, we talked about having DCR listed in Houbi Argentina for next year as they are getting ready to start operation in Argentina.
 - Fernando Gutierrez CMO, Ernesto Contreras Community Manager Latam Dash Core
 
