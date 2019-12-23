@@ -6,6 +6,7 @@ Report by @elian, @guido, @pablito.
 
 - dates: 12-13 December 2019
 - location: Radisson Victoria Plaza Hotel, Plaza Independencia 759, Montevideo, Uruguay
+- links: [labitconf.com](https://www.labitconf.com/), [@laBITconf](https://twitter.com/laBITconf)
 - visitors: 1000
 
 #### Decred presence
@@ -87,6 +88,7 @@ Labitconf is dominated by community projects. There may be some corporate partic
 
 #### Social media
 
+- https://twitter.com/Decred_ES/status/1205174659660091392
 - https://twitter.com/Decred_ES/status/1205138606144266241
 - https://twitter.com/Decred_ES/status/1205191311986483200
 - https://twitter.com/jimnguyenjn/status/1205209365130743808
