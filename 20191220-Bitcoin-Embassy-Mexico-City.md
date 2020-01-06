@@ -30,18 +30,16 @@ The event was also attended by members of crypto communities in some regions of 
 **People who know about Decred get to know more.**
 
 ## Goals
-
 - Strengthen relations with Bitcoin Embassy Mexico where they often attend crypto meetings and talks about economy.
 - Talk to the public about Decred, especially knowing what they know so far.
 - Talk about Decred with very active members in the ecosystem as co-founders of important exchanges in Mexico City and eliminate any doubts about Decred and discuss the proposal for LATAM.
-- People who know Decred, talk to answer questions about the project.
 
 ## Evaluation
 - The Decred team participated very well, @francov\_ , @victorarubin and @luisantoniocrag_ talked all night about Decred with most of event attendees.
 
 ## Learnings & Outcomes
 - Mexican exchanges are increasingly interested in Decred, especially with Decred's growth plan in LATAM 2020. We hope to have more conversations soon.
-
+- People who know the project now have a deeper knowledge about Decred's government.
 
 ## Media
 
