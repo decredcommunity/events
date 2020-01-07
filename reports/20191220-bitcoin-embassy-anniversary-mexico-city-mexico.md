@@ -22,7 +22,7 @@ In Mexico City there is a very peculiar bar and the reason is because they accep
 
 Bitcoin Embassy celebrated its first anniversary, and through the great relationships the LATAM team has made with Bitcoin Embassy owners, they invited us to be present and sponsor the event. The event gave an opportunity to talk about Decred among the public and very active people in the crypto environment, such as co-founders and partners of the main exchanges in Mexico.
 
-These meetings are very favorable for Decred, since every time people come to ask more about the cryptocurrency and form of governance.
+These meetings are very favorable for Decred, since every time people come to ask more about the cryptocurrency and its form of governance.
 
 The event was also attended by members of crypto communities in some regions of the country. Many of them already knew Decred but the main idea is: **People who know about Decred get to know more.**
 
