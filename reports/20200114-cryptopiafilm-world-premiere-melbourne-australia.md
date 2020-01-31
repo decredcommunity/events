@@ -41,6 +41,10 @@ As part of the sponsorship, Decred was showcased on a variety of promotional con
 
 - "#CryptopiaFilm Launch Event" - Rough cut of promo film recorded at the event by Torsten Hoffmann ([youtube](https://www.youtube.com/watch?v=xQur8dtdX58))
 
+#### Social media:
+
+- https://twitter.com/DecredAustralia/status/1217282949625761792
+
 #### Photos:
 
 ![The theatre filling up before the official proceedings of the event begin](https://pbs.twimg.com/media/EOSoY1QU0AAMad2.jpg "The theatre filling up before the official proceedings of the event begin")
