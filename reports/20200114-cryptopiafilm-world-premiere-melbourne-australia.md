@@ -15,18 +15,13 @@ Report by @eSizeDave.
 
 - attendees: @eSizeDave, @zohand
 - Pre-screening panel spot for @eSizeDave, clips of Decred community members speaking in the promo video recorded at the event, Decred banner and logo displayed on event signage, quotation specifically for Decred included in the event media release. Decred sponsored the event catering.
-
-#### Swag:
-
-Distributed/Total:
-
-- None.
+- no swag this time.
 
 ## Overview
 
-Decred was invited to be an event sponsor and launch partner of Cryptopia Film. A documentary about the key themes within cryptocurrency, which include regulation, privacy, financial services, governance, marketing and development.
+Decred was invited to be an event sponsor and launch partner of Cryptopia Film, a documentary about the key themes within cryptocurrency, which include regulation, privacy, financial services, governance, marketing and development.
 
-The event was a standout success as an entire theatre was booked out with over 140 guests from the crypto and blockchain community attending. Starting off with networking and some photo opportunities, the event followed through with a panel discussion where Decred was a participant. We got the opportunity to share a lot of our collectives views about the space and it was very well received by the guests. Furthermore, it was a great platform to showcase what Decred is about. The audience were a mix of all the key exchanges in the country, influencers in the community and peripheral service providers.
+The event was a standout success as an entire theatre was booked out with over 140 guests from the crypto and blockchain community attending. Starting off with networking and some photo opportunities, the event followed through with a panel discussion where Decred was a participant. We got the opportunity to share a lot of our collective views about the space and it was very well received by the guests. Furthermore, it was a great platform to showcase what Decred is about. The audience were a mix of all the key exchanges in the country, influencers in the community and peripheral service providers.
 
 Following on from the panel session, we began the movie and we could not help ourselves but think about how similarly aligned Decred’s messaging was in the panel and our overall marketing, in addition to the way the themes were dissected and portrayed in the documentary.
 
@@ -40,7 +35,6 @@ As part of the sponsorship, Decred was showcased on a variety of promotional con
 
 - Official press release https://prwire.com.au/r/87706
 - Post event tweet from official Twitter account https://twitter.com/CryptopiaFilm/status/1222513445737848832
-- Rough cut of promo film recorded at the event https://www.youtube.com/watch?v=xQur8dtdX58
 - https://micky.com.au/davos-aussie-wows-elite-with-secret-swiss-bitcoin-bunker-footage/
 
 #### Videos:
@@ -49,7 +43,7 @@ As part of the sponsorship, Decred was showcased on a variety of promotional con
 
 #### Photos:
 
-![The theatre filling up before the official proceedings of the event begin](https://pbs.twimg.com/media/EOSoY1QU0AAMad2?format=jpg&name=medium "The theatre filling up before the official proceedings of the event begin")
-![@eSizeDave on the pre-screening panel](https://pbs.twimg.com/media/EOSoY1QUcAAC5Mr?format=jpg&name=medium "@eSizeDave on the pre-screening panel")
-![@eSizeDave being filmed for the documentary world tour promo video](https://pbs.twimg.com/media/EOSoY1MU8AESDzV?format=jpg&name=medium "@eSizeDave being filmed for the documentary world tour promo video")
-![Film creator, Torsten Hoffmann, @eSizeDave, and a Decred fan](https://pbs.twimg.com/media/EOSoY1NVUAA60XS?format=jpg&name=medium "Film creator, Torsten Hoffmann, @eSizeDave, and a Decred fan")
+![The theatre filling up before the official proceedings of the event begin](https://pbs.twimg.com/media/EOSoY1QU0AAMad2.jpg "The theatre filling up before the official proceedings of the event begin")
+![@eSizeDave on the pre-screening panel](https://pbs.twimg.com/media/EOSoY1QUcAAC5Mr.jpg "@eSizeDave on the pre-screening panel")
+![@eSizeDave being filmed for the documentary world tour promo video](https://pbs.twimg.com/media/EOSoY1MU8AESDzV.jpg "@eSizeDave being filmed for the documentary world tour promo video")
+![Film creator, Torsten Hoffmann, @eSizeDave, and a Decred fan](https://pbs.twimg.com/media/EOSoY1NVUAA60XS.jpg "Film creator, Torsten Hoffmann, @eSizeDave, and a Decred fan")
