@@ -7,9 +7,9 @@ Report by @kozel.
 - date: 14 Jan 2020
 - location: Brainly HQ, Cracow, Poland
 - event: GoCracow #7 Meetup
-- site: [Meetup website](https://www.meetup.com/en-AU/GoCracow/events/265765051/)
-- Twitter: [Twitter](https://twitter.com/CracowGo)
-- visitors: +- 30
+- announcements: [meetup](https://www.meetup.com/GoCracow/events/265765051/), [twitter](https://twitter.com/Decred_PL/status/1216683812614074368)
+- Twitter: [@CracowGo](https://twitter.com/CracowGo)
+- visitors: around 30
 
 #### Decred presence:
 
@@ -19,7 +19,7 @@ Report by @kozel.
 
 The main goal was to familiarise the audience of Go developers with the basics of cryptocurrency and specifics of both the Decred architecture and the onboarding process and work culture.
 
-Due to the time constraints (ca. 45 minutes) for the speaking slot some generalisations had to be made, particularly in the area of the Decred hybrid-consensus mechanism, which was later explained in more depth to those interested after the presentation, in order to make room for the details of Decred dev culture and collaboration.
+Due to the time constraints (ca. 45 minutes) for the speaking slot some generalisations had to be made, particularly in the area of the Decred hybrid consensus mechanism, which was later explained in more depth to those interested after the presentation, in order to make room for the details of Decred dev culture and collaboration.
 
 The audience was attentive, even though those, who self-described as familiar or enthusiastic about crypto were in clear minority. After the presenation, both during the Q&A segment and postpresenation networking questions about PoW's energy consumption and impact on the environment, places to find outstanding issues in Decred to be tackled, as well as the history and motivation behind Decred's creation were asked and addressed.
 
@@ -39,3 +39,4 @@ Nevertheless, it would be interesting to see if the response was any different g
 #### Photos:
 
 - Event photos are available at the meetup even website [here](https://www.meetup.com/GoCracow/photos/30673204/488180141/).
+- https://twitter.com/Decred_PL/status/1219598013896646658
