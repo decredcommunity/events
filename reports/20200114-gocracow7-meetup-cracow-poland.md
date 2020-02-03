@@ -1,6 +1,5 @@
 # GoCracow #7 in Cracow, Poland
 
-
 Report by @kozel.
 
 #### Info:
