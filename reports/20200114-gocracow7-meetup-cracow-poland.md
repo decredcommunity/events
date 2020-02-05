@@ -1,11 +1,11 @@
-# GoCracow #7 in Cracow, Poland
+# GoCracow #7 in Kraków, Poland
 
 Report by @kozel.
 
 #### Info:
 
 - date: 14 Jan 2020
-- location: Brainly HQ, Cracow, Poland
+- location: Brainly HQ, Kraków, Poland
 - event: GoCracow #7 Meetup
 - announcements: [meetup](https://www.meetup.com/GoCracow/events/265765051/), [twitter](https://twitter.com/Decred_PL/status/1216683812614074368)
 - Twitter: [@CracowGo](https://twitter.com/CracowGo)
