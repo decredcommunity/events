@@ -6,9 +6,9 @@ Report by @eSizeDave.
 
 - dates: 14 January 2020
 - location: Treasury Theatre, Melbourne, Australia
-- event: https://www.meetup.com/en-AU/BC-Aus/events/267242503/
-- site: http://www.cryptopiafilm.com/
-- Twitter: https://twitter.com/CryptopiaFilm
+- announcements: [meetup](https://www.meetup.com/en-AU/BC-Aus/events/267242503/)
+- site: [cryptopiafilm.com](http://www.cryptopiafilm.com/)
+- Twitter: [@CryptopiaFilm](https://twitter.com/CryptopiaFilm)
 - visitors: 140 estimated
 
 #### Decred presence:
