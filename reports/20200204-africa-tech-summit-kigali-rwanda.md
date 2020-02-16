@@ -1,19 +1,19 @@
 # Africa Tech Summit Kigali, Rwanda Feb 2020
 
-Report by {Akin Sawyerr} 
+Report by Akin Sawyerr
 
 ## Info:
 
-* dates: {Frbruary 4-6 2020 (3 days)}
-* location: {(Kigali Convention Center), Kigali, Rwanda}
-* event website: {https://www.africatechsummit.com/kigali/}
-* event preview video: {https://youtu.be/6hjFfRkRiI8}
-* Twitter: {https://twitter.com/AfricaTechSMT}
-* visitors: {600+}
+* dates: Frbruary 4-6 2020 (3 days)
+* location: (Kigali Convention Center), Kigali, Rwanda
+* event website: https://www.africatechsummit.com/kigali/
+* event preview video: https://youtu.be/6hjFfRkRiI8
+* Twitter: https://twitter.com/AfricaTechSMT
+* visitors: 600+
 
 ## Decred presence:
 
-* attendees: {@akinsawyerr} {@beansgum}
+* attendees: @akinsawyerr @beansgum
 
 
 
@@ -34,7 +34,7 @@ Here us a summary of the feedback I got from talking to people within the aforem
 ### Regulators 
 
 I was able to connect with a couple of regulators from Kenya, the 2nd largest economy in East Africa behind Ethiopia, and the most vibrant and well develop tech ecosystem in the region.
-Kenya established a crypto currency task force March 2018 that is tasked with developing a 15-year roadmap that will enable the country to tap into the emerging opportunities in the cryptocurrency space {https://qz.com/africa/1222541/kenya-has-created-a-blockchain-task-force/}.
+Kenya established a crypto currency task force March 2018 that is tasked with developing a 15-year roadmap that will enable the country to tap into the emerging opportunities in the cryptocurrency space https://qz.com/africa/1222541/kenya-has-created-a-blockchain-task-force/.
 I had the opportuntiy to connect with Hon. Michael Onyago who is a member of the 11 person task force, and Mr. Breitner Nyantika, a Strategy and Policy Officer at Capital Markets Authority of Kenya.
 
 While Kenya is one of the more proactive countries in Africa that is looking into the cryptocurrency space and looking to develop sound regulations and policies, its was also very apparent how big the knowledge gap is between regulators and particioners in the cryptocurrency space.
