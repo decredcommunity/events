@@ -9,7 +9,7 @@
 
 #### Decred presence:
 
-- attendees: @cooperly99, @metaclips, @osho_refueled @beansgum
+- attendees: @beansgum, @cooperly99, @metaclips, @osho\_refueled
 
 ## Overview
 
@@ -37,5 +37,4 @@ A community-building approach to the marketing efforts of Decred in Nigeria is h
 ## Media
 
 - https://twitter.com/cooperly99/status/1227177491892232194
-- https://www.eventbrite.com/e/decred-crypto-hangout-learn-about-career-opportunities-in-the-industry-tickets-91830803405
 - https://drive.google.com/drive/u/5/folders/1HCeeU6j2JodlWmDH9GdwjRNY5kWsRcEP
