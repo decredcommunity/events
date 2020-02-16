@@ -6,8 +6,8 @@ Report by Akin Sawyerr
 
 - dates: February 4-6 2020 (3 days)
 - location: Kigali Convention Center, Kigali, Rwanda
+- announcements: [twitter](https://twitter.com/AfricaTechSMT/status/1215238710305968129), [youtube](https://www.youtube.com/watch?v=6hjFfRkRiI8), [appsafrica.com](https://www.appsafrica.com/the-future-of-digital-currencies-in-africa-meet-decred-the-autonomous-digital-currency/)
 - event website: [africatechsummit.com/kigali](https://www.africatechsummit.com/kigali/)
-- event preview video: [youtube](https://www.youtube.com/watch?v=6hjFfRkRiI8)
 - Twitter: [@AfricaTechSMT](https://twitter.com/AfricaTechSMT)
 - visitors: 600+
 
@@ -27,7 +27,7 @@ I went into this event with a lot of high expectations which were largely met. I
 
 ### Regulators
 
-I was able to connect with a couple of regulators from Kenya, the 2nd largest economy in East Africa behind Ethiopia, and the most vibrant and well developed tech ecosystem in the region. Kenya established a crypto currency task force March 2018 that is tasked with developing a 15-year roadmap that will enable the country to tap into the emerging opportunities in the cryptocurrency space https://qz.com/africa/1222541/kenya-has-created-a-blockchain-task-force/ . I had the opportuntiy to connect with Hon. Michael Onyago who is a member of the 11 person task force, and Mr. Breitner Nyantika, a Strategy and Policy Officer at Capital Markets Authority of Kenya.
+I was able to connect with a couple of regulators from Kenya, the 2nd largest economy in East Africa behind Ethiopia, and the most vibrant and well developed tech ecosystem in the region. Kenya [established](https://qz.com/africa/1222541/kenya-has-created-a-blockchain-task-force/) a crypto currency task force March 2018 that is tasked with developing a 15-year roadmap that will enable the country to tap into the emerging opportunities in the cryptocurrency space. I had the opportuntiy to connect with Hon. Michael Onyago who is a member of the 11 person task force, and Mr. Breitner Nyantika, a Strategy and Policy Officer at Capital Markets Authority of Kenya.
 
 While Kenya is one of the more proactive countries in Africa that is looking into the cryptocurrency space and looking to develop sound regulations and policies, its was also very apparent how big the knowledge gap is between regulators and practitioners in the cryptocurrency space. I did find that Mr. Breitner Nyantika in particular was very open to learning and trying to undertsand my perspectives and we talked for over 2 hrs, exchanging ideas in a cordial manner. I eneded things telling him he is the first regulator I actually consider a friend :).
 
