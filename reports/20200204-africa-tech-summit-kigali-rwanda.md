@@ -19,7 +19,7 @@ Report by Akin Sawyerr
 
 Africa Tech Summit is a bi-annual event held in Kigali and London. It is a pre-eminent event that provides unrivalled insight, networking and business opportunities for African and international tech leaders and investors who want to do business in Africa.
 
-The three day tech summit in Kigali featured – The Future Summit, The Money & Blockchain Summit and The Africa Startup Summit. Each explored the latest trends, connected 600+ digital leaders, tech corporates, MNO’s, banks, investors, regulators, startups, creatives media and leading tech ventures from across Africa over an action-packed three days of insight, networking and entertainment.
+The three day tech summit in Kigali featured: The Future Summit, The Money & Blockchain Summit and The Africa Startup Summit. Each explored the latest trends, connected 600+ digital leaders, tech corporates, MNO's, banks, investors, regulators, startups, creatives media and leading tech ventures from across Africa over an action-packed three days of insight, networking and entertainment.
 
 ## Expectations and Goals
 
