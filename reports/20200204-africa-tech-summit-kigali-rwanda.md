@@ -1,19 +1,19 @@
-# Africa Tech Summit Kigali, Rwanda Feb 2020
+# Africa Tech Summit in Kigali, Rwanda
 
 Report by Akin Sawyerr
 
-## Info:
+#### Info:
 
-* dates: Frbruary 4-6 2020 (3 days)
-* location: (Kigali Convention Center), Kigali, Rwanda
-* event website: https://www.africatechsummit.com/kigali/
-* event preview video: https://youtu.be/6hjFfRkRiI8
-* Twitter: https://twitter.com/AfricaTechSMT
-* visitors: 600+
+- dates: Frbruary 4-6 2020 (3 days)
+- location: Kigali Convention Center, Kigali, Rwanda
+- event website: [africatechsummit.com/kigali](https://www.africatechsummit.com/kigali/)
+- event preview video: [youtube](https://www.youtube.com/watch?v=6hjFfRkRiI8)
+- Twitter: [@AfricaTechSMT](https://twitter.com/AfricaTechSMT)
+- visitors: 600+
 
-## Decred presence:
+#### Decred presence:
 
-* attendees: @akinsawyerr @beansgum
+- attendees: @akinsawyerr @beansgum
 
 ## Overview
 
