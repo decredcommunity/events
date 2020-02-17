@@ -59,10 +59,21 @@ I was invited to speak at the London leg of the conference in May 2020 (prior to
 
 ## Photos
 
-![Pic 1](https://photos.app.goo.gl/qwdpFWSVkpXYnkcCA "Kigali Convention Center 1")
-![Pic 2](https://photos.app.goo.gl/GJb8Kmxe5t4hg9589 "Kigali Convention Center 2")
-![Pic 3](https://photos.app.goo.gl/2MdBd3e3iBGTG7uT9 "Decred logo on Sponsors Banner 1")
-![Pic 4](https://photos.app.goo.gl/bqtdnPSQPUmxaxMA8 "Panel discussion: Cryptocurrencies - The future of money in Africa?")
-![Pic 5](https://photos.app.goo.gl/oCLd5msbDdoMBQg77 "Panel discussion: Cryptocurrencies - The future of money in Africa?")
-![Pic 6](https://photos.app.goo.gl/LK5ojHBfP5yvuJeP6 "Panel discussion: Cryptocurrencies - The future of money in Africa?")
-![Pic 7](https://photos.app.goo.gl/j7BfUFuo4cnw2NNg7 "Kigali Convention Center 3")
+![Pic 1](https://user-images.githubusercontent.com/17677506/74612935-11cc9680-50d8-11ea-8baa-7df893fa9b60.jpg "Kigali Convention Center 1")
+![Pic 2](https://user-images.githubusercontent.com/17677506/74612941-17c27780-50d8-11ea-867b-eeab721eef5b.jpg "Kigali Convention Center 2")
+![Pic 3](https://user-images.githubusercontent.com/17677506/74612946-1e50ef00-50d8-11ea-8f01-314a774a5575.jpg "Decred logo on Sponsors Banner 1")
+![Pic 4](https://user-images.githubusercontent.com/17677506/74612950-2446d000-50d8-11ea-9002-8df04fa97989.jpg "Panel discussion: Cryptocurrencies - The future of money in Africa?")
+![Pic 5](https://user-images.githubusercontent.com/17677506/74612958-3b85bd80-50d8-11ea-93ce-f2fcd8b0beee.jpg "Panel discussion: Cryptocurrencies - The future of money in Africa?")
+![Pic 6](https://user-images.githubusercontent.com/17677506/74612966-42accb80-50d8-11ea-972b-e264fb809aa9.jpg "Panel discussion: Cryptocurrencies - The future of money in Africa?")
+![Pic 7](https://user-images.githubusercontent.com/17677506/74612974-48a2ac80-50d8-11ea-876c-35a5ad2c5f99.jpg "Kigali Convention Center 3")
+![Pic 8](https://user-images.githubusercontent.com/17677506/74613038-e26a5980-50d8-11ea-9b84-f47f2ce25e00.JPG "Akin and Collins")
+
+Photos are mirrored on Google:
+
+- https://photos.app.goo.gl/qwdpFWSVkpXYnkcCA
+- https://photos.app.goo.gl/GJb8Kmxe5t4hg9589
+- https://photos.app.goo.gl/2MdBd3e3iBGTG7uT9
+- https://photos.app.goo.gl/bqtdnPSQPUmxaxMA8
+- https://photos.app.goo.gl/oCLd5msbDdoMBQg77
+- https://photos.app.goo.gl/LK5ojHBfP5yvuJeP6
+- https://photos.app.goo.gl/j7BfUFuo4cnw2NNg7
