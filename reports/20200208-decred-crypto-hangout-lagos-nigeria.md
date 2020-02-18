@@ -9,7 +9,7 @@
 
 #### Decred presence:
 
-- attendees: Twitter Hnadles @beansgum, @cooperly99, @metaclips, @osho\_refueled
+- attendees: Twitter Handles @beansgum, @cooperly99, @metaclips, @osho\_refueled
              Github Handles @ademuanthony @C-ollins @metaclips @oshorefueled @petermuller99 
 
 ## Overview
