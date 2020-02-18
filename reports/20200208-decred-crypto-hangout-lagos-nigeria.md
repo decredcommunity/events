@@ -10,7 +10,8 @@
 #### Decred presence:
 
 - attendees: Twitter Handles @beansgum, @cooperly99, @metaclips, @osho\_refueled
-             Github Handles @ademuanthony @C-ollins @metaclips @oshorefueled @petermuller99 
+
+             Github Handles @ademuanthony @C-ollins @metaclips @oshorefueled @petermuller99
 
 ## Overview
 
@@ -18,7 +19,7 @@ Oluwashina kicked off the event by welcoming the attendees and shared his story 
 
 We had an interactive/ideation session where we discussed: how to drive the growth of blockchain and cryptocurrency globally, limitations encountered by projects launching in the space, careers and opportunities in the industry. Chiagozie Iwu, CEO of naijacrypto.com shared his experience and obstacles encountered in starting a local exchange with emphasis placed on the need for constant education and awareness or else, the industry will experience a heavy churn out rate. Emmanuel Ititim of Yellow Card spoke about the use cases of cryptocurrency with the most prominent ones being remittances and online payments. He talked about the challenges users face when buying into crypto e.g. unsafe, techy and expensive channels etc. until Yellow Card. Marshall of Telos4Africa shared the vision of Telos and how they plan to raise a community in Nigeria to build decentralized applications on Telos blockchain.
 
-We had more interactive sessions and engaged in networking sessions and pictures. The hangout ended at exactly 4:35 pm, we spent 3 hours learning, interacting and having an amazing time.
+We had more interactive sessions and engaged in networking sessions and pictures. We spent 3 hours learning, interacting and having an amazing time, the hangout ended at exactly 4:35 pm.
 
 ## Goals
 
