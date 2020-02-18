@@ -14,16 +14,16 @@ Report by @arij.
 
 ## Overview
 
-I was invited to talk at an event hold by "Toratiyat Dar Albayda", that was about "The role of new technologies in promoting the positive development of young people", I chose to talk about "Blockchain Technology and use cases".
+I was invited to talk at an event held by "Toratiyat Dar Albayda" that was about "The role of new technologies in promoting the positive development of young people". I chose to talk about "Blockchain Technology and Use Cases".
 
-I’ve started the presentation by talking about Blockchain technology, and gived  the different uses cases of it and introduced Politeia and the Lightning Network as examples of Decred Technology. 
+I've started the presentation by talking about blockchain technology, explored the different uses cases of it and introduced Politeia and the Lightning Network as examples of Decred technology.
 
-The event started at 16:30 and I had the opportunity to talk at about 17:00 and it took about 35 minutes to present and another 20 minutes to answer the audience questions. 
+The event started at 16:30 and I had the opportunity to talk at about 17:00 and it took about 35 minutes to present and another 20 minutes to answer the audience questions.
 
-The audience really liked the subject and wanted to know more and we were asked if we could do a series of workshops about Blockchain Technology.
+The audience really liked the subject and wanted to know more and we were asked if we could do a series of workshops about blockchain technology.
 
 ## Media
 
-#### Twitter:
+Photos:
 
 - https://twitter.com/DecredArabia/status/1220819101586685952
