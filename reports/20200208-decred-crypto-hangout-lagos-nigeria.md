@@ -9,9 +9,7 @@
 
 #### Decred presence:
 
-- attendees: Twitter Handles @beansgum, @cooperly99, @metaclips, @osho\_refueled
-
-             Github Handles @ademuanthony @C-ollins @metaclips @oshorefueled @petermuller99
+- attendees: Twitter handles: @beansgum, @cooperly99, @metaclips, @osho\_refueled; Github handles: @ademuanthony, @C-ollins, @metaclips, @oshorefueled, @petermuller99
 
 ## Overview
 
@@ -39,6 +37,6 @@ A community-building approach to the marketing efforts of Decred in Nigeria is h
 ## Media
 
 - https://twitter.com/cooperly99/status/1227177491892232194
-- https://twitter.com/cooperly99/status/1229236555321151488?s=20
+- https://twitter.com/cooperly99/status/1229236555321151488
 - https://twitter.com/yellowcardio/status/1227559708636172290
 - https://www.youtube.com/watch?v=9FRCO6aoNuQ
