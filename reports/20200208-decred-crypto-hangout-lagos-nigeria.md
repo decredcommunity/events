@@ -34,7 +34,7 @@ The hangout was successful, participants learned about Decred and its governance
 
 ## Learnings and Outcomes
 
-A community-building approach to the marketing efforts of Decred in Nigeria is highly recommended, one of the ways to get people into the community is by partnering with a local media agency - cryptotvplus - who currently runs a program called CampusBCAT (Campus Blockchain and Cryptocurrency Awareness tour) where they visit tertiary institutions to teach the youths about blockchain and cryptocurrency. A good marketing opportunity for Decred and source of data to build up the created community.
+A community-building approach to the marketing efforts of Decred in Nigeria is highly recommended, one of the ways to get people into the community is by partnering with a local media agency - cryptotvplus - who currently run a program called CampusBCAT (Campus Blockchain and Cryptocurrency Awareness tour) where they visit tertiary institutions to teach the youths about blockchain and cryptocurrency. A good marketing opportunity for Decred and source of data to build up the created community.
 
 ## Media
 
