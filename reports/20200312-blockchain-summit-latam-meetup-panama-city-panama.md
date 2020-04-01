@@ -4,6 +4,7 @@
 
 - date: 12 March 2020
 - location: Panama City, Panama
+- announcements: twitter [@Decred_ES](https://twitter.com/Decred_ES/status/1237552322596593665), twitter [@Decred_ES](https://twitter.com/Decred_ES/status/1237799556353572864), twitter [@BlockSummitLA](https://twitter.com/BlockSummitLA/status/1237790515128668160)
 - site: [blockchainsummit.la](https://www.blockchainsummit.la/)
 - twitter: [@BlockSummitLA](https://twitter.com/BlockSummitLA)
 - visitors: ~35
@@ -37,13 +38,7 @@ The attendees of this flash meetup were representatives from OTC Desks, exchange
 - Many attendees -newcomers and big names alike- were building up prospects to offer white-labelling solutions. The state of things in Latam is one where competition is being deployed, companies and startups are trying to build up their business and their reputation, it is still very early and this disorienting to discern competent brands from the ones in dire straits. This also shows us that Blockchain Summit Latam attracts many with business in mind, so it's a good event to get to know and catch up with the spirit of things in Latam.
 
 ## Media
-
-#### Announcements
-
-- https://twitter.com/Decred_ES/status/1237552322596593665
-- https://twitter.com/Decred_ES/status/1237799556353572864
-- https://twitter.com/BlockSummitLA/status/1237790515128668160
  
-#### Photos
+Photos:
 
 - People: https://twitter.com/elianhuesca/status/1237925578281488386
