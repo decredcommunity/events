@@ -5,7 +5,7 @@
 - date: 12 March 2020
 - location: Panama City, Panama
 - site: [blockchainsummit.la](https://www.blockchainsummit.la/)
-- twitter: [@BitcoindayLa](https://twitter.com/BitcoindayLa)
+- twitter: [@BlockSummitLA](https://twitter.com/BlockSummitLA)
 - visitors: ~35
 
 #### Decred presence
