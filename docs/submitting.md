@@ -1,3 +1,5 @@
+# Submitting Event Report
+
 ## Before you start
 
 Things to remember:
@@ -20,16 +22,16 @@ Reports are written in a format called Markdown. It is pretty simple, but for le
 
 ## No images in Git
 
-Please do not commit images (e.g. photos) or other large files into Git because it grows repository size too quickly. Instead, link to images hosted on in your signed Keybase public folder ([example](https://keybase.pub/jz_bz/)), Twitter, IPFS, etc.
+Please do not commit images (e.g. photos) or other large files into Git because it grows repository size too quickly. Instead, link to images hosted on in your signed Keybase public folder ([example](https://keybase.pub/jz_bz/)), Twitter, Flickr, IPFS, etc.
 
-File hosting is an open issue. Ultimately we need a robust and replicated [file archive](https://github.com/decredcommunity/issues/issues/26) but this is not available yet.
+File hosting for Decred contributors is an unsolved problem. Ultimately we need a robust and replicated [file archive](https://github.com/decredcommunity/issues/issues/26) but this is not available yet.
 
 ## 1. Submit a pull request
 
-This way is most advanced but is also most flexible and requires less admin assistance.
+This way is most advanced but is also most flexible and requires less admin work.
 
 1. [Fork](https://help.github.com/en/categories/collaborating-with-issues-and-pull-requests) the events repository.
-2. Create a file with your report in the `reports` directory. The file name must follow the format `YYYYMMDD-title-city-country.md`, e.g. `20190116-tnabc-miami-usa.md`. You can use [this template](https://raw.githubusercontent.com/decredcommunity/events/docs/report-template.md) as a starting point.
+2. Create a file with your report in the `reports` directory. The file name must follow the format `YYYYMMDD-title-city-country.md`, e.g. `20190116-tnabc-miami-usa.md`. You can use [this template](https://raw.githubusercontent.com/decredcommunity/events/master/docs/report-template.md) as a starting point.
 3. Create a [pull request](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork) against the events repository.
   * Check `Allow edits from maintainers` ([help](https://help.github.com/en/articles/allowing-changes-to-a-pull-request-branch-created-from-a-fork)).
   * Optionally, use [Draft pull request](https://help.github.com/en/articles/about-pull-requests#draft-pull-requests) that cannot be merged until you mark it as ready.
@@ -45,11 +47,11 @@ This method is easier than previous, at the cost of some admin work. Unlike gist
 
 ## 3. The gist way
 
-Gist is most often a single versioned document and it is perfect for event reports. All you need is a GitHub account.
+Gist is commonly used for a single versioned document and it is perfect for event reports. All you need is a GitHub account.
 
 1. Visit https://gist.github.com/
 2. Enter filename in this format: `YYYYMMDD-title-city-country.md`. Example: `20190116-tnabc-miami-usa.md`.
-3. Enter report contents. You can use [this template](https://raw.githubusercontent.com/decredcommunity/events/docs/report-template.md).
+3. Enter report contents. You can use [this template](https://raw.githubusercontent.com/decredcommunity/events/master/docs/report-template.md).
 4. Press `Create secret gist` or `Create public gist` depending on your preference. Secret gists can only be accessed knowing the correct link and are not listed in your profile.
 5. Edit the gist as necessary.
 6. When finished, [contact admins](#contact-admins) and ask to add your report to the repository.
@@ -64,7 +66,7 @@ Learn more about gists [here](https://help.github.com/en/articles/about-gists).
 
 ## Tell people about your report
 
-When your report is processed and "merged" (kind of released), let people know about it. Use the final link in the master branch and:
+When your report is processed and "merged" (kind of released), let people know about it. Use the final link in the master branch and do any of the following:
 
 1. Share it to other events people in #events chat room
 2. Submit it to [r/decred](https://www.reddit.com/r/decred/) subreddit
@@ -73,7 +75,7 @@ When your report is processed and "merged" (kind of released), let people know a
 
 ## Contact admins
 
-To get your reports merged or to propose an improvement:
+To get your reports merged or to propose any improvement:
 
 * submit a pull request as detailed above
 * or [create an issue](https://github.com/decredcommunity/events/issues)
@@ -83,4 +85,4 @@ To propose a tweet or retweet of your report:
 
 * ask in #media chat room.
 
-Chat rooms are available in [Matrix](https://decred.org/matrix/), [Discord](https://discord.gg/GJ2GXfz) or [Slack](https://slack.decred.org/).
+Chat rooms are available in [Matrix](https://decred.org/matrix/) and [Discord](https://discord.gg/GJ2GXfz).
