@@ -44,3 +44,5 @@ Photos:
 
 - https://twitter.com/LOReBitcoin/status/1238511419886313475
 - https://twitter.com/bitcoinemb/status/1238908543857610752
+- https://twitter.com/victorarubin/status/1238288234368708608
+- https://twitter.com/victorarubin/status/1238296200622813184
