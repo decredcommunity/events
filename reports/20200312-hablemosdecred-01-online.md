@@ -7,6 +7,7 @@ Report by @pablito
 * date: 12 March 2020
 * location: Online, Decred's Discord Server
 * people: ~15 (top)
+* post: https://twitter.com/Decred_ES/status/1238242352306614273
 
 ## Overall experience
 
