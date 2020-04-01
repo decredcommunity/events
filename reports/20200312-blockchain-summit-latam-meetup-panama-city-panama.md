@@ -2,15 +2,15 @@
 
 #### Info
 
-* date: 12 March 2020
-* location: Panama City, Panama
-* site: [blockchainsummit.la](https://www.blockchainsummit.la/)
-* twitter: [@BitcoindayLa](https://twitter.com/BitcoindayLa)
-* visitors: ~35
+- date: 12 March 2020
+- location: Panama City, Panama
+- site: [blockchainsummit.la](https://www.blockchainsummit.la/)
+- twitter: [@BitcoindayLa](https://twitter.com/BitcoindayLa)
+- visitors: ~35
 
 #### Decred presence
 
-* attendees: @adcade, @3lian
+- attendees: @adcade, @3lian
 
 Swag distributed: 5 T-shirts.
 
@@ -26,24 +26,24 @@ The attendees of this flash meetup were representatives from OTC Desks, exchange
 
 ## Outcomes and Learnings
 
-* We secured the keynote slot and the status as a silver sponsor on the now rescheduled event.
+- We secured the keynote slot and the status as a silver sponsor on the now rescheduled event.
 
-* We got a small 3 min interview with Tech con Catalina. Details of this PR material are still unknown as this might be used as promotional material for the event once the new date is near.
+- We got a small 3 min interview with Tech con Catalina. Details of this PR material are still unknown as this might be used as promotional material for the event once the new date is near.
 
-* We talked with David Gan, director of global partnerships in Huobi about staking services. We further shared with his team all documentation with regards to staking and vsp. 
+- We talked with David Gan, director of global partnerships in Huobi about staking services. We further shared with his team all documentation with regards to staking and vsp. 
 
-* We talked with Ezio Rojas from Cointelegraph and agreed on an interview about Decred which produced an article [now published.](https://es.cointelegraph.com/news/decred-how-does-your-development-continue-during-the-bear-market)
+- We talked with Ezio Rojas from Cointelegraph and agreed on an interview about Decred which produced an article [now published.](https://es.cointelegraph.com/news/decred-how-does-your-development-continue-during-the-bear-market)
 
-* Many attendees -newcomers and big names alike- were building up prospects to offer white-labelling solutions. The state of things in Latam is one where competition is being deployed, companies and startups are trying to build up their business and their reputation, it is still very early and this disorienting to discern competent brands from the ones in dire straits. This also shows us that Blockchain Summit Latam attracts many with business in mind, so it's a good event to get to know and catch up with the spirit of things in Latam.
+- Many attendees -newcomers and big names alike- were building up prospects to offer white-labelling solutions. The state of things in Latam is one where competition is being deployed, companies and startups are trying to build up their business and their reputation, it is still very early and this disorienting to discern competent brands from the ones in dire straits. This also shows us that Blockchain Summit Latam attracts many with business in mind, so it's a good event to get to know and catch up with the spirit of things in Latam.
 
 ## Media
 
 #### Announcements
 
-* https://twitter.com/Decred_ES/status/1237552322596593665
-* https://twitter.com/Decred_ES/status/1237799556353572864
-* https://twitter.com/BlockSummitLA/status/1237790515128668160
+- https://twitter.com/Decred_ES/status/1237552322596593665
+- https://twitter.com/Decred_ES/status/1237799556353572864
+- https://twitter.com/BlockSummitLA/status/1237790515128668160
  
 #### Photos
 
-* People: https://twitter.com/elianhuesca/status/1237925578281488386
+- People: https://twitter.com/elianhuesca/status/1237925578281488386
