@@ -1,4 +1,4 @@
-# Woman in Decred Conference, Mexico City, Mexico.
+# Woman in Decred Conference, Mexico City, Mexico
 
 #### Info
 
@@ -8,12 +8,15 @@
 - visitors: ~30
 
 #### Decred presence
-- @francov_, @victorarubin
+
+- @francov\_, @victorarubin
 
 Swag distributed:
+
 - T-shirts: 15
 
 ## Overview
+
 It was an invitation from the Bitcoin Embassy Bar to give a talk by Decred as a female participant and about my experience with more women on cryptocurrency ecosystem.
 
 There was an opportunity to discuss and exchange points of opinion about the advantages of labor inclusion in the new technological organizations.
@@ -23,17 +26,21 @@ The highlight of the talk was to express that we do not need your title, gender,
 We also talked with the public to resolve doubts and concerns about the project. Mainly about the governance system and where do development funds come from?
 
 ## Goals
- - Explain how the collaboration of Decred contractors is for new applicants.
- - Dispel doubts about roles as contractors.
+
+- Explain how the collaboration of Decred contractors is for new applicants.
+- Dispel doubts about roles as contractors.
 
 ## Evaluation
-  - The talk lasted 10 minutes, explained in a clear and understandable way, with good audience interaction.
+
+- The talk lasted 10 minutes, explained in a clear and understandable way, with good audience interaction.
 
 ## Learnings & Outcomes
-  - Interest in participating in projects like Decred
+
+- Interest in participating in projects like Decred
 
 ## Media
 
 Photos:
-  - https://twitter.com/LOReBitcoin/status/1238511419886313475
-  - https://twitter.com/bitcoinemb/status/1238908543857610752
+
+- https://twitter.com/LOReBitcoin/status/1238511419886313475
+- https://twitter.com/bitcoinemb/status/1238908543857610752
