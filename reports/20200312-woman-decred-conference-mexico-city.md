@@ -1,4 +1,4 @@
-# Woman in Decred Conference, Mexico City, Mexico
+# Women in Decred Conference, Mexico City, Mexico
 
 #### Info
 
@@ -9,7 +9,7 @@
 
 #### Decred presence
 
-- @francov\_, @victorarubin
+- attendees: @francov\_, @victorarubin
 
 Swag distributed:
 
@@ -17,13 +17,13 @@ Swag distributed:
 
 ## Overview
 
-It was an invitation from the Bitcoin Embassy Bar to give a talk by Decred as a female participant and about my experience with more women on cryptocurrency ecosystem.
+It was an invitation from the Bitcoin Embassy Bar to give a talk about Decred as a female participant and about my experience with more women in the cryptocurrency ecosystem.
 
-There was an opportunity to discuss and exchange points of opinion about the advantages of labor inclusion in the new technological organizations.
+There was an opportunity to discuss and exchange opinions about the advantages of labor inclusion in the new technological organizations.
 
-The highlight of the talk was to express that we do not need your title, gender, nationality, age, even your real name, we only need your talent and want to help the Decred ecosystem grow.
+The highlight of the talk was to express that we do not need your title, gender, nationality, age, even your real name, we only need your talent and your aspiration to help the Decred ecosystem grow.
 
-We also talked with the public to resolve doubts and concerns about the project. Mainly about the governance system and where do development funds come from?
+We also talked with the public to resolve doubts and concerns about the project. Mainly about the governance system and where do development funds come from.
 
 ## Goals
 
@@ -32,7 +32,7 @@ We also talked with the public to resolve doubts and concerns about the project.
 
 ## Evaluation
 
-- The talk lasted 10 minutes, explained in a clear and understandable way, with good audience interaction.
+- The talk lasted 10 minutes, I explained it in a clear and understandable way, with good audience interaction.
 
 ## Learnings & Outcomes
 
