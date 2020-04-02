@@ -4,7 +4,7 @@ Report by @pablito
 
 #### Info
 
-* date: 26 March 2020
+* date: 27 March 2020
 * location: Internet, Jitsi
 * announcements: [twitter](https://twitter.com/Decred_ES/status/1243214184793485314)
 * visitors: ~15 (max)
