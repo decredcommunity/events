@@ -1,19 +1,19 @@
-# HablemosDecred #01, Online/Discord
+# HablemosDecred 01, Internet/Discord
 
 Report by @pablito
 
-#### Info:
+#### Info
 
-* date: 12 March 2020
-* location: Online, Decred's Discord Server
-* people: ~15 (top)
-* post: https://twitter.com/Decred_ES/status/1238242352306614273
+- date: 12 March 2020
+- location: Internet, Decred's Discord server
+- announcements: [twitter](https://twitter.com/Decred_ES/status/1237397847106105345), [twitter](https://twitter.com/Decred_ES/status/1238242352306614273)
+- visitors: ~15 (max)
 
 ## Overall experience
 
-We organized this first virtual meetup before the "online event craze", mainly to address those LATAM community members who live in countries where there's no established DCR community to host meetups. There was plenty of interest and one third of the attendees was new to Decred.
+We organized this first virtual meetup before the "online event craze", mainly to address those LATAM community members who live in countries where there's no established Decred community to host meetups. There was plenty of interest and one third of the attendees was new to Decred.
 
-Being the first one we did not prepare talks, we just chatted and met people who joined the Decred en Español room at Decred's Discord Server. @elian, @pablito and @adcade gave a quick informal intro to Decred and then answered questions that came up.
+Being the first one we did not prepare talks, we just chatted and met people who joined the Decred en Español room at Decred's Discord server. @elian, @pablito and @adcade gave a quick informal intro to Decred and then answered questions that came up.
 
 Most questions were related to the Proof-of-Stake voting system Decred has. Those who had some prior knowledge of cryptocurrency asked how to stake, and those who didn't wanted to know more about voting rights and what can stakeholders do with their tickets.
 
