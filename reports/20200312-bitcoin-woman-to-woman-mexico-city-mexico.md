@@ -1,4 +1,4 @@
-# Women in Decred Conference, Mexico City, Mexico
+# Bitcoin Woman to Woman in Mexico City, Mexico
 
 #### Info
 
