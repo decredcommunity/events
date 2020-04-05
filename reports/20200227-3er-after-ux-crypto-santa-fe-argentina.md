@@ -1,4 +1,4 @@
-# Decred Meetup in Santa Fe, Argentina
+# 3er After UX Crypto in Santa Fe, Argentina
 
 Report by @tomee.
 
@@ -17,7 +17,7 @@ Swag distributed: 10 T-shirts.
 
 ## Overall Experience
 
-We chose the city of Santa Fe as the first city outside the capital of Argentina due to the lack of knowledge of the community but the number of people interested in the subject. We made this deduction from the crowded events organized by Iñaki Apezteguia (co-founder of Blocknia) who was our ally and helped us promote the event in the city.
+We chose the city of Santa Fe as the first city outside the capital of Argentina due to the lack of knowledge of the community and the number of people interested in the subject. We made this deduction from the crowded events organized by Iñaki Apezteguia (co-founder of Blocknia) who was our ally and helped us promote the event in the city.
 
 The event was held on a rooftop in the city with a turnout that met our expectations. The people were very interested and after the talk, a large part of the group stayed talking to us with more questions than they did before.
 
