@@ -6,7 +6,7 @@ Report by @tomee
 
 - date: 4 March 2020
 - location: Ciudad de La Plata, Argentina
-- announcements: [eventbrite](https://www.eventbrite.com/e/decred-meetup-la-plata-tickets-95666770887), [twitter](https://twitter.com/Decred_ES/status/1235277262846652416), twitter [@Decred_ES](https://twitter.com/Decred_ES/status/1234666425094004737)
+- announcements: [eventbrite](https://www.eventbrite.com/e/decred-meetup-la-plata-tickets-95666770887), [twitter](https://twitter.com/Decred_ES/status/1235277262846652416), [twitter](https://twitter.com/Decred_ES/status/1234666425094004737)
 - visitors: ~20
 
 #### Decred presence
