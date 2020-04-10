@@ -20,3 +20,7 @@ This meetup was to be held in person in the city of Santiago de Chile, but due t
 There was a lot of expectation since many people were waiting for this meetup. Attendance was good and the number of connected remained stable throughout the talk.
 
 We introduced Decred and answered several questions about it. The experience was innovative but definitely the contact with the public is not the same. However, this methodology allowed the participation of more attendees as we had been receiving in past events.
+
+## Media
+
+- Video recording of the presentation, ~1 hr ([youtube](https://www.youtube.com/watch?v=U07ZL_qFAQM))
