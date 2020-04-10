@@ -1,4 +1,4 @@
-# Decred Meetup Santiago de Chile, Internet (virtual meetup)
+# Decred Meetup Santiago de Chile, Internet
 
 Report by @tomee
 
@@ -6,8 +6,11 @@ Report by @tomee
 
 - date: 24 March 2020
 - location: Internet, Meetup webinar
-- announcements: [meetup](http://meetu.ps/e/HNTsq/Gq1Hk/a); [es.cointelegraph](https://es.cointelegraph.com/news/they-will-hold-a-meeting-on-decred-and-governance-in-blockchain-in-chile)
+- announcements: [meetup](https://www.meetup.com/blockacademycl/events/269108758/), [twitter](https://twitter.com/BlockAcademyCL/status/1240279522869686273), [es.cointelegraph.com](https://es.cointelegraph.com/news/they-will-hold-a-meeting-on-decred-and-governance-in-blockchain-in-chile)
 - visitors: ~31 (max)
+
+#### Decred presence
+
 - attendees: @camilolwi, @tomee
 
 ## Overall experience
