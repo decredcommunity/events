@@ -6,7 +6,7 @@ Report by @pablito
 
 * date: 09 April 2020
 * location: Internet, [Jitsi](https://meet.jit.si/HablemosDecred) 
-* announcements: [twitter](https://twitter.com/Decred_ES/status/1245526903110414336
+* announcements: [twitter](https://twitter.com/Decred_ES/status/1245526903110414336)
 * visitors: ~3 (max)
 
 ## Overall experience
