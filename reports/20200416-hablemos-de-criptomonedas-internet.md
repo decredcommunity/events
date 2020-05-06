@@ -1,14 +1,15 @@
-# HABLEMOS DE CRIPTOMONEDAS
+# Hablemos de Criptomonedas
 
-## Info:
-- Date: 2020-16-04
-- Location: internet
-- Event:  Webinar
-- Audience: 22 atendees, mostly students from Universidad Ibero
-- Decred presence:
-  - attendees: @adcade @3lian
-- Swag:
-  - 3 DCR
+#### Info
+
+- date: 16 April 2020
+- location: Internet
+- visitors: 22, mostly students from Universidad Ibero
+
+#### Decred presence
+
+- attendees: @adcade, @elian
+- swag: 3 DCR
  
 ## Overview
 
@@ -24,7 +25,7 @@ explaning the hybryd protocol and how it sustantially improves security. We then
 - To showcase Decred's strenghts in contrast with other protocol's weak points.
 - To have a precedent within a university community and with their staff.
 
-Learnings and Outcomes 
+## Learnings and Outcomes 
 
 - Must record these events, a computer science teacher emailed me asking for the recording to show to his students and I sadly had none.
 - We are still a bit unsure about email collection (latam team) because of privacy. I was offered the data base from the registration but given the lack of newsletter "in spanish" or specific use for it (we rely on SM followers and Telegram users in our channel), we passed out. 
@@ -33,9 +34,10 @@ The idea is yet to be defined, but probably a workshop or hackathon. Since there
 - On a heatmap, this type of event falls a bit cold when it comes to creating new stakeholders, it's better catalogued as stage one on the journey (or funnel) of becoming a stakeholder.
 - This event was low-cost and considering this to be a stage 1 event, we'll be doing as many as our current and future networks allow.
 
-## Media:
+## Media
 
-Announcements
+Announcements:
+
 - https://twitter.com/Decred_ES/status/1249759261896343559
 - https://twitter.com/Decred_ES/status/1245452957417684992
 - https://twitter.com/Decred_ES/status/1250906970191736836
