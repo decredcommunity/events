@@ -4,6 +4,7 @@
 
 - date: 16 April 2020
 - location: [Jitsi](https://meet.ffmuc.net/HablemosCripto), Internet
+- announcements: [twitter](https://twitter.com/Decred_ES/status/1245452957417684992), [twitter](https://twitter.com/Decred_ES/status/1249759261896343559), [twitter](https://twitter.com/Decred_ES/status/1250906970191736836)
 - visitors: 22, mostly students from Universidad Ibero
 
 #### Decred presence
@@ -33,11 +34,3 @@ explaning the hybryd protocol and how it sustantially improves security. We then
 The idea is yet to be defined, but probably a workshop or hackathon. Since there is a constant influx of people on universities, we want to keep this collaborations as extended as possible, so as to create a vested community (with good awareness of DCR) and not just a once-shown audience.
 - On a heatmap, this type of event falls a bit cold when it comes to creating new stakeholders, it's better catalogued as stage one on the journey (or funnel) of becoming a stakeholder.
 - This event was low-cost and considering this to be a stage 1 event, we'll be doing as many as our current and future networks allow.
-
-## Media
-
-Announcements:
-
-- https://twitter.com/Decred_ES/status/1249759261896343559
-- https://twitter.com/Decred_ES/status/1245452957417684992
-- https://twitter.com/Decred_ES/status/1250906970191736836
