@@ -3,7 +3,7 @@
 #### Info
 
 - date: 16 April 2020
-- location: Internet
+- location: [Jitsi](https://meet.ffmuc.net/HablemosCripto), Internet
 - visitors: 22, mostly students from Universidad Ibero
 
 #### Decred presence
