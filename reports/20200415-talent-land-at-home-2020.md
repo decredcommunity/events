@@ -7,12 +7,14 @@ Date: 16 April 2020
 
 Location: YouTube 
 
-visitors: 222 viewers on Talent Land youtube channel
+Visitors: 222 viewers on Talent Land youtube channel
 
 
 Decred presence
 
-attendees: @adcade, @pablito, @tomee and @elian
+Attendees: @adcade, @pablito, @tomee and @elian
+
+Giveaway: 1 DCR
 
 
 **Overview**
@@ -39,3 +41,7 @@ Social Media:
 - Youtube: https://www.youtube.com/watch?v=cMGiPt4A7js
 - Talent Land at Home channel: https://www.talent-land.tv/on-demand/blockchain/el-futuro-del-dinero-y-el-trabajo-remoto-decred-bitcoin-y-crypto-ana-chavez/
 - Quotes: https://twitter.com/talent_net/status/1256222041063161865
+- Tweets: https://twitter.com/blockchain_land/status/1250936111490269184 
+- Tweets: https://twitter.com/blockchain_land/status/1250470211888787459 
+- Tweets: https://twitter.com/blockchain_land/status/1250538840768434176
+- Giveaway: https://twitter.com/Decred_ES/status/1250568376851841030
