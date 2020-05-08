@@ -4,6 +4,7 @@
 
 - date: 16 April 2020
 - location: YouTube, Internet
+- announcements: twitter [@Decred_ES](https://twitter.com/Decred_ES/status/1250497575016435712), twitter [@blockchain_land](https://twitter.com/blockchain_land/status/1250470211888787459), twitter [@talent_net](https://twitter.com/talent_net/status/1250419837030952960), twitter [blockchain_land](https://twitter.com/blockchain_land/status/1250538840768434176)
 - visitors: 222 viewers on Talent Land YouTube channel
 
 #### Decred presence
@@ -32,13 +33,8 @@ The team received good comments on panel due to its relevance in the times of Co
 
 ## Media
 
-Social Media:
-
-- Twitter: https://twitter.com/Decred_ES/status/1250497575016435712
-- Youtube: https://www.youtube.com/watch?v=cMGiPt4A7js
-- Talent Land at Home channel: https://www.talent-land.tv/on-demand/blockchain/el-futuro-del-dinero-y-el-trabajo-remoto-decred-bitcoin-y-crypto-ana-chavez/
+- YouTube: https://www.youtube.com/watch?v=cMGiPt4A7js
+- Talent Land at Home website: https://www.talent-land.tv/on-demand/blockchain/el-futuro-del-dinero-y-el-trabajo-remoto-decred-bitcoin-y-crypto-ana-chavez/
 - Quotes: https://twitter.com/talent_net/status/1256222041063161865
 - Tweets: https://twitter.com/blockchain_land/status/1250936111490269184
-- Tweets: https://twitter.com/blockchain_land/status/1250470211888787459
-- Tweets: https://twitter.com/blockchain_land/status/1250538840768434176
 - Giveaway: https://twitter.com/Decred_ES/status/1250568376851841030
