@@ -5,6 +5,7 @@
 - date: 16 April 2020
 - location: YouTube, Internet
 - announcements: twitter [@Decred_ES](https://twitter.com/Decred_ES/status/1250497575016435712), twitter [@blockchain_land](https://twitter.com/blockchain_land/status/1250470211888787459), twitter [@talent_net](https://twitter.com/talent_net/status/1250419837030952960), twitter [blockchain_land](https://twitter.com/blockchain_land/status/1250538840768434176)
+- site: [talent-land.tv](https://www.talent-land.tv/)
 - visitors: 222 viewers on Talent Land YouTube channel
 
 #### Decred presence
