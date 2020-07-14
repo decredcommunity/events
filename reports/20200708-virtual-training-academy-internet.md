@@ -17,7 +17,7 @@ Report by @arij.
 
 ## Overall experience
 
-I was invited to talk about blockchain technology and its use cases. I started with an introduction about why do we need blockchain technology, followed by a definition of blockchain, how it works, its history, hash functions, public vs private keys, consensus mechanism, types of blockchains and at the end I gave some blockchain use cases in different fields.
+I was invited to talk about blockchain technology and its use cases. I started with an introduction about why do we need blockchain technology, followed by a definition of blockchain, how it works, its history, hash functions, public vs private keys, consensus mechanism where I explained different types of consensus mechanisms and how Decred's hybrid PoW/PoS System work, different types of blockchains and at the end I gave some blockchain use cases in different fields.
 
 The presentation took one hour, plus half an hour of Q&A.
 
