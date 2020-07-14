@@ -1,18 +1,19 @@
-# Webinar, The virtual training academy under the theme "youth entrepreneurship" organized by "The Moroccan Organization of Young Decision Makers"
+# The virtual training academy under the theme "youth entrepreneurship"
 
-Report by @arij
+Report by @arij.
 
 #### Info
 
 - date: 08 July 2020
+- organizer: The Moroccan Organization of Young Decision Makers
 - location: Internet, Zoom
 - announcements: [twitter](https://twitter.com/in_insaf/status/1280771474966675456)
 - participants: ~24 (max)
 
 #### Decred presence
 
-attendees: @arij
-webinar: "Blockchain Technology and Use Cases"
+- attendees: @arij
+- webinar: "Blockchain Technology and Use Cases"
 
 ## Overall experience
 
@@ -28,15 +29,15 @@ It was a great experience, talking about blockchain technology online, people ar
 
 ## Media
 
-Photos
+Photos:
 
-- [photo1](https://imgur.com/WVt23Br)
-- [photo2](https://imgur.com/akQOHyF)
-- [photo3](https://imgur.com/kBLfQka)
-- [photo4](https://imgur.com/RJK3lFi)
-- [photo5](https://imgur.com/XRJ9JAi)
-- [photo6](https://imgur.com/MQyeDf0)
+- https://imgur.com/WVt23Br
+- https://imgur.com/akQOHyF
+- https://imgur.com/kBLfQka
+- https://imgur.com/RJK3lFi
+- https://imgur.com/XRJ9JAi
+- https://imgur.com/MQyeDf0
 
 Slides:
 
-- [Sildes](https://github.com/Insaf01/Decred-Videos-Ar/blob/master/ce7a7d3466687049fc04385aa0e.pdf)
+- https://github.com/Insaf01/Decred-Videos-Ar/blob/master/ce7a7d3466687049fc04385aa0e.pdf
