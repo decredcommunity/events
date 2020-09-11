@@ -6,8 +6,8 @@ announcements:
   - https://twitter.com/Decred_ES/status/1304153821631791104
   - https://twitter.com/Decred_ES/status/1304215600542240769
 location: Internet / YouTube, Periscope
-organizer: Decred Latam team
-  name: Decred en Espanol
+organizer:
+  name: Decred Latam team
   url: https://twitter.com/Decred_ES
 decred_people: 
   - caibarrad
