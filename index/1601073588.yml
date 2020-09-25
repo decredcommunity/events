@@ -1,7 +1,8 @@
 title: How to start a career in STEM and blockchain?
 title_es: ¿Cómo comenzar una carrera en STEM y blockchain?
 start_utc: 2020-09-17 22:30
-announcements: https://twitter.com/Decred_ES/status/1305595709257846785
+announcements:
+  - https://twitter.com/Decred_ES/status/1305595709257846785
   - https://twitter.com/Decred_ES/status/1305920575400030210
   - https://twitter.com/Decred_ES/status/1306401184413102082
   - https://twitter.com/Decred_ES/status/1306702632430350337
@@ -14,13 +15,13 @@ organizer:
 decred_people:
   - adcade
   - elian
-description: on this edition of #HablemosDecred we talked with Nancy Salazar from Platzi about how to start a career in technolgy and how to overcome the challenges of complex areas such as blockchain. We talked about how Decred contractor work in teh project and the different ways to start working in the cryptocurrency industry.
+description: on this edition of \#HablemosDecred we talked with Nancy Salazar from Platzi about how to start a career in technolgy and how to overcome the challenges of complex areas such as blockchain. We talked about how Decred contractor work in teh project and the different ways to start working in the cryptocurrency industry.
 media:
   - https://twitter.com/Decred_ES/status/1306707051201003520
   - https://www.youtube.com/watch?v=f_ppC-GVDk8
 notes:
   - Special thanks to Nancy Salazar for accepting the invitation to talk about her experience gtting into engeneering and blockchain technology.
-  - She has helped Decred Latam team in organising other meetups in Leon, Mexico, with the Blockchain Bajio community in Mexico, some posts:
+  - She has helped Decred Latam team in organising other meetups in Leon, Mexico, with the Blockchain Bajio community in Mexico, some posts below
   - https://twitter.com/BlockchainBajio/status/1203488868852523008
   - https://twitter.com/Decred_ES/status/1162382600868024320
   - https://twitter.com/Decred_ES/status/1156213567294595072
