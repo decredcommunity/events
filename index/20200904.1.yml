@@ -1,0 +1,21 @@
+title: "Let's Talk Decred 11: Timestamps in Blockchain"
+title_es: "Hablemos Decred 11: Estampas de Tiempo en Blockchain"
+lang: es
+start_utc: 2020-09-04 01:00
+announcements:
+  - https://twitter.com/Decred_ES/status/1300809902777139200
+  - https://twitter.com/Decred_ES/status/1301277545418104835
+  - https://twitter.com/Decred_ES/status/1301583356644282368
+location: Internet / YouTube, Periscope
+organizers:
+  - org: Decred Latam team
+    url: https://twitter.com/Decred_ES
+decred_people:
+  - elian
+description: On this episode of Hablemos Decred we talked about timestamps with Jose Zarate from stamping.io. We discussed what is a timestamp, what are the use cases, what is Stamping doing with timestamps in Perú, how does dcrtime work and who is using it as a software solution for notarization of documents. The main questions from the audience were how can timestamps be used in government for transparency and what is the legal status of timestamps.
+media:
+  - https://www.youtube.com/watch?v=QwsWiJ8v5qE
+  - https://twitter.com/Decred_ES/status/1301686754932436995
+  - https://www.pscp.tv/w/ciA34TF6WUViTEFxcXlsS2V8MXlOR2FCa01ZV1hKai0FF2aPOUMTnk3oOuJAlBf84mifCHW_-8aieGhZBxrY
+notes:
+  - guest José Zárate of Stamping.io (@StampingI)
