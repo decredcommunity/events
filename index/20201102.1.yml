@@ -1,0 +1,33 @@
+title: Blockchain Summit Latam Online 2020
+lang: es
+start_utc: 2020-11-02
+end_utc: 2020-11-06
+announcements:
+  - https://twitter.com/BlockSummitLA/status/1313302075879677952
+  - https://twitter.com/Decred_ES/status/1313302854728396800
+  - https://www.blockchainsummit.la/
+  - https://twitter.com/criptolugares/status/1322176841445232640
+  - https://twitter.com/BlockSummitLA/status/1323302427651657733
+  - https://es.cointelegraph.com/news/blockchain-summit-latam-2020-governance-features-analyzed-in-public-protocols
+location: Internet / ?
+organizers:
+  - org: Blockchain Summit Latam
+    url: https://twitter.com/BlockSummitLA
+decred_talks:
+  - title: Governance in public protocols
+    title_es: Gobernanza en protocolos publicos
+    start_utc: 2020-11-02 21:30
+    presenters: elian
+    ann: https://twitter.com/BlockSummitLA/status/1323302480537673730
+    media: https://twitter.com/BlockSummitLA/status/1323384755270918145
+decred_people:
+  - elian
+attendance:
+  - ?
+  - 
+description: ?
+media:
+  - ?
+notes:
+  - twitter hashtag BSLONLINE2020
+  - Decred is a silver sponsor
