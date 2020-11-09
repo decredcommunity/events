@@ -1,0 +1,28 @@
+title: CCOSS 2020
+lang: es?
+start_utc: 2020-10-19
+end_utc: 2020-10-24
+announcements:
+  - https://www.eventbrite.com.mx/e/cumbre-de-contribuidores-de-open-source-software-ccoss-2020-tickets-91491063233
+  - https://twitter.com/addcade/status/1314282485929381892
+  - https://twitter.com/Decred_ES/status/1314339020684525568
+  - https://ccoss.org/speakers/
+  - https://ccoss.org/speakers/ana-dalia-chavez/
+  - https://matrix.to/#/!clHjlICBEtCtAdTupf:decred.org/$IAzz2P1YG3Yu4FuZFzLX0_7U44nG5hEqRDsYRJ1CPQ4
+location: Internet
+organizers:
+  - org: ?
+    url: ?
+decred_talks:
+  - title: Open source contractor model in the cryptocurrency industry
+    start_utc: 2020-10-21 17:00
+    end_utc: 2020-10-21 17:15
+    presenters: adcade
+decred_people:
+  - adcade
+description: ?
+media:
+  - ?
+  - ?
+notes:
+  - ?
