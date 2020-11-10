@@ -11,9 +11,12 @@ organizers:
 decred_people:
   - elian
 attendance:
-  - 104 YouTube views as of 2020-10-17
+  - 104 YouTube views as of 2020-10-17, 108 views as of 2020-11-10 (yIlVTSObIzU)
 description: FAS panel on decentralized organisations with team memebers from NEO and Dash. Decred topics "What is governance?", "The case of Decred as a decentralized organization" and "Decred's future vision of a decentralized structure". Several comments were received about the quality of the information and the conversation.
 media:
-  - https://www.youtube.com/watch?v=yIlVTSObIzU
+  - url: https://www.youtube.com/watch?v=yIlVTSObIzU
+    published_utc: 2020-08-31
+  - url: https://www.youtube.com/watch?v=ff6RohQaNDU
+    published_utc: 2020-10-21
 notes:
   - two other speakers are John DeVadoss (Head of Development, Neo) and Ernesto Contreras (Head of Buisness Development, Dash)
