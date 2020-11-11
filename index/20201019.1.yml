@@ -1,5 +1,5 @@
 title: CCOSS 2020
-lang: es?
+lang: es { or en? or mixed? }
 start_utc: 2020-10-19
 end_utc: 2020-10-24
 announcements:
@@ -9,7 +9,7 @@ announcements:
   - https://ccoss.org/speakers/
   - https://ccoss.org/speakers/ana-dalia-chavez/
   - https://matrix.to/#/!clHjlICBEtCtAdTupf:decred.org/$IAzz2P1YG3Yu4FuZFzLX0_7U44nG5hEqRDsYRJ1CPQ4
-location: Internet
+location: Internet { or physical? }
 organizers:
   - org: ?
     url: ?
