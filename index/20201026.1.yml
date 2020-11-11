@@ -1,0 +1,33 @@
+title: Blockchain Learning Challenge - Decred
+title_es: ?
+lang: es
+start_utc: 2020-10-26
+end_utc: 2020-12-09
+announcements:
+  - https://www.talentland.talent-republic.tv/challenge/blockchain-learning-challenge-decred/
+  - https://twitter.com/Decred_ES/status/1323737929429245955
+  - https://twitter.com/blockchain_land/status/1325208764778049538
+  - https://matrix.to/#/!clHjlICBEtCtAdTupf:decred.org/$mnNJ8GjtqF5NzN_AwjfSkEyYhUHUEWF242l6gQ9tjmQ
+  - https://twitter.com/Decred_ES/status/1325817130978340868
+  - https://twitter.com/Decred_ES/status/1326274399243218944
+location: Internet
+organizers:
+  - org: Decred Latam team
+    url: https://twitter.com/Decred_ES
+  - org: Talend Land Latam
+    url: https://www.talentland.talent-republic.tv
+decred_people:
+  - adcade
+  - camilolwi
+attendance:
+  - over 90 people have registered from Bolivia, Perú, Venezuela, México, Chile, Argentina, Uruguay
+  - ? participated
+  - ? submissions
+description: The goal of the challenge is to share tools and practical abilities about blockchain technology in order for participants to develop an original project using Decred public blockchain data. First phase is one week of workshops about Bitcoin and blockchain, alternative consensus protocols, decentralised organisations and governance, dcrdata API and blockchain data, and Q&A party. Second phase is original project development with mentoring and support. At the end participants must release their projects with ISC license and present them in 3-minute video pitches.
+media:
+  - ?
+notes:
+  - rewards for 1st/2nd/3rd place are $1,500/700/300 in DCR
+  - registrations accepted between 2020-10-26 and 2020-11-12
+  - information for first phase was shared via https://meet.jit.si/DecredTalentLandChallenge
+  - Twitter hashtag BlockchainLearningChallenge
