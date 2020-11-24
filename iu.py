@@ -11,6 +11,9 @@ class Config:
     index_dir   = "index"
     build_dir   = "build"
 
+class Const:
+    index       = "index"
+
 def load_str(path):
     with open(path) as f:
         return f.read()
@@ -36,6 +39,12 @@ def parse_date(s):
             continue
     raise IuError("unknown date format: " + s)
 
+def entry_md(eid, data):
+    """Render one index entry as Markdown"""
+    md = "back to [index]({}.md)\n\n".format(Const.index)
+    md += "# " + data["title"]
+    return md
+
 def index_md(entries):
     """Build top-level Markdown index page"""
     md = "# Index of events\n\n"
@@ -43,8 +52,8 @@ def index_md(entries):
         data = yaml.data
         date = parse_date(data["start_utc"])
         date_str = date.strftime("%Y-%b-%d")
-        item = "- {date}: {title}\n".format(
-            date=date_str, title=data["title"])
+        item = "- {date}: [{title}]({eid}.md)\n".format(
+            date=date_str, title=data["title"], eid=eid)
         md += item
     return md
 
@@ -64,8 +73,16 @@ def build_md(args):
                 entries[eid] = yaml
 
     print("writing to:", out_dir)
+
+    for eid, yaml in entries.items():
+        entry_str = entry_md(eid, yaml.data)
+        entry_filename = eid + ".md"
+        entry_filepath = os.path.join(out_dir, entry_filename)
+        write_str(entry_filepath, entry_str)
+        print("wrote", entry_filename)
+
     index_str = index_md(entries)
-    index_filename = "index.md"
+    index_filename = Const.index + ".md"
     index_filepath = os.path.join(out_dir, index_filename)
     write_str(index_filepath, index_str)
     print("wrote", index_filename)
