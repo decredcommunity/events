@@ -26,7 +26,7 @@ def init_build_dir(path):
 def index_md(entries):
     """Build top-level Markdown index page"""
     md = "# Index of events\n\n"
-    for eid, yaml in entries.items():
+    for eid, yaml in sorted(entries.items(), reverse=True):
         data = yaml.data
         item = "- {date}: {title}\n".format(
             date=data["start_utc"], title=data["title"])
