@@ -84,13 +84,17 @@ def entry_md(eid, data):
 
 def index_md(entries):
     """Build top-level Markdown index page"""
-    md = "# Index of events\n\n"
+    md = "# Decred events\n"
+    year, month = None, None
     for eid, yaml in sorted(entries.items(), reverse=True):
         data = yaml.data
         date = parse_date(data["start_utc"])
-        date_str = date.strftime("%Y-%b-%d")
+        # group by month
+        if not (year == date.year and month == date.month):
+            year, month = date.year, date.month
+            md += "\n## {}\n\n".format(date.strftime("%B %Y"))
         item = "- {date}: [{title}]({eid}.md)\n".format(
-            date=date_str, title=data["title"], eid=eid)
+            date=date.strftime("%b-%d"), title=data["title"], eid=eid)
         md += item
     return md
 
