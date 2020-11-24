@@ -49,13 +49,21 @@ SITES = {
     "youtube.com"   : "YouTube",
 }
 
-def site_name(url):
+def hostname(url):
     host = urlparse(url).hostname
     # strip www.
     hostnw = host[len("www."):] if host.startswith("www.") else host
-    if hostnw in SITES:
-        return SITES[hostnw]
     return hostnw
+
+def site_name(url):
+    host = hostname(url)
+    if host in SITES:
+        return SITES[host]
+    return host
+
+def twitter_username(url):
+    segments = urlparse(url).path.split("/")
+    return segments[1]
 
 def entry_md(eid, data):
     """Render one index entry as Markdown"""
@@ -77,8 +85,16 @@ def entry_md(eid, data):
     md += data["description"] + "\n\n"
     if "announcements" in data:
         md += "Announcements:\n\n"
+        tweets, nontweets = [], []
         for aurl in data["announcements"]:
-            md += "- [{}]({})\n".format(site_name(aurl), aurl)
+            if hostname(aurl) == "twitter.com":
+                tweets.append("[@{}]({})".format(twitter_username(aurl), aurl))
+            else:
+                nontweets.append(aurl)
+        if tweets:
+            md += "- tweets: {}\n".format(", ".join(tweets))
+        for url in nontweets:
+            md += "- [{}]({})\n".format(site_name(url), url)
         md += "\n"
     if "attendance" in data:
         md += "Attendance:\n\n"
