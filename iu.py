@@ -42,7 +42,44 @@ def parse_date(s):
 def entry_md(eid, data):
     """Render one index entry as Markdown"""
     md = "back to [index]({}.md)\n\n".format(Const.index)
-    md += "# " + data["title"]
+    md += "# {}\n\n".format(data["title"])
+    md += "- language: {}\n".format(data["lang"])
+    md += "- start UTC: {}\n".format(data["start_utc"])
+    if "end_utc" in data:
+        md += "- end UTC: {}\n".format(data["end_utc"])
+    md += "- location: {}\n".format(data["location"])
+    orgs = []
+    for org in data["organizers"]:
+        ostr = "[{}]({})".format(org["org"], org["url"])
+        if "person" in org:
+            ostr += " ({})".format(org["person"])
+        orgs.append(ostr)
+    md += "- organizers: {}\n".format(", ".join(orgs))
+    md += "- Decred participants: {}\n\n".format(", ".join(data["decred_people"]))
+    md += data["description"] + "\n\n"
+    if "announcements" in data:
+        md += "Announcements:\n\n"
+        for ann in data["announcements"]:
+            md += "- {}\n".format(ann)
+        md += "\n"
+    if "attendance" in data:
+        md += "Attendance:\n\n"
+        for a in data["attendance"]:
+            md += "- {}\n".format(a)
+        md += "\n"
+    if "media" in data:
+        md += "Media:\n\n"
+        for m in data["media"]:
+            if isinstance(m, str):
+                md += "- {}\n".format(m)
+            elif isinstance(m, dict):
+                md += "- {}\n".format(m["url"])
+        md += "\n"
+    if "notes" in data:
+        md += "Notes:\n\n"
+        for n in data["notes"]:
+            md += "- {}\n".format(n)
+        md += "\n"
     return md
 
 def index_md(entries):
