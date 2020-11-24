@@ -57,6 +57,12 @@ def index_md(entries):
         md += item
     return md
 
+def write_md(out_dir, basename, s):
+    filename = basename + ".md"
+    filepath = os.path.join(out_dir, filename)
+    write_str(filepath, s)
+    print("wrote", filename)
+
 def build_md(args):
     out_dir = args.outdir
     init_build_dir(out_dir)
@@ -75,17 +81,9 @@ def build_md(args):
     print("writing to:", out_dir)
 
     for eid, yaml in entries.items():
-        entry_str = entry_md(eid, yaml.data)
-        entry_filename = eid + ".md"
-        entry_filepath = os.path.join(out_dir, entry_filename)
-        write_str(entry_filepath, entry_str)
-        print("wrote", entry_filename)
+        write_md(out_dir, eid, entry_md(eid, yaml.data))
 
-    index_str = index_md(entries)
-    index_filename = Const.index + ".md"
-    index_filepath = os.path.join(out_dir, index_filename)
-    write_str(index_filepath, index_str)
-    print("wrote", index_filename)
+    write_md(out_dir, Const.index, index_md(entries))
 
 def make_arg_parser():
     import argparse
