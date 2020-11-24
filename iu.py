@@ -1,9 +1,33 @@
+import os
+
+import strictyaml
+
 class Config:
     index_dir   = "index"
     build_dir   = "build"
 
+def load_str(path):
+    with open(path) as f:
+        return f.read()
+
+def load_yaml(path):
+    return strictyaml.load(load_str(path))
+
+def init_build_dir(path):
+    if not os.path.exists(path):
+        os.mkdir(path, mode=0o700)
+        print("created directory '{}'".format(path))
+
 def build_md(args):
-    raise Exception("Not implemented yet!")
+    init_build_dir(args.outdir)
+    indexdir = args.path
+    for curdir, dirs, files in os.walk(indexdir):
+        for filename in files:
+            if filename.endswith(".yml") and (not filename == "0_template.yml"):
+                filepath = os.path.join(curdir, filename)
+                oid = filename.replace(".yml", "")
+                yaml = load_yaml(filepath)
+                print(oid, ":", yaml.data["title"])
 
 def make_arg_parser():
     import argparse
@@ -20,7 +44,7 @@ def make_arg_parser():
         help="index directory with input YAML files, '{}' by default"
             .format(Config.index_dir))
     md.add_argument(
-        "-o", "--output",
+        "-o", "--outdir",
         default=Config.build_dir,
         help="output dir for generated Markdown files, '{}' by default"
             .format(Config.build_dir))
