@@ -1,6 +1,11 @@
 import os
 
+from datetime import datetime
+
 import strictyaml
+
+class IuError(Exception):
+    pass
 
 class Config:
     index_dir   = "index"
@@ -23,13 +28,23 @@ def init_build_dir(path):
         os.mkdir(path, mode=0o700)
         print("created directory '{}'".format(path))
 
+def parse_date(s):
+    for fmt in ["%Y-%m-%d %H:%M:%S", "%Y-%m-%d %H:%M", "%Y-%m-%d"]:
+        try:
+            return datetime.strptime(s, fmt)
+        except ValueError:
+            continue
+    raise IuError("unknown date format: " + s)
+
 def index_md(entries):
     """Build top-level Markdown index page"""
     md = "# Index of events\n\n"
     for eid, yaml in sorted(entries.items(), reverse=True):
         data = yaml.data
+        date = parse_date(data["start_utc"])
+        date_str = date.strftime("%Y-%b-%d")
         item = "- {date}: {title}\n".format(
-            date=data["start_utc"], title=data["title"])
+            date=date_str, title=data["title"])
         md += item
     return md
 
