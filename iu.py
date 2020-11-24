@@ -13,21 +13,47 @@ def load_str(path):
 def load_yaml(path):
     return strictyaml.load(load_str(path))
 
+def write_str(path, s):
+    # overwrite existing file
+    with open(path, "w", newline="\n") as f:
+        f.write(s)
+
 def init_build_dir(path):
     if not os.path.exists(path):
         os.mkdir(path, mode=0o700)
         print("created directory '{}'".format(path))
 
+def index_md(entries):
+    """Build top-level Markdown index page"""
+    md = "# Index of events\n\n"
+    for eid, yaml in entries.items():
+        data = yaml.data
+        item = "- {date}: {title}\n".format(
+            date=data["start_utc"], title=data["title"])
+        md += item
+    return md
+
 def build_md(args):
-    init_build_dir(args.outdir)
+    out_dir = args.outdir
+    init_build_dir(out_dir)
     indexdir = args.path
+
+    entries = {}
+
     for curdir, dirs, files in os.walk(indexdir):
         for filename in files:
             if filename.endswith(".yml") and (not filename == "0_template.yml"):
                 filepath = os.path.join(curdir, filename)
-                oid = filename.replace(".yml", "")
+                eid = filename.replace(".yml", "")
                 yaml = load_yaml(filepath)
-                print(oid, ":", yaml.data["title"])
+                entries[eid] = yaml
+
+    print("writing to:", out_dir)
+    index_str = index_md(entries)
+    index_filename = "index.md"
+    index_filepath = os.path.join(out_dir, index_filename)
+    write_str(index_filepath, index_str)
+    print("wrote", index_filename)
 
 def make_arg_parser():
     import argparse
