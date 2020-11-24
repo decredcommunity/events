@@ -1,6 +1,7 @@
 import os
 
 from datetime import datetime
+from urllib.parse import urlparse
 
 import strictyaml
 
@@ -39,6 +40,23 @@ def parse_date(s):
             continue
     raise IuError("unknown date format: " + s)
 
+SITES = {
+    "facebook.com"  : "Facebook",
+    "instagram.com" : "Instagram",
+    "matrix.to"     : "Matrix",
+    "pscp.tv"       : "Periscope",
+    "twitter.com"   : "Twitter",
+    "youtube.com"   : "YouTube",
+}
+
+def site_name(url):
+    host = urlparse(url).hostname
+    # strip www.
+    hostnw = host[len("www."):] if host.startswith("www.") else host
+    if hostnw in SITES:
+        return SITES[hostnw]
+    return hostnw
+
 def entry_md(eid, data):
     """Render one index entry as Markdown"""
     md = "back to [index]({}.md)\n\n".format(Const.index)
@@ -59,8 +77,8 @@ def entry_md(eid, data):
     md += data["description"] + "\n\n"
     if "announcements" in data:
         md += "Announcements:\n\n"
-        for ann in data["announcements"]:
-            md += "- {}\n".format(ann)
+        for aurl in data["announcements"]:
+            md += "- [{}]({})\n".format(site_name(aurl), aurl)
         md += "\n"
     if "attendance" in data:
         md += "Attendance:\n\n"
@@ -71,9 +89,10 @@ def entry_md(eid, data):
         md += "Media:\n\n"
         for m in data["media"]:
             if isinstance(m, str):
-                md += "- {}\n".format(m)
+                murl = m
             elif isinstance(m, dict):
-                md += "- {}\n".format(m["url"])
+                murl = m["url"]
+            md += "- [{}]({})\n".format(site_name(murl), murl)
         md += "\n"
     if "notes" in data:
         md += "Notes:\n\n"
