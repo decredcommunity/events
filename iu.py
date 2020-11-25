@@ -30,7 +30,7 @@ def write_str(path, s):
 def init_build_dir(path):
     if not os.path.exists(path):
         os.mkdir(path, mode=0o700)
-        print("created directory '{}'".format(path))
+        print("created directory:", path)
 
 def parse_date(s):
     for fmt in ["%Y-%m-%d %H:%M:%S", "%Y-%m-%d %H:%M", "%Y-%m-%d"]:
@@ -157,7 +157,7 @@ def build_md(args):
                 yaml = load_yaml(filepath)
                 entries[eid] = yaml
 
-    print("writing to:", out_dir)
+    print("writing to directory:", out_dir)
 
     for eid, yaml in entries.items():
         write_md(out_dir, eid, entry_md(eid, yaml.data))
