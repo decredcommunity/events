@@ -1,0 +1,25 @@
+title: a
+lang: b
+start_utc: c
+end_utc: d
+announcements:
+  - e
+  - f
+  - f
+location: x
+organizers:
+  - org: 
+    url: 
+    person: 
+decred_people:
+  - x
+attendance:
+  - x
+  - x
+description: x
+media:
+  - x
+  - x
+notes:
+  - x
+  - x
