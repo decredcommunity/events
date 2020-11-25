@@ -6,16 +6,17 @@ announcements:
   - 
   - 
   - 
-location:
+location: 
 organizers:
   - org: 
     url: 
     person: 
-decred_talks: 
+decred_talks:
   - title: 
     start_utc: 
     presenters: 
 decred_people:
+  - 
   - 
 attendance:
   - 
