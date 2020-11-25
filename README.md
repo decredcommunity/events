@@ -9,6 +9,6 @@ This repository contains:
 
 - long-form [reports](reports) for past events
 
-  - follow [these instructions](docs/submitting.md) to add your report
+  - follow [these instructions](docs/submit-report.md) to add your report
 
 - [wiki](https://github.com/decredcommunity/events/wiki) with guidance for running events
