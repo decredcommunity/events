@@ -2,7 +2,13 @@
 
 This repository contains:
 
-- [reports](reports) for past events
-- [wiki](https://github.com/decredcommunity/events/wiki) with guidance for running events
+- [index](index) of past events
 
-To submit your event report, follow [these instructions](docs/submitting.md).
+  - published [here](https://decredcommunity.github.io/events/index/)
+  - follow [these instructions](docs/submit-index.md) to list your event
+
+- long-form [reports](reports) for past events
+
+  - follow [these instructions](docs/submitting.md) to add your report
+
+- [wiki](https://github.com/decredcommunity/events/wiki) with guidance for running events
