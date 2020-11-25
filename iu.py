@@ -119,7 +119,10 @@ def entry_md(eid, data):
 
 def index_md(entries):
     """Build top-level Markdown index page"""
-    md = "# Decred events\n"
+    md = ("# Decred Events\n\n"
+          "This is the index of past Decred events. "
+          "Pages are generated from YAML files. "
+          "To list your event please follow [these instructions](https://github.com/decredcommunity/events/blob/master/docs/submit-index.md).\n")
     year, month = None, None
     for eid, yaml in sorted(entries.items(), reverse=True):
         data = yaml.data
