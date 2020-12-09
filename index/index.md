@@ -2,6 +2,10 @@
 
 This is the index of past Decred events. Pages are generated from YAML files. To list your event please follow [these instructions](https://github.com/decredcommunity/events/blob/master/docs/submit-index.md).
 
+## November 2020
+
+- Nov-28: [Partnership agreement with OMJD](20201128.1.md) (arij)
+
 ## September 2020
 
 - Sep-25: [Let's Talk Decred 14: The wild crypto maximalism](20200925.1.md) (elian)
