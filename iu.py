@@ -82,7 +82,10 @@ def entry_md(eid, data):
         orgs.append(ostr)
     md += "- organizers: {}\n".format(", ".join(orgs))
     md += "- Decred participants: {}\n\n".format(", ".join(data["decred_people"]))
-    md += data["description"] + "\n\n"
+    desc = data["description"]
+    md += desc + "\n"
+    if not desc.endswith("\n"):
+        md += "\n"
     if "announcements" in data:
         md += "Announcements:\n\n"
         tweets, nontweets = [], []
