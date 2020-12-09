@@ -2,7 +2,7 @@
 
 {TODO: Resolve and remove all tasks and hints enclosed in curly braces like this one. Final text must have no curly braces!}
 
-{Save the file as YYYYMMDD-title-city-country.md, all lowercase. Example: 20190116-tnabc-miami-usa.md}
+{Save the file as YYYYMMDD.N.md, all lowercase, N is event's number on that day. Example: 20190116.1.md}
 
 Report by {credit all those who contributed to the report, e.g. @Haon}.
 
