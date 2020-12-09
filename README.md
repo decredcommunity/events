@@ -2,9 +2,8 @@
 
 This repository contains:
 
-- [index](index) of past events
+- index of past events stored in YAML files [here](index) and published [here](https://decredcommunity.github.io/events/index/) (generated using code in the [code](https://github.com/decredcommunity/events/tree/code) branch)
 
-  - published [here](https://decredcommunity.github.io/events/index/)
   - follow [these instructions](docs/submit-index.md) to list your event
 
 - long-form [reports](reports) for past events
