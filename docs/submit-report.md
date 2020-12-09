@@ -31,7 +31,7 @@ File hosting for Decred contributors is an unsolved problem. Ultimately we need 
 This way is most advanced but is also most flexible and requires less admin work.
 
 1. [Fork](https://help.github.com/en/categories/collaborating-with-issues-and-pull-requests) the events repository.
-2. Create a file with your report in the `reports` directory. The file name must follow the format `YYYYMMDD-title-city-country.md`, e.g. `20190116-tnabc-miami-usa.md`. You can use [this template](https://raw.githubusercontent.com/decredcommunity/events/master/docs/report-template.md) as a starting point.
+2. Create a file in the `reports` directory. The file name must follow the format `YYYYMMDD.N.md`, e.g. `20190116.1.md`. That is 8 characters encoding event date, followed by `.`, followed by event's number on that day (most commonly `1`), with `.md` extension. You can use [this template](https://raw.githubusercontent.com/decredcommunity/events/master/docs/report-template.md) as a starting point.
 3. Create a [pull request](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork) against the events repository.
   * Check `Allow edits from maintainers` ([help](https://help.github.com/en/articles/allowing-changes-to-a-pull-request-branch-created-from-a-fork)).
   * Optionally, use [Draft pull request](https://help.github.com/en/articles/about-pull-requests#draft-pull-requests) that cannot be merged until you mark it as ready.
@@ -50,7 +50,7 @@ This method is easier than previous, at the cost of some admin work. Unlike gist
 Gist is commonly used for a single versioned document and it is perfect for event reports. All you need is a GitHub account.
 
 1. Visit https://gist.github.com/
-2. Enter filename in this format: `YYYYMMDD-title-city-country.md`. Example: `20190116-tnabc-miami-usa.md`.
+2. Enter filename in this format: `YYYYMMDD.N.md`. Example: `20190116.1.md`.
 3. Enter report contents. You can use [this template](https://raw.githubusercontent.com/decredcommunity/events/master/docs/report-template.md).
 4. Press `Create secret gist` or `Create public gist` depending on your preference. Secret gists can only be accessed knowing the correct link and are not listed in your profile.
 5. Edit the gist as necessary.
