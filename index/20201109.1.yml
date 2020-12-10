@@ -3,7 +3,6 @@ lang: es
 start_utc: 2020-11-09
 end_utc: 2020-11-12
 announcements:
-  - https://twitter.com/talentrepublic_/status/1324046492038885376
   - https://www.talentland.talent-republic.tv/
 location: Internet / YouTube
 organizers:
@@ -13,6 +12,7 @@ decred_talks:
   - title: "Our money, our rules: Leaving behind the national currencies"
     title_es: "Nuestro dinero, nuestras reglas: dejando atrás las monedas nacionales"
     start_utc: 2020-11-09 { UTC time? }
+    ann: https://twitter.com/talentrepublic_/status/1324046492038885376
     presenters: adcade, elian, francov_, pablito
     media: https://www.youtube.com/watch?v=B0tEYQ2l_RM
 decred_people:
