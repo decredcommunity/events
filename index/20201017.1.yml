@@ -16,9 +16,9 @@ decred_people:
   - pablito
 attendance:
   - 60 YouTube views as of 2020-11-08 (XSmdwWykmSo)
-description: ?
+description: { how did it go? }
 media:
-  - { private video? } https://www.youtube.com/watch?v=KuwaEpcHpLc
+  - { private video? or just remove this? } https://www.youtube.com/watch?v=KuwaEpcHpLc
   - https://www.youtube.com/watch?v=XSmdwWykmSo
 notes:
   - Python web mining scholarship announced participation in the workshop https://twitter.com/Decred_ES/status/1316751279000035332

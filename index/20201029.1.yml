@@ -23,7 +23,7 @@ decred_people:
   - elian
 attendance:
   - 255 YouTube views as of 2020-11-08 (dx8D18jlr9s)
-description: ?
+description: { how did it go? }
 media:
   - https://twitter.com/territoriobtc/status/1325572568850587649
   - https://www.youtube.com/watch?v=dx8D18jlr9s
@@ -35,4 +35,4 @@ media:
   - https://twitter.com/LOReBitcoin/status/1321882499585351680
   - https://twitter.com/bitcoinemb/status/1321921486450434049
 notes:
-  - 
+  - { any notes? }

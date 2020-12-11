@@ -9,10 +9,10 @@ announcements:
   - https://ccoss.org/speakers/
   - https://ccoss.org/speakers/ana-dalia-chavez/
   - https://matrix.to/#/!clHjlICBEtCtAdTupf:decred.org/$IAzz2P1YG3Yu4FuZFzLX0_7U44nG5hEqRDsYRJ1CPQ4
-location: Internet { or physical? }
+location: Internet / ccoss.org { was this streamed on any other platforms? }
 organizers:
-  - org: ?
-    url: ?
+  - org: { name of the organizing organization? }
+    url: { site of the organizing organization? }
 decred_talks:
   - title: Open source contractor model in the cryptocurrency industry
     title_es: El modelo de contratistas open source en la industria de criptomonedas
@@ -23,12 +23,11 @@ decred_talks:
 decred_people:
   - adcade
 attendance:
-  - 1,500 connected (the number comes from organizers)
+  - 1,500 connected (this number comes from organizers)
   - 27 YouTube views as of 2020-11-12 (TuRAeBmnScQ), it was uploaded 2020-11-04
-description: ?
+description: { how did it go in general? }
 media:
   - url: https://www.youtube.com/playlist?list=PLnLzwYW6HOC6ekKb_Ptb29OnfbXGcPmJx
-    note: playlist of 40+ CCOSS videos
-  - ?
+    note: playlist of 40+ CCOSS 2020 videos
 notes:
   - the event was streamed through a dedicated page and later uploaded to YouTube

@@ -8,7 +8,7 @@ location: Internet / YouTube
 organizers:
   - org: Talend Land Latam
     url: https://www.talentland.talent-republic.tv
-decred_talks: 
+decred_talks:
   - title: "Our money, our rules: Leaving behind the national currencies"
     title_es: "Nuestro dinero, nuestras reglas: dejando atrás las monedas nacionales"
     start_utc: 2020-11-09 { UTC time? }
@@ -22,7 +22,7 @@ decred_people:
   - pablito
 attendance:
   - 910 views as of 2020-11-11 (B0tEYQ2l_RM)
-description: ?
+description: { description? how did it go? }
 media:
   - { add any relevant media not specific to any talk }
 notes:
