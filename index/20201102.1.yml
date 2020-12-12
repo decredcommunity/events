@@ -10,7 +10,7 @@ announcements:
   - https://twitter.com/BlockSummitLA/status/1323302427651657733
   - https://twitter.com/BlockSummitLA/status/1323302480537673730
   - https://es.cointelegraph.com/news/blockchain-summit-latam-2020-governance-features-analyzed-in-public-protocols
-location: Internet / { which platforms this was streamed/published at? }
+location: Internet / YouTube { which other platforms this was streamed/published at? }
 organizers:
   - org: Blockchain Summit Latam
     url: https://twitter.com/BlockSummitLA
@@ -20,14 +20,17 @@ decred_talks:
     start_utc: 2020-11-02 21:30
     presenters: elian
     ann: https://twitter.com/BlockSummitLA/status/1323302480537673730
-    media: https://twitter.com/BlockSummitLA/status/1323384755270918145
+    media:
+      - https://www.youtube.com/watch?v=SiMoxHS8AAk
+      - https://twitter.com/BlockSummitLA/status/1323384755270918145
 decred_people:
   - elian
 attendance:
   - 3000 over 5 days of virtual 
-description: on the first day @elian gave a keynote on "Governance of public protocols" about the similarities and differences between several public blockchains and how does Decred stand out from these.
+description: On the first day @elian gave a keynote on "Governance of public protocols" about the similarities and differences between several public blockchains and how does Decred stand out from these.
 media:
-  - { any recording available? }
+  - url: https://www.youtube.com/playlist?list=PLiJAJqCfjxwIR6q1W0bidE9W4369KMjzz
+    note: playlist of 41 videos from the event
 notes:
   - twitter hashtag BSLONLINE2020
   - Decred is a silver sponsor
