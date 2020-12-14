@@ -27,7 +27,7 @@ decred_people:
 attendance:
   - 1,500 connected (this number comes from organizers)
   - 27 YouTube views as of 2020-11-12 (TuRAeBmnScQ), it was uploaded 2020-11-04
-description: @addcade gave a general overview of blockchain technology and open source software, the particular example of Decred as a decentralized organization working on FOSS, the implications of this model for remote working, and the future of finance and cryptocurrencies.
+description: \@addcade gave a general overview of blockchain technology and open source software, the particular example of Decred as a decentralized organization working on FOSS, the implications of this model for remote working, and the future of finance and cryptocurrencies.
 media:
   - url: https://www.youtube.com/playlist?list=PLnLzwYW6HOC6ekKb_Ptb29OnfbXGcPmJx
     note: playlist of 40+ CCOSS 2020 videos
