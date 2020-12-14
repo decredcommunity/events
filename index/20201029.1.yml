@@ -14,7 +14,7 @@ organizers:
   - org: Bitcoin Embassy Bar
     url: https://twitter.com/bitcoinemb
   - org: Territorio Bitcoin
-    site: https://www.territoriobitcoin.com/
+    url: https://www.territoriobitcoin.com/
     twitter: territoriobtc
 decred_talks:
   - title: Enterate de las ultimas novedades de Decred Version 1.6
@@ -24,7 +24,7 @@ decred_people:
 attendance:
   - 255 YouTube views as of 2020-11-08 (dx8D18jlr9s)
 description: @elian presented an overview of Decred, its hybrid blockchain, Politeia, governance, privacy, new features and the future of the project. After this there was a panel to discuss the perspectives of the cryptocurrency industry in Latin America and Spain, the challenges for adoption and the future of the ecosystem.
-media: 
+media:
   - https://twitter.com/territoriobtc/status/1325572568850587649
   - https://www.youtube.com/watch?v=dx8D18jlr9s
   - https://twitter.com/territoriobtc/status/1325094454391402496
@@ -35,4 +35,4 @@ media:
   - https://twitter.com/LOReBitcoin/status/1321882499585351680
   - https://twitter.com/bitcoinemb/status/1321921486450434049
 notes:
-  - Panel hosted by Oscar Domingues from Territorio Bitcoin and with Lorena Ortiz, Bitcoin Embassy Bar, Matias Bari, Satoshi Tango Exchange, and Sergio Rivera from 9780 Bitcoin Exchange. 
+  - Panel hosted by Oscar Domingues from Territorio Bitcoin and with Lorena Ortiz (Bitcoin Embassy Bar), Matias Bari (Satoshi Tango Exchange), and Sergio Rivera (9780 Bitcoin Exchange).
