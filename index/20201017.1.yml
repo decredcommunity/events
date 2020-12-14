@@ -16,9 +16,8 @@ decred_people:
   - pablito
 attendance:
   - 60 YouTube views as of 2020-11-08 (XSmdwWykmSo)
-description: { how did it go? }
+description: @pablito gave an introductory workshop to dcrdata and Decred API dedicated to Devs that are looking into the first steps for collaborating with Decred Project, the workshop lasted for two hours and included a general introduction to blockchain and Decred in particular.
 media:
-  - { private video? or just remove this? } https://www.youtube.com/watch?v=KuwaEpcHpLc
-  - https://www.youtube.com/watch?v=XSmdwWykmSo
+  - Video on YouTube https://www.youtube.com/watch?v=XSmdwWykmSo
 notes:
   - Python web mining scholarship announced participation in the workshop https://twitter.com/Decred_ES/status/1316751279000035332
