@@ -1,0 +1,36 @@
+title: CCOSS 2020
+lang: es
+start_utc: 2020-10-19
+end_utc: 2020-10-24
+announcements:
+  - https://www.eventbrite.com.mx/e/cumbre-de-contribuidores-de-open-source-software-ccoss-2020-tickets-91491063233
+  - https://twitter.com/addcade/status/1314282485929381892
+  - https://twitter.com/Decred_ES/status/1314339020684525568
+  - https://ccoss.org/speakers/
+  - https://ccoss.org/speakers/ana-dalia-chavez/
+  - https://matrix.to/#/!clHjlICBEtCtAdTupf:decred.org/$IAzz2P1YG3Yu4FuZFzLX0_7U44nG5hEqRDsYRJ1CPQ4
+location: Internet / ccoss.org
+organizers:
+  - org: Open Source México
+    url: https://www.meetup.com/es-ES/Open-SOurce-Mexico-OSOM/
+  - org: Software Guru
+    url: https://sg.com.mx/about-us
+decred_talks:
+  - title: Open source contractor model in the cryptocurrency industry
+    title_es: El modelo de contratistas open source en la industria de criptomonedas
+    start_utc: 2020-10-21 17:00
+    end_utc: 2020-10-21 17:15
+    presenters: adcade
+    media: https://www.youtube.com/watch?v=TuRAeBmnScQ
+decred_people:
+  - adcade
+attendance:
+  - 1,500 connected (this number comes from organizers)
+  - 27 YouTube views as of 2020-11-12 (TuRAeBmnScQ), it was uploaded 2020-11-04
+description: @addcade gave a general overview of blockchain technology and open source software, the particular example of Decred as a decentralized organization working on FOSS, the implications of this model for remote working, and the future of finance and cryptocurrencies.
+media:
+  - url: https://www.youtube.com/playlist?list=PLnLzwYW6HOC6ekKb_Ptb29OnfbXGcPmJx
+    note: playlist of 40+ CCOSS 2020 videos
+notes:
+  - CCOSS means La Cumbre de Contribuidores de Open Source Software, or Open Source Contributor Summit
+  - the event was streamed through a dedicated page and later uploaded to YouTube
