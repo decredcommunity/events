@@ -10,7 +10,7 @@ announcements:
   - https://twitter.com/BlockSummitLA/status/1323302427651657733
   - https://twitter.com/BlockSummitLA/status/1323302480537673730
   - https://es.cointelegraph.com/news/blockchain-summit-latam-2020-governance-features-analyzed-in-public-protocols
-location: Internet / YouTube { was livestreamed on another platform but the final video in on YouTube }
+location: Internet / YouTube
 organizers:
   - org: Blockchain Summit Latam
     url: https://twitter.com/BlockSummitLA
@@ -33,4 +33,5 @@ media:
     note: playlist of 41 videos from the event
 notes:
   - twitter hashtag BSLONLINE2020
-  - Decred is a silver sponsor
+  - Decred was a silver sponsor
+  - it was livestreamed on another platform but the final video in on YouTube
