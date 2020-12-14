@@ -10,13 +10,17 @@ organizers:
   - org: Decred Latam team
     url: https://twitter.com/Decred_ES
 decred_people:
-  - { who? }
+  - @elian
 attendance:
-  - { ? YouTube views as of ? }
-description: { general description? }
+  - 61 views as of 2020-12-14
+description: on this episode @elian interviewed Cristobal Pereira to learn more on the aftermath of the Blockchain Summit Latam Online 2020, his reflections of the industry in 2020 and what he thinks we will see around the ecosystem in 2021.
 media:
   - https://www.youtube.com/watch?v=sTaghDgY5k8
-  - { any else? }
+  - https://es.cointelegraph.com/news/next-edition-of-hablemos-decred-will-feature-latamtechs-ceo
+  https://twitter.com/Decred_ES/status/1326279642169348096
+  https://twitter.com/Decred_ES/status/1326968415559544832
+  https://twitter.com/Decred_ES/status/1326968413965717504
+  https://twitter.com/Decred_ES/status/1326968409771417600
 notes:
   - guest Cristobal Pereira (@cristpereirag, LatAmTech CEO)
-  - { anything else? }
+
