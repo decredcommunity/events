@@ -1,0 +1,28 @@
+title: Talent Land Latinoamerica
+lang: es
+start_utc: 2020-11-09
+end_utc: 2020-11-12
+announcements:
+  - https://www.talentland.talent-republic.tv/
+  - https://www.eventbrite.es/e/entradas-talent-land-latinoamerica-from-jalisco-125065631671
+location: Internet / YouTube
+organizers:
+  - org: Talend Land Latam
+    url: https://www.talentland.talent-republic.tv
+decred_talks:
+  - title: "Our money, our rules: Leaving behind the national currencies"
+    title_es: "Nuestro dinero, nuestras reglas: dejando atrás las monedas nacionales"
+    start_utc: 2020-11-10 00:00
+    ann: https://twitter.com/talentrepublic_/status/1324046492038885376
+    presenters: adcade, elian, francov_, pablito
+    media: https://www.youtube.com/watch?v=B0tEYQ2l_RM
+decred_people:
+  - adcade
+  - elian
+  - francov_
+  - pablito
+attendance:
+  - 7430 views as of 2020-12-14 (B0tEYQ2l_RM)
+description: This panel was organised by Decred in Spanish team to explore what is the future of money, finance and remote working. The team gave a brief on Decred's charateristics, what makes them unique in the context of decentralized digital money and how these ideas challenge many of our assumptions about more traditional forms of money.
+notes:
+  - Decred was a Silver sponsor
