@@ -9,8 +9,8 @@ class IuError(Exception):
     pass
 
 class Config:
-    index_dir   = "index"
-    build_dir   = "build"
+    indexdir   = "index"
+    builddir   = "build"
 
 class Const:
     index       = "index"
@@ -142,15 +142,15 @@ def index_md(entries):
         md += item
     return md
 
-def write_md(out_dir, basename, s):
+def write_md(outdir, basename, s):
     filename = basename + ".md"
-    filepath = os.path.join(out_dir, filename)
+    filepath = os.path.join(outdir, filename)
     write_str(filepath, s)
     print("wrote", filename)
 
 def build_md(args):
-    out_dir = args.outdir
-    init_build_dir(out_dir)
+    outdir = args.outdir
+    init_build_dir(outdir)
     indexdir = args.path
 
     entries = {}
@@ -163,12 +163,12 @@ def build_md(args):
                 yaml = load_yaml(filepath)
                 entries[eid] = yaml
 
-    print("writing to directory:", out_dir)
+    print("writing to directory:", outdir)
 
     for eid, yaml in entries.items():
-        write_md(out_dir, eid, entry_md(eid, yaml.data))
+        write_md(outdir, eid, entry_md(eid, yaml.data))
 
-    write_md(out_dir, Const.index, index_md(entries))
+    write_md(outdir, Const.index, index_md(entries))
 
 def make_arg_parser():
     import argparse
@@ -181,14 +181,14 @@ def make_arg_parser():
         help="generate Markdown from index files")
     md.add_argument(
         "path", nargs="?",
-        default=Config.index_dir,
+        default=Config.indexdir,
         help="index directory with input YAML files, '{}' by default"
-            .format(Config.index_dir))
+            .format(Config.indexdir))
     md.add_argument(
         "-o", "--outdir",
-        default=Config.build_dir,
+        default=Config.builddir,
         help="output dir for generated Markdown files, '{}' by default"
-            .format(Config.build_dir))
+            .format(Config.builddir))
     md.set_defaults(func=build_md)
 
     return parser
