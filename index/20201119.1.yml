@@ -1,11 +1,11 @@
-title: Virtual meeting with students of U. de El Salvador { ok? }
-title_es: { add es title if needed, or drop this field if not }
+title: Criptoeconomy: Decred case study - U. de El Salvador
+title_es: Criptoeconomía: caso Decred con U. de El Salvador
 lang: es
-start_utc: 2020-11-19 { UTC start time please }
+start_utc: 2020-11-19 23:00 UTC
 announcements:
-  - { any anns posted before the event? }
+  - { any anns posted before the event? No public announcement, invitation was made by professors to students only }
   - 
-location: Internet / { Google Hangouts? }
+location: Internet / Google Meet
 organizers:
   - org: Decred Latam team
     url: https://twitter.com/Decred_ES
@@ -14,14 +14,12 @@ organizers:
     url: https://twitter.com/UESoficial
 decred_people:
   - adcade
-  - 
 attendance:
-  - it was a 2 hour thing with 77 people, extended to +1 hr with ~45 people
-  - 
-description: Students of the economics faculty learned about cryptocurrencies, Decred, governance and contrubution opportunities.
+  - The attendees were 77 students and ~45 stayed until the closing.
+description: Students of the economics faculty learned about cryptocurrencies, Decred, governance and contribution opportunities.
 media:
   - https://twitter.com/addcade/status/1329605293081288709
-  - 
 notes:
-  - 
-  - 
+  - Contact with the U. de El Salvador was initiated since it is the largest college in El Salvador.
+  - Thi was an internal event of the U. de El Salvador planned with the coordinator of the economy faculty, originally was to be held in august, but moved to this date upon university request.
+  - The talk was scheduled for two hours but extended by another hour for q&a.
