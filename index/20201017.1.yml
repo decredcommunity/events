@@ -1,0 +1,23 @@
+title: Introduction to Blockchain API for Decred (dcrdata)
+title_es: Introduccion a Blockchain API con Decred (dcrdata)
+lang: es
+start_utc: 2020-10-17 20:00
+announcements:
+  - https://www.eventbrite.com/e/open-source-workshop-introduccion-a-blockchain-api-de-decred-dcrdata-tickets-124107662359
+  - https://twitter.com/Decred_ES/status/1314031870687019009
+  - https://twitter.com/Decred_ES/status/1315123106839703552
+  - https://es.cointelegraph.com/news/they-will-conduct-a-workshop-called-introduction-to-blockchain-and-decred-api
+  - https://twitter.com/Decred_ES/status/1317536322630914051
+location: Internet / YouTube
+organizers:
+  - org: Decred Latam team
+    url: https://twitter.com/Decred_ES
+decred_people:
+  - pablito
+attendance:
+  - 60 YouTube views as of 2020-11-08 (XSmdwWykmSo)
+description: @pablito gave an introductory workshop on dcrdata and Decred APIs for devs that are looking into the first steps for collaborating with the Decred Project. The workshop lasted for two hours and included a general introduction to blockchain and Decred in particular.
+media:
+  - https://www.youtube.com/watch?v=XSmdwWykmSo
+notes:
+  - Python web mining scholarship announced participation in the workshop https://twitter.com/Decred_ES/status/1316751279000035332
