@@ -10,7 +10,7 @@ class IuError(Exception):
 
 class Config:
     indexdir   = "index"
-    builddir   = "build"
+    builddir   = "index"
 
 class Const:
     index       = "index"
