@@ -16,9 +16,11 @@ organizers:
   - org: Territorio Bitcoin
     url: https://www.territoriobitcoin.com/
     twitter: territoriobtc
-decred_talks:
+subevents:
   - title: Enterate de las ultimas novedades de Decred Version 1.6
     presenters: elian
+    media:
+      - https://www.youtube.com/watch?v=dx8D18jlr9s&t=23m23s
 decred_people:
   - elian
 attendance:
