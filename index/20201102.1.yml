@@ -8,26 +8,26 @@ announcements:
   - https://www.blockchainsummit.la/
   - https://twitter.com/criptolugares/status/1322176841445232640
   - https://twitter.com/BlockSummitLA/status/1323302427651657733
-  - https://twitter.com/BlockSummitLA/status/1323302480537673730
-  - https://es.cointelegraph.com/news/blockchain-summit-latam-2020-governance-features-analyzed-in-public-protocols
 location: Internet / YouTube
 organizers:
   - org: Blockchain Summit Latam
     url: https://twitter.com/BlockSummitLA
-decred_talks:
+subevents:
   - title: Governance in public protocols
     title_es: Gobernanza en protocolos publicos
     start_utc: 2020-11-02 21:30
+    announcements:
+      - https://twitter.com/BlockSummitLA/status/1323302480537673730
+      - https://es.cointelegraph.com/news/blockchain-summit-latam-2020-governance-features-analyzed-in-public-protocols
     presenters: elian
-    ann: https://twitter.com/BlockSummitLA/status/1323302480537673730
+    description: On the first day @elian gave a keynote on "Governance of public protocols" about the similarities and differences between several public blockchains and how does Decred stand out from these.
     media:
       - https://www.youtube.com/watch?v=SiMoxHS8AAk
       - https://twitter.com/BlockSummitLA/status/1323384755270918145
 decred_people:
   - elian
 attendance:
-  - 3000 over 5 days of virtual 
-description: On the first day @elian gave a keynote on "Governance of public protocols" about the similarities and differences between several public blockchains and how does Decred stand out from these.
+  - 3000 over 5 days of virtual events
 media:
   - url: https://www.youtube.com/playlist?list=PLiJAJqCfjxwIR6q1W0bidE9W4369KMjzz
     note: playlist of 41 videos from the event
