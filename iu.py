@@ -73,6 +73,39 @@ def twitter_username(url):
     segments = urlparse(url).path.split("/")
     return segments[1]
 
+def list_md(items, indent=0):
+    md = ""
+    indentstr = "  " * indent
+    for it in items:
+        md += indentstr + "- {}\n".format(it)
+    return md
+
+def announcements_md(anns, indent=0):
+    md = ""
+    indentstr = "  " * indent
+    tweets, nontweets = [], []
+    for aurl in anns:
+        if hostname(aurl) == "twitter.com":
+            tweets.append("[@{}]({})".format(twitter_username(aurl), aurl))
+        else:
+            nontweets.append(aurl)
+    if tweets:
+        md += indentstr + "- tweets: {}\n".format(", ".join(tweets))
+    for url in nontweets:
+        md += indentstr + "- [{}]({})\n".format(site_name(url), url)
+    return md
+
+def media_md(medias, indent=0):
+    md = ""
+    indentstr = "  " * indent
+    for m in medias:
+        if isinstance(m, str):
+            murl = m
+        elif isinstance(m, dict):
+            murl = m["url"]
+        md += indentstr + "- [{}]({})\n".format(site_name(murl), murl)
+    return md
+
 def entry_md(eid, data):
     """Render one index entry as Markdown"""
     md = "back to [index]({}.md)\n\n".format(Const.index)
@@ -105,35 +138,19 @@ def entry_md(eid, data):
             md += "\n"
     if "announcements" in data:
         md += "Announcements:\n\n"
-        tweets, nontweets = [], []
-        for aurl in data["announcements"]:
-            if hostname(aurl) == "twitter.com":
-                tweets.append("[@{}]({})".format(twitter_username(aurl), aurl))
-            else:
-                nontweets.append(aurl)
-        if tweets:
-            md += "- tweets: {}\n".format(", ".join(tweets))
-        for url in nontweets:
-            md += "- [{}]({})\n".format(site_name(url), url)
+        md += announcements_md(data["announcements"])
         md += "\n"
     if "attendance" in data:
         md += "Attendance:\n\n"
-        for a in data["attendance"]:
-            md += "- {}\n".format(a)
+        md += list_md(data["attendance"])
         md += "\n"
     if "media" in data:
         md += "Media:\n\n"
-        for m in data["media"]:
-            if isinstance(m, str):
-                murl = m
-            elif isinstance(m, dict):
-                murl = m["url"]
-            md += "- [{}]({})\n".format(site_name(murl), murl)
+        md += media_md(data["media"])
         md += "\n"
     if "notes" in data:
         md += "Notes:\n\n"
-        for n in data["notes"]:
-            md += "- {}\n".format(n)
+        md += list_md(data["notes"])
         md += "\n"
     if "subevents" in data:
         md += "## Subevents\n\n"
@@ -150,11 +167,27 @@ def entry_md(eid, data):
             if subend:
                 md += "- end UTC: {}\n".format(subend)
             subpresenters = subevent.get("presenters")
+            subanns = subevent.get("announcements")
+            if subanns:
+                md += "- announcements:\n"
+                md += announcements_md(subanns, indent=1)
             if subpresenters:
                 md += "- presenters: {}\n".format(subpresenters)
             subdesc = subevent.get("description")
             if subdesc:
                 md += "- description: {}\n".format(subdesc)
+            subatt = subevent.get("attendance")
+            if subatt:
+                md += "- attendance:\n"
+                md += list_md(subatt, indent=1)
+            submedia = subevent.get("media")
+            if submedia:
+                md += "- media:\n"
+                md += media_md(submedia, indent=1)
+            subnotes = subevent.get("notes")
+            if subnotes:
+                md += "- notes:\n"
+                md += list_md(subnotes, indent=1)
             md += "\n"
     return md
 
