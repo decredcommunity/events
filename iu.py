@@ -98,10 +98,11 @@ def entry_md(eid, data):
         orgs.append(ostr)
     md += "- organizers: {}\n".format(", ".join(orgs))
     md += "- Decred participants: {}\n\n".format(", ".join(data["decred_people"]))
-    desc = data["description"]
-    md += desc + "\n"
-    if not desc.endswith("\n"):
-        md += "\n"
+    if "description" in data:
+        desc = data["description"]
+        md += desc + "\n"
+        if not desc.endswith("\n"):
+            md += "\n"
     if "announcements" in data:
         md += "Announcements:\n\n"
         tweets, nontweets = [], []
@@ -134,6 +135,27 @@ def entry_md(eid, data):
         for n in data["notes"]:
             md += "- {}\n".format(n)
         md += "\n"
+    if "subevents" in data:
+        md += "## Subevents\n\n"
+        for subevent in data["subevents"]:
+            subtitle = subevent["title"]
+            md += "### {}\n\n".format(subtitle)
+            subtitle2 = subevent.get("title_" + langcode)
+            if subtitle2:
+                md += "- title in {}: {}\n".format(lang, subtitle2)
+            substart = subevent.get("start_utc")
+            if substart:
+                md += "- start UTC: {}\n".format(substart)
+            subend = subevent.get("end_utc")
+            if subend:
+                md += "- end UTC: {}\n".format(subend)
+            subpresenters = subevent.get("presenters")
+            if subpresenters:
+                md += "- presenters: {}\n".format(subpresenters)
+            subdesc = subevent.get("description")
+            if subdesc:
+                md += "- description: {}\n".format(subdesc)
+            md += "\n"
     return md
 
 def index_md(entries):
