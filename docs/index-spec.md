@@ -1,6 +1,6 @@
 # Events index specification
 
-Version: 0.2
+Version: 0.3
 
 ## Event ID
 
@@ -24,7 +24,11 @@ When there are more than one title to choose from, these "scope rules" apply:
 
 - The simple case is when the entire event is dedicated to Decred and there is only one title to choose from.
 
-- For large events where Decred is just one participant, this is the title of the full event, and Decred talks must go into `decred_talks` field.
+- For large events where Decred is just one participant, this is the title of the full event, and Decred talks must go into `subevents` field.
+
+### title_XX
+
+Non-English events may have a field like `title_es` or `title_pt` with the value set to title in the original language.
 
 ### lang
 
@@ -93,17 +97,35 @@ Example:
       person: Sam
       url: https://twitter.com/bitcoinembjupiter
 
-### decred_talks
+### subevents
 
-Info on talks about Decred. Each item is essentially a sub-event with many fields following the same rules as the outer event fields.
+Smaller events that happened as part of the main event.
+
+Most fields in each subevent follow the same rules as fields for the "outer" main event. The only exception is that subevents have a comma-separated flat list of people in the `presenters` field, as opposed to a real YAML list in `decred_people` field.
 
 Examples:
 
-    decred_talks:
+    subevents:
       - title: Decred contractor model
+        title_es: Optional non-English title here
         start_utc: 2020-08-02 14:00
         end_utc: 2020-08-02 14:30
-        presenters: elian
+        announcements:
+          - http://url1
+          - http://url2
+        presenters: elian, not_elian
+        description: Single-line or multi-line description of this subevent.
+        attendance:
+          - 100 people registered for the webinar
+          - 50 people made it to the end
+        media:
+          - http://media1
+          - url: http://complex-media2
+            title: Complex Media 2
+            note: so complex
+        notes:
+          - note1
+          - note2
 
 ### decred_people
 
