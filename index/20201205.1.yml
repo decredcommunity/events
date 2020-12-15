@@ -9,14 +9,14 @@ location: China / Wuhan
 organizers:
   - org: 8btc.com
     url: https://www.8btc.com/
-decred_talks:
+subevents:
   - title: informal chats
     start_utc: 2020-12-05
-    ann: https://twitter.com/wanbihou/status/1334428800822595584
+    announcements:
+      - https://twitter.com/wanbihou/status/1334428800822595584
     presenters: Dominic
-    note: not a formal Decred presentation, rather chatting with old friends
+    description: In this event, I mainly communicated with our old friends Cobo Wallet, F2pool, etc. I introduced them to the upcoming v1.6 and new consensus rules.
 decred_people:
   - Dominic
 attendance:
   - unknown
-description: In this event, I mainly communicated with our old friends Cobo Wallet, F2pool, etc. I introduced them to the upcoming v1.6 and new consensus rules.
