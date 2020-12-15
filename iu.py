@@ -40,6 +40,14 @@ def parse_date(s):
             continue
     raise IuError("unknown date format: " + s)
 
+LANGUAGES = {
+    "ar": "Arabic",
+    "en": "English",
+    "es": "Spanish",
+    "pt": "Portuguese",
+    "zh": "Chinese",
+}
+
 SITES = {
     "facebook.com"  : "Facebook",
     "instagram.com" : "Instagram",
@@ -69,7 +77,11 @@ def entry_md(eid, data):
     """Render one index entry as Markdown"""
     md = "back to [index]({}.md)\n\n".format(Const.index)
     md += "# {}\n\n".format(data["title"])
-    md += "- language: {}\n".format(data["lang"])
+    langcode = data["lang"]
+    lang = LANGUAGES.get(langcode)
+    if not lang:
+        raise IuError("unknown language code: " + langcode)
+    md += "- language: {}\n".format(lang)
     md += "- start UTC: {}\n".format(data["start_utc"])
     if "end_utc" in data:
         md += "- end UTC: {}\n".format(data["end_utc"])
