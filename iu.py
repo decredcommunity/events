@@ -212,9 +212,6 @@ def main():
     if args.command:
         try:
             args.func(args)
-        except Exception as e:
-            # todo: replace with your custom exception type
-            print("error:", e)
         except KeyboardInterrupt:
             # handle Ctrl-C
             print("\naborting")
@@ -222,6 +219,8 @@ def main():
             # silence error when e.g. piping into `less` and quitting before
             # reading all
             pass
+        except IuError as e:
+            print("error:", e)
     else:
         parser.print_usage()
 
