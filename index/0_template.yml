@@ -1,5 +1,6 @@
 title: 
 lang: 
+title_XX: 
 start_utc: 
 end_utc: 
 announcements:
@@ -11,10 +12,22 @@ organizers:
   - org: 
     url: 
     person: 
-decred_talks:
+subevents:
   - title: 
+    title_XX: 
     start_utc: 
+    end_utc: 
+    announcements:
+      - 
+    location: 
     presenters: 
+    description: 
+    attendance:
+      - 
+    media:
+      - 
+    notes:
+      - 
 decred_people:
   - 
   - 
