@@ -82,6 +82,10 @@ def entry_md(eid, data):
     if not lang:
         raise IuError("unknown language code: " + langcode)
     md += "- language: {}\n".format(lang)
+    if not langcode == "en":
+        title2 = data.get("title_" + langcode)
+        if title2:
+            md += "- title in {}: {}\n".format(lang, title2)
     md += "- start UTC: {}\n".format(data["start_utc"])
     if "end_utc" in data:
         md += "- end UTC: {}\n".format(data["end_utc"])
