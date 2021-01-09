@@ -23,35 +23,35 @@ subevents:
       - https://twitter.com/Decred_ES/status/1325908617770512385
     presenters: Manuel Flores
     media:
-      - https://youtu.be/epZY2put3zQ
+      - https://www.youtube.com/watch?v=epZY2put3zQ
   - title: Alternative Consensus Protocols
     start_utc: 2020-11-10 22:00
     announcements:
       - https://twitter.com/Decred_ES/status/1326274399243218944
     presenters: camilolwi
     media:
-      - https://youtu.be/rTjVKqKLI1w
+      - https://www.youtube.com/watch?v=rTjVKqKLI1w
   - title: Decentralized Organisations and Governance
     start_utc: 2020-11-11
     announcements:
       - https://twitter.com/Decred_ES/status/1326633190442868737
     presenters: adcade
     media:
-      - https://youtu.be/8GwzMhoEyO4
+      - https://www.youtube.com/watch?v=8GwzMhoEyO4
   - title: Decred API and dcrdata workshop
     start_utc: 2020-11-12
     announcements:
       - https://twitter.com/Decred_ES/status/1327000676505948166
     presenters: pablito
     media:
-      - https://youtu.be/uuYf8Z28TcA
+      - https://www.youtube.com/watch?v=uuYf8Z28TcA
   - title: How to become a Decred Contractor?
     start_utc: 2020-11-13
     announcements:
       - https://twitter.com/Decred_ES/status/1327347110455480321
     presenters: elian
     media:
-      - https://youtu.be/kqbejo0sA5c
+      - https://www.youtube.com/watch?v=kqbejo0sA5c
   - title: Decred Learning Challenge Q&A Party
     start_utc: 2020-11-13
     announcements:
@@ -72,7 +72,7 @@ subevents:
       - https://twitter.com/Decred_ES/status/1336771446362808320
     presenters: { any? }
     media:
-      - https://youtu.be/CQTitBVUMMY
+      - https://www.youtube.com/watch?v=CQTitBVUMMY
 decred_people:
   - adcade
   - camilolwi
