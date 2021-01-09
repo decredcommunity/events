@@ -92,7 +92,9 @@ media:
   - url: https://twitter.com/Decred_ES/status/1329952687245430787
     note: Decred Learning Challenge numbers
   - url: https://www.youtube.com/playlist?list=PLHZZTXR_CIhJrZHnf3xgUrF6EdNsuG_Qa
-    note: Decred Learning Challenge numbers
+    note: Decred Learning Challenge numbers playlist
+  - url: https://github.com/DecredES/Challenge
+    note: main docs repo for the challenge with links to all projects, rules, evaluation criteria, evaluations by 4 judges, etc
 notes:
   - rewards for 1st/2nd/3rd place are $1,500/700/300 in DCR
   - registrations accepted between 2020-10-26 and 2020-11-12
