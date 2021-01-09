@@ -53,7 +53,7 @@ subevents:
     media:
       - https://www.youtube.com/watch?v=kqbejo0sA5c
   - title: Decred Learning Challenge Q&A Party
-    start_utc: 2020-11-13
+    start_utc: 2020-11-13 22:00
     announcements:
       - https://twitter.com/Decred_ES/status/1327357791967846401
     presenters: { who? }
@@ -66,13 +66,17 @@ subevents:
     presenters: { any? }
     media:
       - { any? }
+    notes:
+      - todo; was this a virtual "event" that people connected to? if not, move to media below
   - title: Decred Talent Land Blockchain Challenge final projects and winners
     start_utc: 2020-12-09
     announcements:
       - https://twitter.com/Decred_ES/status/1336771446362808320
-    presenters: { any? }
+    presenters: adcade
     media:
       - https://www.youtube.com/watch?v=CQTitBVUMMY
+    notes:
+      - todo; was this a virtual "event" that people connected to? if not, move to media below
 decred_people:
   - adcade
   - camilolwi
@@ -87,12 +91,18 @@ description: The goal of the challenge is to share tools and practical abilities
 media:
   - url: https://twitter.com/Decred_ES/status/1325817130978340868
     note: Decred Talent Land Blockchain Challenge begins Nov-9
+  - url: https://www.youtube.com/watch?v=kBjgLcDZW8k
+    title_es: Lanzamiento del Reto Blockchain Learning Challenge
+    note: quick invitation and how to participate
+  - url: https://www.youtube.com/watch?v=czqQTw4VNBM
+    title: Navegando el Design toolkit de Decred - BLC
+    note: nachito guides how to use Decred's design toolkit
   - url: https://twitter.com/Decred_ES/status/1327723903955984385
     note: Decred Learning Challenge stage finish Nov-14
   - url: https://twitter.com/Decred_ES/status/1329952687245430787
     note: Decred Learning Challenge numbers
   - url: https://www.youtube.com/playlist?list=PLHZZTXR_CIhJrZHnf3xgUrF6EdNsuG_Qa
-    note: Decred Learning Challenge numbers playlist
+    note: Blockchain Learning Challenge playlist with 8 videos
   - url: https://github.com/DecredES/Challenge
     note: main docs repo for the challenge with links to all projects, rules, evaluation criteria, evaluations by 4 judges, etc
 notes:
