@@ -16,47 +16,63 @@ organizers:
     url: https://twitter.com/Decred_ES
   - org: Talend Land Latam
     url: https://www.talentland.talent-republic.tv
-decred_talks:
+subevents:
   - title: Introduction to Bitcoin and Blockchain
     start_utc: 2020-11-09 22:00
-    ann: https://twitter.com/Decred_ES/status/1325908617770512385
+    announcements:
+      - https://twitter.com/Decred_ES/status/1325908617770512385
     presenters: Manuel Flores
-    media: https://youtu.be/epZY2put3zQ
+    media:
+      - https://youtu.be/epZY2put3zQ
   - title: Alternative Consensus Protocols
     start_utc: 2020-11-10 22:00
-    ann: https://twitter.com/Decred_ES/status/1326274399243218944
+    announcements:
+      - https://twitter.com/Decred_ES/status/1326274399243218944
     presenters: camilolwi
-    media: https://youtu.be/rTjVKqKLI1w
+    media:
+      - https://youtu.be/rTjVKqKLI1w
   - title: Decentralized Organisations and Governance
     start_utc: 2020-11-11
-    ann: https://twitter.com/Decred_ES/status/1326633190442868737
+    announcements:
+      - https://twitter.com/Decred_ES/status/1326633190442868737
     presenters: adcade
-    media: https://youtu.be/8GwzMhoEyO4
+    media:
+      - https://youtu.be/8GwzMhoEyO4
   - title: Decred API and dcrdata workshop
     start_utc: 2020-11-12
-    ann: https://twitter.com/Decred_ES/status/1327000676505948166
+    announcements:
+      - https://twitter.com/Decred_ES/status/1327000676505948166
     presenters: pablito
-    media: https://youtu.be/uuYf8Z28TcA
+    media:
+      - https://youtu.be/uuYf8Z28TcA
   - title: How to become a Decred Contractor?
     start_utc: 2020-11-13
-    ann: https://twitter.com/Decred_ES/status/1327347110455480321
+    announcements:
+      - https://twitter.com/Decred_ES/status/1327347110455480321
     presenters: elian
-    media: https://youtu.be/kqbejo0sA5c
+    media:
+      - https://youtu.be/kqbejo0sA5c
   - title: Decred Learning Challenge Q&A Party
     start_utc: 2020-11-13
-    ann: https://twitter.com/Decred_ES/status/1327357791967846401
+    announcements:
+      - https://twitter.com/Decred_ES/status/1327357791967846401
     presenters: { who? }
-    media: { link? }
+    media:
+      - { link? }
   - title: Countdown to Decred Talent Land Blockchain Challenge project reception
     start_utc: 2020-12-02
-    ann: https://twitter.com/Decred_ES/status/1334195734716018691
+    announcements:
+      - https://twitter.com/Decred_ES/status/1334195734716018691
     presenters: { any? }
-    media: { any? }
+    media:
+      - { any? }
   - title: Decred Talent Land Blockchain Challenge final projects and winners
     start_utc: 2020-12-09
-    ann: https://twitter.com/Decred_ES/status/1336771446362808320
+    announcements:
+      - https://twitter.com/Decred_ES/status/1336771446362808320
     presenters: { any? }
-    media: https://youtu.be/CQTitBVUMMY
+    media:
+      - https://youtu.be/CQTitBVUMMY
 decred_people:
   - adcade
   - camilolwi
