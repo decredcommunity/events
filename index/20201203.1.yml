@@ -4,8 +4,10 @@ lang: es
 start_utc: 2020-12-03 23:00
 announcements:
   - https://twitter.com/Decred_ES/status/1333896288279080961
+  - https://twitter.com/Decred_ES/status/1334509174542249988
   - https://es.cointelegraph.com/news/next-edition-of-lets-talk-decred-will-focus-on-cryptocurrencies-and-privacy
-location: Internet / YouTube
+  - https://twitter.com/Decred_ES/status/1334627586597658624
+location: Internet / YouTube, Periscope
 organizers:
   - org: Decred Latam team
     url: https://twitter.com/Decred_ES
@@ -17,5 +19,7 @@ attendance:
 description: ?
 media:
   - https://www.youtube.com/watch?v=Uv_fnF5M8nk
+  - https://twitter.com/Decred_ES/status/1334633538608480258
+  - https://www.pscp.tv/w/cpgT9jF6WUViTEFxcXlsS2V8MW5BS0VMTnd2dmF4TPxYCllynojwQcZtRsOzba9r1vNJMhkQHrcFwn-rWGB3
 notes:
   - ?

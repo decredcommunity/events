@@ -4,8 +4,9 @@ lang: es
 start_utc: 2020-11-27 00:00
 announcements:
   - https://twitter.com/Decred_ES/status/1331372082354130946
+  - https://twitter.com/Decred_ES/status/1331997268526903296
   - https://es.cointelegraph.com/news/what-are-the-differences-between-dlt-and-cryptocurrencies
-location: Internet / YouTube
+location: Internet / YouTube, Periscope
 organizers:
   - org: Decred Latam team
     url: https://twitter.com/Decred_ES
@@ -17,6 +18,8 @@ attendance:
 description: ?
 media:
   - https://www.youtube.com/watch?v=tu5OqKQhSbk
+  - https://twitter.com/Decred_ES/status/1332111926122356736
+  - https://www.pscp.tv/w/co7nhzF6WUViTEFxcXlsS2V8MWxQS3FYYUJFb1p4YojU1L3sIXGLKQyv3MMpNN159eVyhVLhNXF1EEGFg_N0
 notes:
   - guest Felipe Montoya R (@felipemr8)
   - ?

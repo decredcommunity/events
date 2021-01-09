@@ -5,7 +5,8 @@ start_utc: 2020-12-10 23:00
 announcements:
   - https://twitter.com/Decred_ES/status/1336710415410204672
   - https://es.cointelegraph.com/news/next-episode-of-hablemos-decred-will-review-what-happened-in-2020
-location: Internet / YouTube
+  - https://twitter.com/Decred_ES/status/1337165303046942723
+location: Internet / YouTube, Periscope
 organizers:
   - org: Decred Latam team
     url: https://twitter.com/Decred_ES
@@ -21,5 +22,7 @@ attendance:
 description: ?
 media:
   - https://www.youtube.com/watch?v=ldddE_mNSM4
+  - https://twitter.com/Decred_ES/status/1337170376145563649
+  - https://www.pscp.tv/w/cqFOkzF6WUViTEFxcXlsS2V8MU1ueG5sb3ZOem1HT1LT4tNoPdVkKVfC39CdtkMJYoOdpgD9OtVEatm43AYB
 notes:
   - ?

@@ -5,7 +5,8 @@ start_utc: 2020-11-19 22:00
 announcements:
   - https://twitter.com/Decred_ES/status/1328819770876162049
   - https://es.cointelegraph.com/news/new-edition-of-hablemos-decred-will-deal-with-the-topic-of-companies-buying-bitcoin
-location: Internet / YouTube
+  - https://twitter.com/Decred_ES/status/1329538398214877185
+location: Internet / YouTube, Periscope
 organizers:
   - org: Decred Latam team
     url: https://twitter.com/Decred_ES
@@ -16,7 +17,8 @@ attendance:
 description: ?
 media:
   - https://www.youtube.com/watch?v=N2hxP8I6hbM
-  - 
+  - https://twitter.com/Decred_ES/status/1329545016830611459
+  - https://www.pscp.tv/w/coWQ6DF6WUViTEFxcXlsS2V8MXluSk9CUXpEUnpHUvjaRCVG7GeqCfA-Laz6HviveEpZ86ajstifr8qOL5L4
 notes:
   - guest Joaquin Moreno (@joaquinmoreno)
   - ?
