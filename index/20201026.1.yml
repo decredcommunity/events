@@ -83,10 +83,9 @@ decred_people:
   - elian
   - pablito
 attendance:
-  - ? submissions
-  - over 90 people have registered from Argentina, Bolivia, Chile, México, Perú, Uruguay, Venezuela
-  - ? participated
-  - 6 projects made it to the final round
+  - 136 people registered for the Learning Phase from Argentina, Bolivia, Chile, Colombia, Cuba, México, Nicaragua, Paraguay, Perú, Uruguay, Venezuela
+  - 15 teams organized for the competition
+  - 6 teams presented projects in the final round
 description: The goal of the challenge is to share tools and practical abilities about blockchain technology in order for participants to develop an original project using Decred public blockchain data. First phase is one week of workshops about Bitcoin and blockchain, alternative consensus protocols, decentralised organisations and governance, dcrdata API and blockchain data, and Q&A party. Second phase is original project development with mentoring and support. At the end participants must release their projects with ISC license and present them in 3-minute video pitches.
 media:
   - url: https://twitter.com/Decred_ES/status/1325817130978340868
@@ -105,6 +104,7 @@ media:
     note: Blockchain Learning Challenge playlist with 8 videos
   - url: https://github.com/DecredES/Challenge
     note: main docs repo for the challenge with links to all projects, rules, evaluation criteria, evaluations by 4 judges, etc
+  - url: https://twitter.com/Decred_ES/status/1338881019945103364
 notes:
   - rewards for 1st/2nd/3rd place are $1,500/700/300 in DCR
   - registrations accepted between 2020-10-26 and 2020-11-12
