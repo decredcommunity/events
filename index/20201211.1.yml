@@ -1,4 +1,4 @@
-title: ?
+title: Cripto Latin Fest Online 2020
 lang: es
 title_es: Cripto Latin Fest Online 2020
 start_utc: 2020-12-11
@@ -7,27 +7,27 @@ announcements:
   - https://twitter.com/Criptolatinfest/status/1321588347203162112
   - https://twitter.com/Decred_ES/status/1331780515632975874
   - 
-location: Internet / { platforms? }
+location: Internet / Facebook Live 
 organizers:
-  - org: Paxful
-    url: ?
-    person: ?
+  - org: Paxful and Criptolatin Fest 
+    url: https://paxful.com/
+    person: Renata Rodriguez
 subevents:
-  - title: ?
-    title_es: ?
-    start_utc: ?
-    presenters: ?
-    media:
-      - ?
+  - title: Presentation What is Decred? 
+    title_es: ¿Qué es Decred?
+    start_utc: 01:09:00 
+    presenters: Criptolatin Fest crew
+    media:https://www.facebook.com/criptolatinfestoficial/videos/386703035913930
+      
 decred_people:
   - elian
 attendance:
-  - 
+  - 1300 views on Facebook live 
   - 
 description: ?
-media:
-  - 
-  - 
+media: https://www.facebook.com/criptolatinfestoficial/videos/?ref=page_internal
+  -  Decred talk start 01:09:00 https://www.facebook.com/watch/live/?v=386703035913930&ref=watch_permalink
+  - Scam prevention talk start 00:53:00 https://www.facebook.com/watch/live/?v=215651500088306&ref=watch_permalink
 notes:
   - Decred is a VIP sponsor
   - 
