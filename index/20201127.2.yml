@@ -1,0 +1,42 @@
+title: 
+lang: es
+title_es: Conferencias Virtuales de Paxful LATAM – Edición de Noviembre
+start_utc: 2020-11-27 21:00
+end_utc: 2020-11-28 00:00
+announcements:
+  - https://paxful.com/blog/es/conferencias-virtuales-paxful-edicion-noviembre/
+  - 
+  - 
+location: Internet / { platforms? }
+organizers:
+  - org: Paxful Latam
+    url: https://paxful.com/
+subevents:
+  - title: 
+    title_es: "Ser nuestro propio banco trae responsabilidades: Tips de seguridad"
+    start_utc: 2020-11-27 21:00
+    end_utc: 2020-11-27 22:00
+    announcements:
+      - 
+    presenters: camilolwi, elian
+    description: 
+    attendance:
+      - 
+    media:
+      - 
+    notes:
+      - 
+decred_people:
+  - camilolwi
+  - elian
+  - more?
+attendance:
+  - 
+  - 
+description: 
+media:
+  - 
+  - 
+notes:
+  - 
+  - 
