@@ -1,38 +1,32 @@
-title: ?
+title: Closing Year Event DeFi, Exchanges and More by Crypto Resources Academy
 lang: es
-title_es: Cierre de año en CR! DeFi, Exchanges y más
+title_es: Cierre de año DeFi, Exchanges y más por Crypto Resources Academy
 start_utc: 2020-12-18 22:00
 end_utc: 
 announcements:
   - https://twitter.com/Decred_ES/status/1339644314373206016
   - https://www.meetup.com/es/Crypto-Resources/events/275173639
   - https://twitter.com/Decred_ES/status/1339644288456638467
-location: Internet / YouTube { correct? other platforms? }
-organizers:
+location: Internet / YouTube 
+organizers: Crypto Resources Academy
   - org: Academia Crypto Resources
     url: https://twitter.com/cr_academia_
     person: Carolina G.
 subevents:
-  - title: 
+  - title: "Governance panel: growth of DAOs next to DAI, MoC and DCR"
     title_es: "Panel de Gobernanza: Crecimiento de las DAO junto a DAI, MoC y DCR"
     start_utc: 2020-12-18 22:00
-    presenters: elian, Jorgelina Echavarría
-  - title: 
-    title_es: 
-    start_utc: 
-    presenters: 
-    TODO: remove this section if only 1 talk above involved DCR
+    presenters: Jorgelina Echavarría and elian from Decred, Manuel Ferrari from Money on Chain and Luis Lozada from DAI
 decred_people:
   - camilolwi
   - elian
 attendance:
-  - YT views?
-  - other platform views?
-description: any?
+  - 711 views
+description: Crypto Resources Academy organised a final year event with Carlos Maslaton and parters like Decred, Bitso, Prime XBT DAI, Binance, Storm Gain, Crypto MKT and Money on Chain. During the governance panel elian presented how Decred governance works, the role of  Politeia and the decentralization of the Treasury.
 media:
   - https://www.youtube.com/watch?v=OotU-2Yhg1I
   - https://twitter.com/Decred_ES/status/1340056815116165121
 notes:
-  - special guest Carlos Maslatón
+  - special guest Carlos Maslatón, Xapo Tresury Manager https://twitter.com/CarlosMaslaton
   - 
 
