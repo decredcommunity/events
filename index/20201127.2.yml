@@ -1,42 +1,29 @@
-title: 
+title: Virtual Conferences Paxful Latam 
 lang: es
 title_es: Conferencias Virtuales de Paxful LATAM – Edición de Noviembre
 start_utc: 2020-11-27 21:00
 end_utc: 2020-11-28 00:00
 announcements:
   - https://paxful.com/blog/es/conferencias-virtuales-paxful-edicion-noviembre/
-  - 
+  - https://twitter.com/paxful_LATAM/status/1330932918768766978
   - 
 location: Internet / { platforms? }
 organizers:
   - org: Paxful Latam
     url: https://paxful.com/
 subevents:
-  - title: 
+  - title: "Being your own bank comes with responsabilities: Security Tips"
     title_es: "Ser nuestro propio banco trae responsabilidades: Tips de seguridad"
     start_utc: 2020-11-27 21:00
     end_utc: 2020-11-27 22:00
-    announcements:
+    announcements: https://twitter.com/paxful_LATAM/status/1330932918768766978
       - 
-    presenters: camilolwi, elian
-    description: 
+    presenters: Isabel Quintero from Paxful Latam and Fabian Salgado from Bitsionarys with elian from Decred and Camilo Suarez from Suarez and Partners.
+    description: this panel was about the best practices to secure cryptocurrencies, the differences between several types of digital wallets and how to spot scams.
     attendance:
-      - 
-    media:
+      - 207 views
+    media: https://youtu.be/nkHVpRcGefw?t=611
       - 
     notes:
       - 
-decred_people:
-  - camilolwi
-  - elian
-  - more?
-attendance:
-  - 
-  - 
-description: 
-media:
-  - 
-  - 
-notes:
-  - 
-  - 
+
