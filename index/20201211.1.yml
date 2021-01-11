@@ -14,17 +14,32 @@ organizers:
   - org: Cripto Latin Fest
     url: https://criptolatinfest.com/
 subevents:
+  - title: Scam prevention talk
+    start_utc: 2020-12-12
+    presenters: Cripto Latin Fest crew
+    attendance:
+      - 1,300 Facebook Live views as of 2021-01-11
+      - 306 YT views as of 2021-01-11
+    media:
+      - url: https://www.facebook.com/criptolatinfestoficial/videos/215651500088306/
+        note: talk starts at 00:53:00
+      - url: https://www.youtube.com/watch?v=IG_2yTwuY20
   - title: Presentation What is Decred?
     title_es: ¿Qué es Decred?
-    start_utc: 01:09:00
-    presenters: Criptolatin Fest crew
+    start_utc: 2020-12-12
+    presenters: elian
+    attendance:
+      - 1,600 Facebook Live views as of 2021-01-11
+      - 772 YT views as of 2021-01-11
     media:
-      - https://www.facebook.com/criptolatinfestoficial/videos/386703035913930
+      - url: https://www.facebook.com/criptolatinfestoficial/videos/386703035913930/
+        note: Decred talk starts at 01:08:00
+      - url: https://www.youtube.com/watch?v=iPWJC1XDUDo
 decred_people:
   - elian
-attendance:
-  - 1,300 views on Facebook Live
 description: Decred was VIP sponsor of Cripto Latin Fest End of the Year event. @elian give a presentation about what is Decred, its charateristics, hybrid blockchain, Politeia and the upcoming Hidden Hydra, and also about how to prevent crypto scams.
-media: https://www.facebook.com/criptolatinfestoficial/videos/?ref=page_internal
-  -  Decred talk start 01:09:00 https://www.facebook.com/watch/live/?v=386703035913930&ref=watch_permalink
-  - Scam prevention talk start 00:53:00 https://www.facebook.com/watch/live/?v=215651500088306&ref=watch_permalink
+media:
+  - https://www.facebook.com/criptolatinfestoficial/videos/
+  - https://www.youtube.com/c/PaxfulOfficial/videos
+notes:
+  - Decred's "VIP Sponsor" status was shown on video transitions between sections, and the logo was at the bottom of the screen all the time
