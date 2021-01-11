@@ -4,11 +4,19 @@ This is the index of past Decred events. Pages are generated from YAML files. To
 
 ## December 2020
 
+- Dec-30: [End of Year Decred in Spanish Giveaway](20201230.1.md) (elian)
+- Dec-24: [Ask Me Anything Decred-AMA](20201224.1.md) (elian)
+- Dec-18: [Closing Year Event DeFi, Exchanges and More by Crypto Resources Academy](20201218.1.md) (camilolwi, elian)
+- Dec-11: [Cripto Latin Fest Online 2020](20201211.1.md) (elian)
+- Dec-10: [Let's Talk Decred 25: 1 year working in the DAO: 2020 and what's ahead](20201210.1.md) (adcade, caibarrad, elian, francov_, pablito, tomee)
 - Dec-05: [World Blockchain Conference 2020](20201205.1.md) (Dominic)
+- Dec-03: [Let's Talk Decred 24: Are cryptocurrencies private?](20201203.1.md) (elian, pablito)
 
 ## November 2020
 
 - Nov-28: [Partnership agreement with OMJD](20201128.1.md) (arij)
+- Nov-27: [Let's Talk Decred 23: DLTs and Crypto: similarities and differences](20201127.1.md) (caibarrad)
+- Nov-19: [Let's Talk Decred 22: Companies buying Bitcoin, are you ready?](20201119.2.md) (elian)
 - Nov-19: [Cryptoeconomy: Decred case study - U. de El Salvador](20201119.1.md) (adcade)
 - Nov-12: [Let's Talk Decred 21: Blockchain Summit Latam recap and perspectives from Latam ecosystem](20201112.1.md) (elian)
 - Nov-09: [Talent Land Latinoamerica](20201109.1.md) (adcade, elian, francov_, pablito)
