@@ -7,6 +7,7 @@ This is the index of past Decred events. Pages are generated from YAML files. To
 - Dec-30: [End of Year Decred in Spanish Giveaway](20201230.1.md) (elian)
 - Dec-24: [Ask Me Anything Decred-AMA](20201224.1.md) (elian)
 - Dec-18: [Closing Year Event DeFi, Exchanges and More by Crypto Resources Academy](20201218.1.md) (camilolwi, elian)
+- Dec-16: [From Open Source to DAOs: work on the blockchain](20201216.1.md) (adcade)
 - Dec-11: [Cripto Latin Fest Online 2020](20201211.1.md) (elian)
 - Dec-10: [Let's Talk Decred 25: 1 year working in the DAO: 2020 and what's ahead](20201210.1.md) (adcade, caibarrad, elian, francov_, pablito, tomee)
 - Dec-05: [World Blockchain Conference 2020](20201205.1.md) (Dominic)
@@ -15,6 +16,7 @@ This is the index of past Decred events. Pages are generated from YAML files. To
 ## November 2020
 
 - Nov-28: [Partnership agreement with OMJD](20201128.1.md) (arij)
+- Nov-27: [Paxful Latam Virtual Conference](20201127.2.md) (elian)
 - Nov-27: [Let's Talk Decred 23: DLTs and Crypto: similarities and differences](20201127.1.md) (caibarrad)
 - Nov-19: [Let's Talk Decred 22: Companies buying Bitcoin, are you ready?](20201119.2.md) (elian)
 - Nov-19: [Cryptoeconomy: Decred case study - U. de El Salvador](20201119.1.md) (adcade)
@@ -28,6 +30,7 @@ This is the index of past Decred events. Pages are generated from YAML files. To
 - Oct-30: [Let's Talk Decred 19: Bitcoin in real life](20201030.1.md) (adcade)
 - Oct-29: [Lastest updates on Decred v1.6 (CriptoLugares Instagram live)](20201029.2.md) (elian)
 - Oct-29: [Blockchain and Cryptocurrencies in Latam](20201029.1.md) (elian)
+- Oct-26: [Blockchain Learning Challenge - Decred](20201026.1.md) (adcade, camilolwi, elian, pablito)
 - Oct-23: [Let's Talk Decred 18: What is Decred?](20201023.1.md) (elian, adcade)
 - Oct-19: [CCOSS 2020](20201019.1.md) (adcade)
 - Oct-17: [Introduction to Blockchain API for Decred (dcrdata)](20201017.1.md) (pablito)
