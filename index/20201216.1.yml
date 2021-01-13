@@ -2,12 +2,10 @@ title: From Open Source to DAOs: work on the blockchain
 lang: es
 title_es: Trabajar en Blockchain: del Software libre a la DAO
 start_utc: 2020-12-16
-end_utc: 2020-12-16
 announcements:
   - https://twitter.com/addcade/status/1338544856344317953
   - https://twitter.com/Decred_ES/status/1338635101262000134
-location: 
-  - Internet
+location: Internet / Zoom
 organizers:
   - org: Decred Latam team
     url: https://twitter.com/Decred_ES
@@ -17,8 +15,5 @@ organizers:
 decred_people:
   - adcade
 attendance:
-  - 17 people logged in via zoom.
-description: 
-  - Since FOSS has existed, volunteer work has always been an option to develop professionally, gain experience and enter the industry of interest. Today, this model has left a legacy and makes it possible to work in the Blockchain industry and be rewarded for it. There are new little explored professional lines that are consolidating as an attractive offer for new professionals. This talk expands on the subject and introduces the Decred DAO.
-
-
+  - 17 people joined via Zoom
+description: Since FOSS has existed, volunteer work has always been an option to develop professionally, gain experience and enter the industry of interest. Today, this model has left a legacy and makes it possible to work in the blockchain industry and be rewarded for it. There are new little explored professional lines that are consolidating as an attractive offer for new professionals. This talk expands on the subject and introduces the Decred DAO.
