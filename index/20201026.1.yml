@@ -1,6 +1,5 @@
 title: Blockchain Learning Challenge - Decred
 lang: es
-title_es: { any? remove if not needed }
 start_utc: 2020-10-26
 end_utc: 2020-12-09
 announcements:
@@ -56,18 +55,9 @@ subevents:
     start_utc: 2020-11-13 22:00
     announcements:
       - https://twitter.com/Decred_ES/status/1327357791967846401
-    presenters: { who? }
-    media:
-      - { link? }
-  - title: Countdown to Decred Talent Land Blockchain Challenge project reception
-    start_utc: 2020-12-02
-    announcements:
-      - https://twitter.com/Decred_ES/status/1334195734716018691
-    presenters: { any? }
-    media:
-      - { any? }
+    presenters: adcade, elian
     notes:
-      - todo; was this a virtual "event" that people connected to? if not, move to media below
+      - this was right after "How to become a Decred Contractor?" without a recording
   - title: Decred Talent Land Blockchain Challenge final projects and winners
     start_utc: 2020-12-09
     announcements:
@@ -105,6 +95,8 @@ media:
   - url: https://github.com/DecredES/Challenge
     note: main docs repo for the challenge with links to all projects, rules, evaluation criteria, evaluations by 4 judges, etc
   - url: https://twitter.com/Decred_ES/status/1338881019945103364
+  - url: https://twitter.com/Decred_ES/status/1334195734716018691
+    notes: countdown to Decred Talent Land Blockchain Challenge project reception
 notes:
   - rewards for 1st/2nd/3rd place are $1,500/700/300 in DCR
   - registrations accepted between 2020-10-26 and 2020-11-12
