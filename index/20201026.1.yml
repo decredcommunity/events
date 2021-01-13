@@ -58,15 +58,6 @@ subevents:
     presenters: adcade, elian
     notes:
       - this was right after "How to become a Decred Contractor?" without a recording
-  - title: Decred Talent Land Blockchain Challenge final projects and winners
-    start_utc: 2020-12-09
-    announcements:
-      - https://twitter.com/Decred_ES/status/1336771446362808320
-    presenters: adcade
-    media:
-      - https://www.youtube.com/watch?v=CQTitBVUMMY
-    notes:
-      - todo; was this a virtual "event" that people connected to? if not, move to media below
 decred_people:
   - adcade
   - camilolwi
@@ -96,7 +87,11 @@ media:
     note: main docs repo for the challenge with links to all projects, rules, evaluation criteria, evaluations by 4 judges, etc
   - url: https://twitter.com/Decred_ES/status/1338881019945103364
   - url: https://twitter.com/Decred_ES/status/1334195734716018691
-    notes: countdown to Decred Talent Land Blockchain Challenge project reception
+    note: countdown to Decred Talent Land Blockchain Challenge project reception
+  - url: https://twitter.com/Decred_ES/status/1336771446362808320
+    note: announcing final projects and winners
+  - url: https://www.youtube.com/watch?v=CQTitBVUMMY
+    note: Decred Talent Land Blockchain Challenge final projects and winners
 notes:
   - rewards for 1st/2nd/3rd place are $1,500/700/300 in DCR
   - registrations accepted between 2020-10-26 and 2020-11-12
