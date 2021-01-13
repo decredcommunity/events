@@ -1,0 +1,99 @@
+title: Blockchain Learning Challenge - Decred
+lang: es
+start_utc: 2020-10-26
+end_utc: 2020-12-09
+announcements:
+  - https://www.talentland.talent-republic.tv/challenge/blockchain-learning-challenge-decred/
+  - https://twitter.com/Decred_ES/status/1323737929429245955
+  - https://twitter.com/blockchain_land/status/1325208764778049538
+  - https://matrix.to/#/!clHjlICBEtCtAdTupf:decred.org/$mnNJ8GjtqF5NzN_AwjfSkEyYhUHUEWF242l6gQ9tjmQ
+  - https://twitter.com/Decred_ES/status/1325908617770512385
+  - https://twitter.com/Decred_ES/status/1326274399243218944
+location: Internet / Jitsi, YouTube, GitHub
+organizers:
+  - org: Decred Latam team
+    url: https://twitter.com/Decred_ES
+  - org: Talend Land Latam
+    url: https://www.talentland.talent-republic.tv
+subevents:
+  - title: Introduction to Bitcoin and Blockchain
+    start_utc: 2020-11-09 22:00
+    announcements:
+      - https://twitter.com/Decred_ES/status/1325908617770512385
+    presenters: Manuel Flores
+    media:
+      - https://www.youtube.com/watch?v=epZY2put3zQ
+  - title: Alternative Consensus Protocols
+    start_utc: 2020-11-10 22:00
+    announcements:
+      - https://twitter.com/Decred_ES/status/1326274399243218944
+    presenters: camilolwi
+    media:
+      - https://www.youtube.com/watch?v=rTjVKqKLI1w
+  - title: Decentralized Organisations and Governance
+    start_utc: 2020-11-11
+    announcements:
+      - https://twitter.com/Decred_ES/status/1326633190442868737
+    presenters: adcade
+    media:
+      - https://www.youtube.com/watch?v=8GwzMhoEyO4
+  - title: Decred API and dcrdata workshop
+    start_utc: 2020-11-12
+    announcements:
+      - https://twitter.com/Decred_ES/status/1327000676505948166
+    presenters: pablito
+    media:
+      - https://www.youtube.com/watch?v=uuYf8Z28TcA
+  - title: How to become a Decred Contractor?
+    start_utc: 2020-11-13
+    announcements:
+      - https://twitter.com/Decred_ES/status/1327347110455480321
+    presenters: elian
+    media:
+      - https://www.youtube.com/watch?v=kqbejo0sA5c
+  - title: Decred Learning Challenge Q&A Party
+    start_utc: 2020-11-13 22:00
+    announcements:
+      - https://twitter.com/Decred_ES/status/1327357791967846401
+    presenters: adcade, elian
+    notes:
+      - this was right after "How to become a Decred Contractor?" without a recording
+decred_people:
+  - adcade
+  - camilolwi
+  - elian
+  - pablito
+attendance:
+  - 136 people registered for the Learning Phase from Argentina, Bolivia, Chile, Colombia, Cuba, México, Nicaragua, Paraguay, Perú, Uruguay, Venezuela
+  - 15 teams organized for the competition
+  - 6 teams presented projects in the final round
+description: The goal of the challenge is to share tools and practical abilities about blockchain technology in order for participants to develop an original project using Decred public blockchain data. First phase is one week of workshops about Bitcoin and blockchain, alternative consensus protocols, decentralised organisations and governance, dcrdata API and blockchain data, and Q&A party. Second phase is original project development with mentoring and support. At the end participants must release their projects with ISC license and present them in 3-minute video pitches.
+media:
+  - url: https://twitter.com/Decred_ES/status/1325817130978340868
+    note: Decred Talent Land Blockchain Challenge begins Nov-9
+  - url: https://www.youtube.com/watch?v=kBjgLcDZW8k
+    title_es: Lanzamiento del Reto Blockchain Learning Challenge
+    note: quick invitation and how to participate
+  - url: https://www.youtube.com/watch?v=czqQTw4VNBM
+    title: Navegando el Design toolkit de Decred - BLC
+    note: nachito guides how to use Decred's design toolkit
+  - url: https://twitter.com/Decred_ES/status/1327723903955984385
+    note: Decred Learning Challenge stage finish Nov-14
+  - url: https://twitter.com/Decred_ES/status/1329952687245430787
+    note: Decred Learning Challenge numbers
+  - url: https://www.youtube.com/playlist?list=PLHZZTXR_CIhJrZHnf3xgUrF6EdNsuG_Qa
+    note: Blockchain Learning Challenge playlist with 8 videos
+  - url: https://github.com/DecredES/Challenge
+    note: main docs repo for the challenge with links to all projects, rules, evaluation criteria, evaluations by 4 judges, etc
+  - url: https://twitter.com/Decred_ES/status/1338881019945103364
+  - url: https://twitter.com/Decred_ES/status/1334195734716018691
+    note: countdown to Decred Talent Land Blockchain Challenge project reception
+  - url: https://twitter.com/Decred_ES/status/1336771446362808320
+    note: announcing final projects and winners
+  - url: https://www.youtube.com/watch?v=CQTitBVUMMY
+    note: Decred Talent Land Blockchain Challenge final projects and winners
+notes:
+  - rewards for 1st/2nd/3rd place are $1,500/700/300 in DCR
+  - registrations accepted between 2020-10-26 and 2020-11-12
+  - hosted via https://meet.jit.si/DecredTalentLandChallenge
+  - Twitter hashtag BlockchainLearningChallenge
