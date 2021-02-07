@@ -2,6 +2,10 @@
 
 This is the index of past Decred events. Pages are generated from YAML files. To list your event please follow [these instructions](https://github.com/decredcommunity/events/blob/master/docs/submit-index.md).
 
+## January 2021
+
+- Jan-22: [Gate.io AMA with Decred](20210122.1.md) (elian)
+
 ## December 2020
 
 - Dec-30: [End of Year Decred in Spanish Giveaway](20201230.1.md) (elian)
