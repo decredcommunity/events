@@ -2,6 +2,10 @@
 
 This is the index of past Decred events. Pages are generated from YAML files. To list your event please follow [these instructions](https://github.com/decredcommunity/events/blob/master/docs/submit-index.md).
 
+## February 2021
+
+- Feb-06: [New technologies to promote the positive development of young people: Blockchain AI and Big Data](20210206.1.md) (arij)
+
 ## January 2021
 
 - Jan-22: [Gate.io AMA with Decred](20210122.1.md) (elian)
