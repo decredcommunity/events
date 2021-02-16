@@ -5,6 +5,7 @@ This is the index of past Decred events. Pages are generated from YAML files. To
 ## February 2021
 
 - Feb-06: [New technologies to promote the positive development of young people: Blockchain AI and Big Data](20210206.1.md) (arij)
+- Feb-03: [Decred 5 Years Giveaway](20210203.1.md) (elian)
 
 ## January 2021
 
