@@ -1,0 +1,136 @@
+title: Hackathon Nayarit 2021
+lang: es
+title_es: 
+start_utc: 2021-03-12
+end_utc: 2021-03-14
+announcements:
+  - https://www.facebook.com/EduNayarit/posts/2982126628674008
+  - https://twitter.com/Decred_ES/status/1366465819329368066
+  - https://twitter.com/Decred_ES/status/1366465867635183617
+  - https://twitter.com/Decred_ES/status/1365496737566179328
+  - https://matrix.to/#/!clHjlICBEtCtAdTupf:decred.org/$9bNnZG8xlVK9xN-k-0IS2opKchaasmuMISGX7xV8l38
+location: Internet / Facebook { others? }
+organizers:
+  - org: Ministry of Education of Nayarit
+    url: https://www.facebook.com/EduNayarit/
+    person: 
+  - org: Decred Latam team
+    url: https://twitter.com/Decred_ES
+subevents:
+  - title: 
+    title_es: Introducción a Bitcoin y blockchain
+    start_utc: 2021-03-02 00:00
+    announcements:
+      - https://twitter.com/Decred_ES/status/1366465826149261313
+    location: Internet / Facebook
+    presenters: elian
+    description: 
+    attendance:
+      - 
+    media:
+      - https://www.youtube.com/watch?v=kj1SBlHTxrc
+      - https://www.pscp.tv/w/cwwmBjF6WUViTEFxcXlsS2V8MVBsS1FQQVpxbFZ4RUZY2WmwlvsPngG3rh9lidUz-dFGBl5-jwlkkuruSN0D
+      - https://twitter.com/Decred_ES/status/1366538771110354948
+    notes:
+      - 
+
+  - title: 
+    title_es: Protocolos de consenso alternativos
+    start_utc: 2021-03-03 00:00
+    announcements:
+      - https://twitter.com/Decred_ES/status/1366465834030366720
+      - https://twitter.com/Decred_ES/status/1366795543188549632
+    location: Internet / Facebook
+    presenters: adcade
+    description: 
+    attendance:
+      - 
+    media:
+      - https://www.youtube.com/watch?v=en_svJ2394I
+      - https://www.pscp.tv/w/cw13hTF6WUViTEFxcXlsS2V8MWVhS2JuWXFRb3ZLWF8HAgcPw1LEhVrfRkSX62hZ6M2eIKPTlCdfAwpRkuiQ
+      - https://twitter.com/Decred_ES/status/1366901151841415170
+    notes:
+      - 
+
+  - title: 
+    title_es: Organizaciones descentralizadas
+    start_utc: 2021-03-04 00:00
+    announcements:
+      - https://twitter.com/Decred_ES/status/1366465843647959041
+      - https://twitter.com/Decred_ES/status/1367243840294322176
+    location: Internet / Facebook
+    presenters: adcade
+    description: 
+    attendance:
+      - 
+    media:
+      - https://www.youtube.com/watch?v=VjwPNC8fFZw
+      - https://www.pscp.tv/w/cw7JDzF6WUViTEFxcXlsS2V8MVBsSlFQQUxxelZHRSFx6x1swDd2OJLI0vC3534hEZLUCf4g-gkrSHlPNtHm
+      - https://twitter.com/Decred_ES/status/1367263581968855040
+    notes:
+      - 
+
+  - title: 
+    title_es: Workshop blockchain data
+    start_utc: 2021-03-05 00:00
+    announcements:
+      - https://twitter.com/Decred_ES/status/1366465853026414597
+      - https://twitter.com/Decred_ES/status/1367613516346179584
+    location: Internet / Facebook
+    presenters: pablito
+    description: 
+    attendance:
+      - 
+    media:
+      - https://www.youtube.com/watch?v=5Aui5dUSfk0
+      - https://www.pscp.tv/w/cxAa0zF6WUViTEFxcXlsS2V8MVlxR295a1JwQUV4dg8Xw_Kym0eW-aTBni4kkbZB_99R66cvY8SEqShWyrEt
+      - https://twitter.com/Decred_ES/status/1367626254610956290
+    notes:
+      - 
+
+  - title: 
+    title_es: Modelo de contratistas de Decred
+    start_utc: 2021-03-06 00:00
+    announcements:
+      - https://twitter.com/Decred_ES/status/1366465862715195395
+      - https://twitter.com/Decred_ES/status/1367981782474387463
+    location: Internet / Facebook
+    presenters: elian
+    description: 
+    attendance:
+      - 
+    media:
+      - https://www.youtube.com/watch?v=JDWrKjxm-UU
+      - https://www.pscp.tv/w/cxFsBTF6WUViTEFxcXlsS2V8MWRqeFhxQU5YcGVLWo5UsTtrSYRNkvPo9Q_db5rgS_NnLTA_iQmT4KhJxW-P
+      - https://twitter.com/Decred_ES/status/1367988317099192323
+    notes:
+      - 
+
+  - title: 
+    title_es: 
+    start_utc: 
+    announcements:
+      - 
+    location: 
+    presenters: 
+    description: 
+    attendance:
+      - 
+    media:
+      - 
+    notes:
+      - 
+decred_people:
+  - adcade
+  - elian
+  - pablito
+attendance:
+  - 
+  - 
+description: Decred in Spanish will sponsor the Hackathon Nayarit 2021, organised be the Ministry of Education of Nayarit, Decred in Spanish will also give a Blockchain Education training week consisting of 5 webinars from March 1-5 prior to the hackathon on March 12-14
+media:
+  - 
+  - 
+notes:
+  - $1,000 { prize pool? }
+  - 
