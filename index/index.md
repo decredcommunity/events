@@ -4,6 +4,8 @@ This is the index of past Decred events. Pages are generated from YAML files. To
 
 ## February 2021
 
+- Feb-20: [Alternative Consensus: Let's Talk PoS](20210220.1.md) (elian)
+- Feb-09: [Decred introduction and features](20210209.1.md) (michae2xl)
 - Feb-06: [New technologies to promote the positive development of young people: Blockchain AI and Big Data](20210206.1.md) (arij)
 - Feb-03: [Decred 5 Years Giveaway](20210203.1.md) (elian)
 
