@@ -1,6 +1,6 @@
 title: Hackathon Nayarit 2021
 lang: es
-title_es: 
+title_es: Hackathon Nayarit 2021
 start_utc: 2021-03-12
 end_utc: 2021-03-14
 announcements:
@@ -13,28 +13,29 @@ location: Internet / Facebook { others? }
 organizers:
   - org: Ministry of Education of Nayarit
     url: https://www.facebook.com/EduNayarit/
-    person: 
+    person: Christopher Estrada
   - org: Decred Latam team
     url: https://twitter.com/Decred_ES
+    person: Elian Huesca
 subevents:
-  - title: 
+  - title: Introduction to Bitcoin & Blockchain
     title_es: Introducción a Bitcoin y blockchain
     start_utc: 2021-03-02 00:00
     announcements:
       - https://twitter.com/Decred_ES/status/1366465826149261313
     location: Internet / Facebook
     presenters: elian
-    description: 
-    attendance:
+    description: An introduction to blockchain technology, history, use cases and current state.
+    views: 1,163
       - 
     media:
       - https://www.youtube.com/watch?v=kj1SBlHTxrc
-      - https://www.pscp.tv/w/cwwmBjF6WUViTEFxcXlsS2V8MVBsS1FQQVpxbFZ4RUZY2WmwlvsPngG3rh9lidUz-dFGBl5-jwlkkuruSN0D
+      - https://www.pscp.tv/w/1PlKQPAZqlVxE
       - https://twitter.com/Decred_ES/status/1366538771110354948
-    notes:
-      - 
+      - https://www.facebook.com/582917438879673/videos/1874879052660472
+      - https://www.facebook.com/2026530337566980/videos/723785308318988
 
-  - title: 
+  - title: Alternative Consensus Protocols
     title_es: Protocolos de consenso alternativos
     start_utc: 2021-03-03 00:00
     announcements:
@@ -42,53 +43,56 @@ subevents:
       - https://twitter.com/Decred_ES/status/1366795543188549632
     location: Internet / Facebook
     presenters: adcade
-    description: 
-    attendance:
+    description: An introduction to PoS and hybrid protocols.
+    views: 1,081
       - 
     media:
       - https://www.youtube.com/watch?v=en_svJ2394I
-      - https://www.pscp.tv/w/cw13hTF6WUViTEFxcXlsS2V8MWVhS2JuWXFRb3ZLWF8HAgcPw1LEhVrfRkSX62hZ6M2eIKPTlCdfAwpRkuiQ
+      - https://www.pscp.tv/w/1eaKbnYqQovKX
       - https://twitter.com/Decred_ES/status/1366901151841415170
-    notes:
-      - 
+      - https://www.facebook.com/582917438879673/videos/248497180287379
+      - https://www.facebook.com/2026530337566980/videos/4023513891001089
+      
 
-  - title: 
-    title_es: Organizaciones descentralizadas
+  - title: Decentralized Autonomous Organizations
+    title_es: Organizaciones Autónomas descentralizadas
     start_utc: 2021-03-04 00:00
     announcements:
       - https://twitter.com/Decred_ES/status/1366465843647959041
       - https://twitter.com/Decred_ES/status/1367243840294322176
     location: Internet / Facebook
     presenters: adcade
-    description: 
-    attendance:
+    description: An overview of what is a DAO, how it works and what is it´s role with regards to cryptocurrencies.
+    views: 644
       - 
     media:
       - https://www.youtube.com/watch?v=VjwPNC8fFZw
-      - https://www.pscp.tv/w/cw7JDzF6WUViTEFxcXlsS2V8MVBsSlFQQUxxelZHRSFx6x1swDd2OJLI0vC3534hEZLUCf4g-gkrSHlPNtHm
+      - https://www.pscp.tv/w/1PlJQPALqzVGE
       - https://twitter.com/Decred_ES/status/1367263581968855040
-    notes:
-      - 
+      - https://www.facebook.com/582917438879673/videos/797622040966290
+      - https://www.facebook.com/2026530337566980/videos/3482625728532479
 
-  - title: 
-    title_es: Workshop blockchain data
+
+  - title: Workshop blockchain data
+    title_es: Taller de datos de la Blockchain
     start_utc: 2021-03-05 00:00
     announcements:
       - https://twitter.com/Decred_ES/status/1366465853026414597
       - https://twitter.com/Decred_ES/status/1367613516346179584
     location: Internet / Facebook
     presenters: pablito
-    description: 
-    attendance:
+    description: a workshop to learn to navigate, access and interpret Decred blockchain data.
+    views: 604
       - 
     media:
       - https://www.youtube.com/watch?v=5Aui5dUSfk0
-      - https://www.pscp.tv/w/cxAa0zF6WUViTEFxcXlsS2V8MVlxR295a1JwQUV4dg8Xw_Kym0eW-aTBni4kkbZB_99R66cvY8SEqShWyrEt
+      - https://www.pscp.tv/w/1YqGoykRpAExv
       - https://twitter.com/Decred_ES/status/1367626254610956290
-    notes:
-      - 
+      - https://www.facebook.com/582917438879673/videos/779148876343977
+      - https://www.facebook.com/2026530337566980/videos/3805547556154955
 
-  - title: 
+
+  - title: Decred Contractor Model
     title_es: Modelo de contratistas de Decred
     start_utc: 2021-03-06 00:00
     announcements:
@@ -97,29 +101,15 @@ subevents:
     location: Internet / Facebook
     presenters: elian
     description: 
-    attendance:
+    views: 552
       - 
     media:
       - https://www.youtube.com/watch?v=JDWrKjxm-UU
-      - https://www.pscp.tv/w/cxFsBTF6WUViTEFxcXlsS2V8MWRqeFhxQU5YcGVLWo5UsTtrSYRNkvPo9Q_db5rgS_NnLTA_iQmT4KhJxW-P
+      - https://www.pscp.tv/w/1djxXqANXpeKZ
       - https://twitter.com/Decred_ES/status/1367988317099192323
-    notes:
-      - 
+      - https://www.facebook.com/582917438879673/videos/1139831366454857
 
-  - title: 
-    title_es: 
-    start_utc: 
-    announcements:
-      - 
-    location: 
-    presenters: 
-    description: 
-    attendance:
-      - 
-    media:
-      - 
-    notes:
-      - 
+
 decred_people:
   - adcade
   - elian
@@ -128,9 +118,7 @@ attendance:
   - 
   - 
 description: Decred in Spanish will sponsor the Hackathon Nayarit 2021, organised be the Ministry of Education of Nayarit, Decred in Spanish will also give a Blockchain Education training week consisting of 5 webinars from March 1-5 prior to the hackathon on March 12-14
-media:
   - 
   - 
 notes:
-  - $1,000 { prize pool? }
-  - 
+  - $1,000 prize pool sponsored by Decred Latam
