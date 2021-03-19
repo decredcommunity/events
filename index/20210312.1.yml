@@ -53,10 +53,9 @@ subevents:
       - https://twitter.com/Decred_ES/status/1366901151841415170
       - https://www.facebook.com/582917438879673/videos/248497180287379
       - https://www.facebook.com/2026530337566980/videos/4023513891001089
-      
 
   - title: Decentralized Autonomous Organizations
-    title_es: Organizaciones Autónomas descentralizadas
+    title_es: Organizaciones autónomas descentralizadas
     start_utc: 2021-03-04 00:00
     announcements:
       - https://twitter.com/Decred_ES/status/1366465843647959041
@@ -73,7 +72,6 @@ subevents:
       - https://www.facebook.com/582917438879673/videos/797622040966290
       - https://www.facebook.com/2026530337566980/videos/3482625728532479
 
-
   - title: Workshop blockchain data
     title_es: Taller de datos de la Blockchain
     start_utc: 2021-03-05 00:00
@@ -82,7 +80,7 @@ subevents:
       - https://twitter.com/Decred_ES/status/1367613516346179584
     location: Internet / Facebook
     presenters: pablito
-    description: a workshop to learn to navigate, access and interpret Decred blockchain data.
+    description: A workshop to learn to navigate, access and interpret Decred blockchain data.
     attendance:
       - 604 views { platform? }
     media:
@@ -91,7 +89,6 @@ subevents:
       - https://twitter.com/Decred_ES/status/1367626254610956290
       - https://www.facebook.com/582917438879673/videos/779148876343977
       - https://www.facebook.com/2026530337566980/videos/3805547556154955
-
 
   - title: Decred Contractor Model
     title_es: Modelo de contratistas de Decred
@@ -109,14 +106,12 @@ subevents:
       - https://www.pscp.tv/w/1djxXqANXpeKZ
       - https://twitter.com/Decred_ES/status/1367988317099192323
       - https://www.facebook.com/582917438879673/videos/1139831366454857
-
-
 decred_people:
   - adcade
   - elian
   - pablito
 attendance:
-  - { any engagement stats not specific to any subevent go here }
+  - { any engagement stats not specific to any subevent go here, remove if none }
 description: Decred in Spanish will sponsor the Hackathon Nayarit 2021, organised be the Ministry of Education of Nayarit, Decred in Spanish will also give a Blockchain Education training week consisting of 5 webinars from March 1-5 prior to the hackathon on March 12-14
 notes:
   - $1,000 prize pool sponsored by Decred Latam
