@@ -27,8 +27,8 @@ subevents:
     location: Internet / Facebook
     presenters: elian
     description: An introduction to blockchain technology, history, use cases and current state.
-    views: 1,163
-      - 
+    attendance:
+      - 1,163 views { platform? }
     media:
       - https://www.youtube.com/watch?v=kj1SBlHTxrc
       - https://www.pscp.tv/w/1PlKQPAZqlVxE
@@ -45,8 +45,8 @@ subevents:
     location: Internet / Facebook
     presenters: adcade
     description: An introduction to PoS and hybrid protocols.
-    views: 1,081
-      - 
+    attendance:
+      - 1,081 views { platform? }
     media:
       - https://www.youtube.com/watch?v=en_svJ2394I
       - https://www.pscp.tv/w/1eaKbnYqQovKX
@@ -64,8 +64,8 @@ subevents:
     location: Internet / Facebook
     presenters: adcade
     description: An overview of what is a DAO, how it works and what is it´s role with regards to cryptocurrencies.
-    views: 644
-      - 
+    attendance:
+      - 644 { platform? }
     media:
       - https://www.youtube.com/watch?v=VjwPNC8fFZw
       - https://www.pscp.tv/w/1PlJQPALqzVGE
@@ -83,8 +83,8 @@ subevents:
     location: Internet / Facebook
     presenters: pablito
     description: a workshop to learn to navigate, access and interpret Decred blockchain data.
-    views: 604
-      - 
+    attendance:
+      - 604 views { platform? }
     media:
       - https://www.youtube.com/watch?v=5Aui5dUSfk0
       - https://www.pscp.tv/w/1YqGoykRpAExv
@@ -101,9 +101,9 @@ subevents:
       - https://twitter.com/Decred_ES/status/1367981782474387463
     location: Internet / Facebook
     presenters: elian
-    description: 
-    views: 552
-      - 
+    description: { any? }
+    attendance:
+      - 552 views { platform? }
     media:
       - https://www.youtube.com/watch?v=JDWrKjxm-UU
       - https://www.pscp.tv/w/1djxXqANXpeKZ
@@ -116,10 +116,7 @@ decred_people:
   - elian
   - pablito
 attendance:
-  - 
-  - 
+  - { any engagement stats not specific to any subevent go here }
 description: Decred in Spanish will sponsor the Hackathon Nayarit 2021, organised be the Ministry of Education of Nayarit, Decred in Spanish will also give a Blockchain Education training week consisting of 5 webinars from March 1-5 prior to the hackathon on March 12-14
-  - 
-  - 
 notes:
   - $1,000 prize pool sponsored by Decred Latam
