@@ -1,11 +1,11 @@
-title: 
-lang: 
+title: State of crypto adoption in Morocco
+lang: which?
 title_XX: 
-start_utc: 2021-03-01 07:00
+start_utc: 2021-03-15 07:00
 announcements:
   - https://twitter.com/in_insaf/status/1365734331575132160
   - https://matrix.to/#/!clHjlICBEtCtAdTupf:decred.org/$NIRGtn7xUL5E6gFnz2y6m-pESNujHcacnJdQRs4J9Cc
-location: 
+location: Internet / { live platforms? }
 organizers:
   - org: Cryptotvplus
     url: https://twitter.com/Cryptotvplus
@@ -13,5 +13,8 @@ organizers:
 decred_people:
   - arij
 description: I was invited to an interview with Tony Obiajuru from on \#InsideBlockchain at CryptoTvplus. The interview will be streamed live across our media channels (YouTube, Facebook & Twitter).
+media:
+  - https://twitter.com/in_insaf/status/1371447874983182338
+  - https://www.youtube.com/watch?v=Gi6nkNSG3LE
 notes:
-  - The event was canceled.
+  - The event was moved from Mar-01 to Mar-15 because { reason? }.
