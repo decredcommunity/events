@@ -28,7 +28,10 @@ subevents:
     presenters: elian
     description: An introduction to blockchain technology, history, use cases and current state.
     attendance:
-      - 1,163 views { platform? }
+      - 1,163 views
+        - Youtube DecredenEspañol 39 views
+        - Periscope Decred_Es 79 views
+        - Facebook DecredEs 51 views / EduNayarit 994 views
     media:
       - https://www.youtube.com/watch?v=kj1SBlHTxrc
       - https://www.pscp.tv/w/1PlKQPAZqlVxE
@@ -46,7 +49,10 @@ subevents:
     presenters: adcade
     description: An introduction to PoS and hybrid protocols.
     attendance:
-      - 1,081 views { platform? }
+      - 1,081 views
+        - Youtube DecredenEspañol 27 views
+        - Periscope Decred_Es 201 views
+        - Facebook DecredEs 34 views / EduNayarit 819 views
     media:
       - https://www.youtube.com/watch?v=en_svJ2394I
       - https://www.pscp.tv/w/1eaKbnYqQovKX
@@ -64,7 +70,10 @@ subevents:
     presenters: adcade
     description: An overview of what is a DAO, how it works and what is it´s role with regards to cryptocurrencies.
     attendance:
-      - 644 { platform? }
+      - 644 view
+        - Youtube DecredenEspañol 13 views
+        - Periscope Decred_Es 275 views
+        - Facebook DecredEs 17 views / EduNayarit 339 views
     media:
       - https://www.youtube.com/watch?v=VjwPNC8fFZw
       - https://www.pscp.tv/w/1PlJQPALqzVGE
@@ -82,7 +91,10 @@ subevents:
     presenters: pablito
     description: A workshop to learn to navigate, access and interpret Decred blockchain data.
     attendance:
-      - 604 views { platform? }
+      - 604 views
+        - Youtube DecredenEspañol 13 views
+        - Periscope Decred_Es 219 views
+        - Facebook DecredEs 22 views / EduNayarit 350 views
     media:
       - https://www.youtube.com/watch?v=5Aui5dUSfk0
       - https://www.pscp.tv/w/1YqGoykRpAExv
@@ -98,9 +110,12 @@ subevents:
       - https://twitter.com/Decred_ES/status/1367981782474387463
     location: Internet / Facebook
     presenters: elian
-    description: { any? }
+    description: a talk about how to contribute to the Decred project, the open domains needing work and steps involved in making a proposal.
     attendance:
-      - 552 views { platform? }
+      - 552 views
+        - Youtube DecredenEspañol 15 views
+        - Periscope Decred_Es 73 views
+        - Facebook DecredEs 27 views / EduNayarit 73 views
     media:
       - https://www.youtube.com/watch?v=JDWrKjxm-UU
       - https://www.pscp.tv/w/1djxXqANXpeKZ
