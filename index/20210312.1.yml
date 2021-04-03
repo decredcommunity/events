@@ -17,7 +17,7 @@ organizers:
     person: Christopher Estrada
   - org: Decred Latam team
     url: https://twitter.com/Decred_ES
-    person: Elian Huesca
+    person: elian
 subevents:
   - title: Introduction to Bitcoin & Blockchain
     title_es: Introducción a Bitcoin y blockchain
@@ -26,7 +26,7 @@ subevents:
       - https://twitter.com/Decred_ES/status/1366465826149261313
     location: Internet / Facebook
     presenters: elian
-    description: An introduction to blockchain technology, history, use cases and current state.
+    description: An introduction to blockchain technology, history, use cases and current state. 
     attendance:
       - 1,163 views
         - Youtube DecredenEspañol 39 views
@@ -126,7 +126,7 @@ decred_people:
   - elian
   - pablito
 attendance:
-  - { any engagement stats not specific to any subevent go here, remove if none }
+  - 7 teams presented final projects at the end of the hackathon of which two had a focus on how to make cryptocurrencies useful as new payment methods in turistic areas of Nayarit. 
 description: Decred in Spanish will sponsor the Hackathon Nayarit 2021, organised be the Ministry of Education of Nayarit, Decred in Spanish will also give a Blockchain Education training week consisting of 5 webinars from March 1-5 prior to the hackathon on March 12-14
 notes:
-  - $1,000 prize pool sponsored by Decred Latam
+  - $1,000 prize pool sponsored by Decred Latam that was devided as follows: 500usd for the first prize, 300 second and 200 devided among the rest of the 20 participants that presented final projects. After the hackathon a learning session was made for winners to learn to use decrediton, decred mobile wallets and a general overview on how to store and use cryptocurrencies. This session lasted for 3 hours and was very instructional as winners had the change to make questions while recebing their prizes. 
