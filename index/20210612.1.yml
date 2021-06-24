@@ -18,9 +18,9 @@ subevents:
     location: 
     presenters: arij
     description: |
-      In this session, I've talked about Blockchain Governance what is it and why we need it, On-chain and Off-Chain governance, and I give an example of Decred governance and how it employs on-chain and off-chain governance.
+      In this session, I talked about what is blockchain governance and why we need it, on-chain and off-chain governance, and examples of both types of governance in Decred.
 
-      Due to the lack of time I couldn't get the audience questions, but I got one on the app by message asking about the layers of Blockchain Governance.
+      Due to the lack of time I couldn't get the audience questions, but I got one message via the app asking about the layers of blockchain governance.
     attendance:
       - 18
     media:
