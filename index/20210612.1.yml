@@ -15,7 +15,6 @@ subevents:
     end_utc: 2021-06-12 15:30
     announcements:
       - https://twitter.com/in_insaf/status/1400501243752202241
-    location: 
     presenters: arij
     description: |
       In this session, I talked about what is blockchain governance and why we need it, on-chain and off-chain governance, and examples of both types of governance in Decred.
@@ -26,13 +25,10 @@ subevents:
     media:
       - https://prezi.com/view/FhKiZlvRp8netUkRjbDt/
       - https://github.com/Insaf01/decred-arabic/blob/master/img/Arab%20Blockchain%20Week%202021%20Presentation.pdf
-    notes:
-      - 
 organizers:
   - org: Arab Blockchain Week
     url: https://www.arabblockchainweek.com/
 decred_people:
   - arij
-description: 
 notes:
   - hosted with the Whova app https://arabblockchainweek.events.whova.com/
