@@ -80,6 +80,12 @@ def list_md(items, indent=0):
         md += indentstr + "- {}\n".format(it)
     return md
 
+def paragraph_md(p):
+    md = p
+    if not p.endswith("\n"):
+        md += "\n"      # if it doesn't have its own line ending, add it
+    return md
+
 def announcements_md(anns, indent=0):
     md = ""
     indentstr = "  " * indent
@@ -110,6 +116,7 @@ def entry_md(eid, data):
     """Render one index entry as Markdown"""
     md = "back to [index]({}.md)\n\n".format(Const.index)
     md += "# {}\n\n".format(data["title"])
+    # begin key stats
     langcode = data["lang"]
     lang = LANGUAGES.get(langcode)
     if not lang:
@@ -130,12 +137,12 @@ def entry_md(eid, data):
             ostr += " ({})".format(org["person"])
         orgs.append(ostr)
     md += "- organizers: {}\n".format(", ".join(orgs))
-    md += "- Decred participants: {}\n\n".format(", ".join(data["decred_people"]))
+    md += "- Decred participants: {}\n".format(", ".join(data["decred_people"]))
+    md += "\n" # end key stats
     if "description" in data:
         desc = data["description"]
-        md += desc + "\n"
-        if not desc.endswith("\n"):
-            md += "\n"
+        md += paragraph_md(desc)
+        md += "\n"
     if "announcements" in data:
         md += "Announcements:\n\n"
         md += announcements_md(data["announcements"])
@@ -157,6 +164,7 @@ def entry_md(eid, data):
         for subevent in data["subevents"]:
             subtitle = subevent["title"]
             md += "### {}\n\n".format(subtitle)
+            # begin key stats
             subtitle2 = subevent.get("title_" + langcode)
             if subtitle2:
                 md += "- title in {}: {}\n".format(lang, subtitle2)
@@ -169,9 +177,10 @@ def entry_md(eid, data):
             subpresenters = subevent.get("presenters")
             if subpresenters:
                 md += "- presenters: {}\n".format(subpresenters)
+            md += "\n" # end key stats
             subdesc = subevent.get("description")
             if subdesc:
-                md += "- description: {}\n".format(subdesc)
+                md += paragraph_md(subdesc) + "\n"
             subanns = subevent.get("announcements")
             if subanns:
                 md += "- announcements:\n"
