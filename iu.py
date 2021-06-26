@@ -115,6 +115,8 @@ def media_md(medias, indent=0):
 def entry_md(eid, data):
     """Render one index entry as Markdown"""
     md = "back to [index]({}.md)\n\n".format(Const.index)
+    # required fields are accessed without testing to trigger an error if
+    # missing
     md += "# {}\n\n".format(data["title"])
     # begin key stats
     langcode = data["lang"]
@@ -138,28 +140,29 @@ def entry_md(eid, data):
         orgs.append(ostr)
     md += "- organizers: {}\n".format(", ".join(orgs))
     md += "- Decred participants: {}\n".format(", ".join(data["decred_people"]))
-    md += "\n" # end key stats
+    # end key stats
     if "description" in data:
+        md += "\n"
         desc = data["description"]
         md += paragraph_md(desc)
-        md += "\n"
     if "announcements" in data:
+        md += "\n"
         md += "Announcements:\n\n"
         md += announcements_md(data["announcements"])
-        md += "\n"
     if "attendance" in data:
+        md += "\n"
         md += "Attendance:\n\n"
         md += list_md(data["attendance"])
-        md += "\n"
     if "media" in data:
+        md += "\n"
         md += "Media:\n\n"
         md += media_md(data["media"])
-        md += "\n"
     if "notes" in data:
+        md += "\n"
         md += "Notes:\n\n"
         md += list_md(data["notes"])
-        md += "\n"
     if "subevents" in data:
+        md += "\n"
         md += "## Subevents\n"
         for subevent in data["subevents"]:
             subtitle = subevent["title"]
@@ -178,30 +181,31 @@ def entry_md(eid, data):
             subpresenters = subevent.get("presenters")
             if subpresenters:
                 md += "- presenters: {}\n".format(subpresenters)
-            md += "\n" # end key stats
+            # end key stats
             subdesc = subevent.get("description")
             if subdesc:
-                md += paragraph_md(subdesc) + "\n"
+                md += "\n"
+                md += paragraph_md(subdesc)
             subanns = subevent.get("announcements")
             if subanns:
+                md += "\n"
                 md += "Announcements:\n\n"
                 md += announcements_md(subanns)
-                md += "\n"
             subatt = subevent.get("attendance")
             if subatt:
+                md += "\n"
                 md += "Attendance:\n\n"
                 md += list_md(subatt)
-                md += "\n"
             submedia = subevent.get("media")
             if submedia:
+                md += "\n"
                 md += "Media:\n\n"
                 md += media_md(submedia)
-                md += "\n"
             subnotes = subevent.get("notes")
             if subnotes:
+                md += "\n"
                 md += "Notes:\n\n"
                 md += list_md(subnotes)
-                md += "\n"
     return md
 
 def index_md(entries):
