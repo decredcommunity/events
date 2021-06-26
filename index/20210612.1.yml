@@ -1,0 +1,34 @@
+title: Arab Blockchain Week 2021
+lang: ar
+start_utc: 2021-06-12 08:30
+end_utc: 2021-06-17 16:00
+announcements:
+  - https://twitter.com/in_insaf/status/1403613727337979905
+  - https://twitter.com/in_insaf/status/1403459277734490117
+  - https://www.eventbrite.com/e/arab-blockchain-week-2021-tickets-156333324181
+  - https://www.linkedin.com/posts/arabbcweek_aelaebaeqaewaehabraepaesaeqaesaewaeraecaeyaeuabraepaesaehaezaeqaey-activity-6809299345637154816-2Dco
+  - https://www.linkedin.com/posts/arabbcweek_%D9%8A%D8%AD%D8%AF%D8%AB-%D8%A7%D9%84%D8%A7%D9%86-httpslnkdindgnxway-conference-activity-6809497369181216768-02Ie
+location: Internet / Whova
+subevents:
+  - title: "Blockchain governance: Decred Example"
+    start_utc: 2021-06-12 15:00
+    end_utc: 2021-06-12 15:30
+    announcements:
+      - https://twitter.com/in_insaf/status/1400501243752202241
+    presenters: arij
+    description: |
+      In this session, I talked about what is blockchain governance and why we need it, on-chain and off-chain governance, and examples of both types of governance in Decred.
+
+      Due to the lack of time I couldn't get the audience questions, but I got one message via the app asking about the layers of blockchain governance.
+    attendance:
+      - 18
+    media:
+      - https://prezi.com/view/FhKiZlvRp8netUkRjbDt/
+      - https://github.com/Insaf01/decred-arabic/blob/master/img/Arab%20Blockchain%20Week%202021%20Presentation.pdf
+organizers:
+  - org: Arab Blockchain Week
+    url: https://www.arabblockchainweek.com/
+decred_people:
+  - arij
+notes:
+  - hosted with the Whova app https://arabblockchainweek.events.whova.com/
