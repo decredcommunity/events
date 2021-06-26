@@ -160,9 +160,10 @@ def entry_md(eid, data):
         md += list_md(data["notes"])
         md += "\n"
     if "subevents" in data:
-        md += "## Subevents\n\n"
+        md += "## Subevents\n"
         for subevent in data["subevents"]:
             subtitle = subevent["title"]
+            md += "\n"
             md += "### {}\n\n".format(subtitle)
             # begin key stats
             subtitle2 = subevent.get("title_" + langcode)
@@ -197,7 +198,6 @@ def entry_md(eid, data):
             if subnotes:
                 md += "- notes:\n"
                 md += list_md(subnotes, indent=1)
-            md += "\n"
     return md
 
 def index_md(entries):
