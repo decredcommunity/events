@@ -167,15 +167,15 @@ def entry_md(eid, data):
             if subend:
                 md += "- end UTC: {}\n".format(subend)
             subpresenters = subevent.get("presenters")
-            subanns = subevent.get("announcements")
-            if subanns:
-                md += "- announcements:\n"
-                md += announcements_md(subanns, indent=1)
             if subpresenters:
                 md += "- presenters: {}\n".format(subpresenters)
             subdesc = subevent.get("description")
             if subdesc:
                 md += "- description: {}\n".format(subdesc)
+            subanns = subevent.get("announcements")
+            if subanns:
+                md += "- announcements:\n"
+                md += announcements_md(subanns, indent=1)
             subatt = subevent.get("attendance")
             if subatt:
                 md += "- attendance:\n"
