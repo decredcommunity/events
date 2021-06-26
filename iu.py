@@ -184,20 +184,24 @@ def entry_md(eid, data):
                 md += paragraph_md(subdesc) + "\n"
             subanns = subevent.get("announcements")
             if subanns:
-                md += "- announcements:\n"
-                md += announcements_md(subanns, indent=1)
+                md += "Announcements:\n\n"
+                md += announcements_md(subanns)
+                md += "\n"
             subatt = subevent.get("attendance")
             if subatt:
-                md += "- attendance:\n"
-                md += list_md(subatt, indent=1)
+                md += "Attendance:\n\n"
+                md += list_md(subatt)
+                md += "\n"
             submedia = subevent.get("media")
             if submedia:
-                md += "- media:\n"
-                md += media_md(submedia, indent=1)
+                md += "Media:\n\n"
+                md += media_md(submedia)
+                md += "\n"
             subnotes = subevent.get("notes")
             if subnotes:
-                md += "- notes:\n"
-                md += list_md(subnotes, indent=1)
+                md += "Notes:\n\n"
+                md += list_md(subnotes)
+                md += "\n"
     return md
 
 def index_md(entries):
