@@ -2,13 +2,10 @@ title: "YOUCATHON: Youth For Change & Action (100 % Digital)"
 lang: en
 start_utc: 2021-07-10 08:00
 end_utc: 2021-07-10 20:00
-
 location: Morocco / Youssoufia / YouCode Youssoufia; Morocco / Safi / YouCode Safi; Internet
-
 organizers:
   - org: YouCode
     url: https://youcode.ma/
-
 subevents:
   - title: Blockchain 101
     start_utc: 10:00 
@@ -31,7 +28,6 @@ subevents:
         notes: presentation
       - url: https://matrix.to/#/!clHjlICBEtCtAdTupf:decred.org/$WtSvgWf0X6OmH4Oi8ZsQ7sYe48RepbUlgAsh8vcEpH0
         notes: extra photos
-
 decred_people:
   - arij
 attendance:
@@ -42,6 +38,5 @@ description: |
   Five teams from each campus presented their projects about developing apps in different fields (healthcare, education, social, environment). Each group was composed of a UI/UX designer, a project manager, a backend developer, and a frontend developer.
 
   The event started at 09:00 (UTC+1) and continued for 12 hours.
-
 media:
   - https://www.linkedin.com/posts/imane-gannaoui_hachathon-youcode-coding-activity-6820045631751499776-HqIs
