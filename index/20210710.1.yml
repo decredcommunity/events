@@ -11,9 +11,9 @@ organizers:
     url: https://youcode.ma/
 
 subevents:
-  - title: title?
-    start_utc: 
-    end_utc: 
+  - title: Blockchain 101
+    start_utc: 10:00 
+    end_utc: 11:22
     announcements:
       - any?
     presenters: arij
