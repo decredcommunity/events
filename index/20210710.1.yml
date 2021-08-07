@@ -34,6 +34,7 @@ subevents:
         notes: presentation
       - url: https://github.com/Insaf01/decred-arabic/blob/master/img/Blockchain-Presentation-Youcode.pdf
         notes: presentation
+      - https://matrix.to/#/!clHjlICBEtCtAdTupf:decred.org/$WtSvgWf0X6OmH4Oi8ZsQ7sYe48RepbUlgAsh8vcEpH0
 
 decred_people:
   - arij
