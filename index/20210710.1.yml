@@ -1,0 +1,41 @@
+event: "Hackathon"
+title: "YOUCATHON : Youth For Change & Action (100 % Digital)"
+lang: En
+start_utc: 2021-07-10 09:00
+end_utc: 2021-07-10 09:00
+announcements:
+  - https://twitter.com/in_insaf/status/1414135202587230209
+  - https://twitter.com/YouCode18/status/1413972096766599170
+  - https://www.linkedin.com/posts/insaf-nori_blockchain-youcathon-activity-6819902770510884864-DhlU
+  - https://www.linkedin.com/posts/imane-gannaoui_hachathon-youcode-coding-activity-6820045631751499776-HqIs
+  - 
+location: Youcode Youssoufia & Youcode Safi
+
+organizers:
+  - org: Youcode Youssoufia & Youcode Safi
+    url: https://youcode.ma/
+    
+decred_people:
+  - arij
+attendance:
+  - 55
+
+description:
+  
+  I was invited to a Computer Science School named YOUCODE at Youssoufia Morocco to animate a talk about Blockchain Technology at a Hackathon organized by the school.
+
+The Hackathon went by the name "YOUCATHON: Youth For Change & Action (100 % Digital)" and was organized internally; that's why they didn't publish it online. It was held between two campuses, YOUCODE Youssoufia (https://youcode.ma/Youssoufia) and YOUCODE Safi (https://youcode.ma/Safi), who joined us virtually.
+
+Five teams from each school presented their projects about developing apps in different fields (healthcare, education, social, environment). Each group was composed of a UI / UX Designer, a Project Manager, a Backend Developer, and a Frontend Developer.
+
+The event started at 9:00 am and continued for twelve hours. 
+
+I talked about blockchain technology in my speech and gave some examples with Decred wallet and Politeia system. I've had questions about blockchain, how they can use it to develop applications, and how they can work in blockchain projects, so I explained how I work in Decred to give them an idea of joining.
+
+The presence was about 30 in YOUCODE Youssoufia and 25 in Safi.
+
+Presentation:
+  - url: https://prezi.com/view/iZkvarb9MxQc45oHhjMw/
+  - pdf: https://github.com/Insaf01/decred-arabic/blob/master/img/Blockchain-Presentation-Youcode.pdf
+  
+  
