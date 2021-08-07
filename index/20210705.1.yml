@@ -1,0 +1,43 @@
+title: Jalisco Talent Land Digital
+lang: es
+title_es: any?
+start_utc: 2021-07-05
+end_utc: 2021-07-08
+announcements:
+  - https://www.talent-land.mx/en/home/
+  - https://matrix.to/#/!clHjlICBEtCtAdTupf:decred.org/$03Acoj7mPC2fWTv5rALj1_EfNwyunLfaxwzaxtigxTI
+location: Internet
+organizers:
+  - org: org name?
+    url: org website?
+    person: 
+subevents:
+  - title: 
+    title_es: 
+    start_utc: 
+    announcements:
+      - 
+    location: Internet / YouTube
+    presenters: pablito
+    description: 
+    attendance:
+      - 38K views as of 2021-07-13 (0PwHQvVPiFw)
+    media:
+      - https://www.youtube.com/watch?v=0PwHQvVPiFw
+      - https://twitter.com/blockchain_land/status/1414605579440492544
+      - https://twitter.com/Decred_ES/status/1414616450095099916
+    notes:
+      - 
+decred_people:
+  - pablito
+  - 
+attendance:
+  - total attendance of the entire event? if known
+  - 
+description: description of the whole event, optional
+media:
+  - maybe a playlist of all talks in the event
+  - 
+notes:
+  - did dcrdata workshop go as planned?
+  - Decred is a Bronze sponsor of Talend Land
