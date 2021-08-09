@@ -1,6 +1,6 @@
 title: Jalisco Talent Land Digital
 lang: es
-title_es: any?
+title_es: any different from en?
 start_utc: 2021-07-05
 end_utc: 2021-07-08
 announcements:
@@ -13,19 +13,39 @@ organizers:
     person: 
 subevents:
   - title: 
-    title_es: 
+    title_es: "Decred: dinero privado y abierto"
     start_utc: 
     announcements:
       - 
     location: Internet / YouTube
     presenters: pablito
-    description: 
+    description: Intro to Decred.
     attendance:
-      - 38K views as of 2021-07-13 (0PwHQvVPiFw)
+      - 38K views as of 2021-07-13, 34K on 2021-08-09 (how?!) (0PwHQvVPiFw)
     media:
-      - https://www.youtube.com/watch?v=0PwHQvVPiFw
+      - url: https://www.youtube.com/watch?v=0PwHQvVPiFw
+        title: "Decred: dinero privado y abierto. Pablo Labarta. Decred #Blockchain #TalentLand#"
+        uploaded: 2021-07-07
+        notes: 25:02, 38K views (2021-07-13), 34,400 views (2021-08-09 10:30)
       - https://twitter.com/blockchain_land/status/1414605579440492544
       - https://twitter.com/Decred_ES/status/1414616450095099916
+    notes:
+      - 
+  - title: Blockchain introduction using dcrdata API
+    title_es: Taller de datos y blockchain con Decred
+    start_utc: 
+    announcements:
+      - 
+    location: Internet / YouTube
+    presenters: pablito
+    description: Workshop.
+    attendance:
+      - 47K views as of 2021-08-09 (hggs5FnNucE)
+    media:
+      - url: https://www.youtube.com/watch?v=hggs5FnNucE
+        title: "Taller de Datos y Blockchain con Decred. Pablo Labarta. Decred #WorkshopTech #TalentLand"
+        uploaded: 2021-07-15
+        notes: 58:41, 47,059 views (2021-08-09 10:40)
     notes:
       - 
 decred_people:
