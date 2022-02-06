@@ -1,0 +1,26 @@
+event: "Decred Event"
+title: "Blockchain and digitalization"
+lang: Ar
+start_utc: 2021-02-08 16:00 ; 2021-02-15 16:00
+end_utc: 2021-02-08 19:00   ; 2021-02-15 19:00
+announcements:
+  - https://twitter.com/in_insaf/status/1479396036741369856
+  
+location: RNI Casablanca
+
+organizers:
+  - org: Decred Arabia and RNI
+  https://www.facebook.com/RNI.Ainchock.SidiMaarouf
+    
+decred_people:
+  - arij
+attendance:
+  - 50
+
+description:
+  
+RNI Ain Choq invited me to teach a course on Blockchain technology and how it works.
+
+I had adequate time to explain blockchain technology and Decred technology and how it works because it was a two-day event. I used the Decred wallet as an example and discussed how it works and how transactions work.
+
+The majority of those present were interested in cryptocurrencies; there were many traders, but most of them had no idea how things worked, and they were particularly interested in Decred staking, which I had to explain in detail so that they could do it themselves in the future.
