@@ -2,6 +2,10 @@
 
 This is the index of past Decred events. Pages are generated from YAML files. To list your event please follow [these instructions](https://github.com/decredcommunity/events/blob/master/docs/submit-index.md).
 
+## January 2022
+
+- Jan-08: [Blockchain and digitalization](20220108.1.md) (arij)
+
 ## July 2021
 
 - Jul-10: [YOUCATHON: Youth For Change & Action (100 % Digital)](20210710.1.md) (arij)
