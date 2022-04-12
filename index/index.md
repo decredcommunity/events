@@ -2,6 +2,10 @@
 
 This is the index of past Decred events. Pages are generated from YAML files. To list your event please follow [these instructions](https://github.com/decredcommunity/events/blob/master/docs/submit-index.md).
 
+## February 2022
+
+- Feb-06: [Decred 6th Anniversary](20220206.1.md) (arij)
+
 ## January 2022
 
 - Jan-08: [Blockchain and digitalization](20220108.1.md) (arij)
