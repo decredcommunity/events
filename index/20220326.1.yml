@@ -6,14 +6,15 @@ announcements:
   - https://twitter.com/in_insaf/status/1506976446044114944
 location: Morocco / Deroua
 organizers:
-  - org: Decred Arabia and AEFDS Deroua (Education, training and social development association)
+  - org: Decred Arabia
     url: https://twitter.com/DecredArabia
-         https://www.instagram.com/aefdsderoua/
+  - org: AEFDS Deroua (Education, training and social development association)
+    url: https://www.instagram.com/aefdsderoua/
 decred_people:
   - arij
 attendance:
   - 20
-description:
+description: |
   AEFDS Deroua invited me to talk about Blockchain Technology and Decred Technology at the half-day training organized for their members.
   
   It was an excellent opportunity to initiate youth university people to Blockchain technology and the Decred project. During my intervention, there have been many people, especially about how transactions work and the staking system.
