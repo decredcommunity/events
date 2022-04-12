@@ -2,6 +2,10 @@
 
 This is the index of past Decred events. Pages are generated from YAML files. To list your event please follow [these instructions](https://github.com/decredcommunity/events/blob/master/docs/submit-index.md).
 
+## March 2022
+
+- Mar-26: [Decred and AEFDS Association](20220326.1.md) (arij)
+
 ## February 2022
 
 - Feb-06: [Decred 6th Anniversary](20220206.1.md) (arij)
