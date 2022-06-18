@@ -1,15 +1,16 @@
-title: EMEC EXPO International Exhibition of Digital Transformation (2nd edition)
+title: EMEC EXPO 2022 (2nd edition)
 lang: ar, en, fr
 start_utc: 2022-05-18 09:00 and 2022-05-19 09:00
 end_utc: 2022-05-18 17:00 and 2022-05-19 17:00
 announcements:
   - https://twitter.com/in_insaf/status/1526979202951655425
+  - https://web.archive.org/web/20220509215122/https://emecexpo.ma/
 location: Morocco / Casablanca / Grand Mogador Hotel
 organizers:
   - org: Decred Arabia
     url: https://twitter.com/DecredArabia
   - org: EMECEXPO
-    url: https://emecexpo.ma
+    url: https://emecexpo.ma/
 decred_people:
   - arij
   - Khalid
@@ -25,3 +26,4 @@ description: |
   We got new contacts and invitations to participate in events in the next few days.
 media:
   - https://twitter.com/in_insaf/status/1526979202951655425
+  - https://twitter.com/khalidesitra/status/1527174777835859971
