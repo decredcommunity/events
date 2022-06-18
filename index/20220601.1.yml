@@ -2,14 +2,12 @@ title: Partnership signature with JCI
 lang: fr
 start_utc: 2022-06-01 17:00
 end_utc: 2022-06-01 19:00
-announcements:
-  - https://twitter.com/in_insaf/status/1533527677902135296
 location: Morocco / Casablanca / Grand Mogador Hotel
 organizers:
   - org: Decred Arabia
     url: https://twitter.com/DecredArabia
   - org: JCI Casablanca
-    url: https://www.jcicasablanca.ma
+    url: https://www.jcicasablanca.ma/
 decred_people:
   - arij
 attendance:
