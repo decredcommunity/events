@@ -254,7 +254,11 @@ def build_md(args):
     print("writing to directory:", outdir)
 
     for eid, yaml in entries.items():
-        write_md(outdir, eid, entry_md(eid, yaml.data))
+        try:
+            emd = entry_md(eid, yaml.data)
+            write_md(outdir, eid, emd)
+        except IuError as e:
+            print("error in {}: {}".format(eid, str(e)))
 
     write_md(outdir, Const.index, index_md(entries))
 
