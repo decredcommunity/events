@@ -1,7 +1,7 @@
 title: EMEC EXPO 2022 (2nd edition)
 lang: ar, en, fr
-start_utc: 2022-05-18 09:00 and 2022-05-19 09:00
-end_utc: 2022-05-18 17:00 and 2022-05-19 17:00
+start_utc: 2022-05-18
+end_utc: 2022-05-19
 announcements:
   - https://twitter.com/in_insaf/status/1526979202951655425
   - https://web.archive.org/web/20220509215122/https://emecexpo.ma/
@@ -11,9 +11,18 @@ organizers:
     url: https://twitter.com/DecredArabia
   - org: EMECEXPO
     url: https://emecexpo.ma/
+subevents:
+  - title: Decred booth
+    start_utc: 2022-05-18 09:00
+    end_utc: 2022-05-18 17:00
+    presenters: arij, khalidesi
+  - title: Decred booth
+    start_utc: 2022-05-19 09:00
+    end_utc: 2022-05-19 17:00
+    presenters: arij, khalidesi
 decred_people:
   - arij
-  - Khalid
+  - khalidesi
 attendance:
   - Expected 3,000 but I can say it was 200 or more during the two days.
 description: |
