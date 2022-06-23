@@ -112,6 +112,15 @@ def media_md(medias, indent=0):
         md += indentstr + "- [{}]({})\n".format(site_name(murl), murl)
     return md
 
+def titlesx_md(data, lang_codes):
+    md = ""
+    for code in lang_codes:
+        if not code == "en":
+            titlex = data.get("title_" + code)
+            if titlex:
+                md += "- title in {}: {}\n".format(LANGUAGES[code], titlex)
+    return md
+
 def entry_md(eid, data):
     """Render one index entry as Markdown"""
     md = "back to [index]({}.md)\n\n".format(Const.index)
@@ -119,15 +128,22 @@ def entry_md(eid, data):
     # missing
     md += "# {}\n\n".format(data["title"])
     # begin key stats
-    langcode = data["lang"]
-    lang = LANGUAGES.get(langcode)
-    if not lang:
-        raise IuError("unknown language code: " + langcode)
-    md += "- language: {}\n".format(lang)
-    if not langcode == "en":
-        title2 = data.get("title_" + langcode)
-        if title2:
-            md += "- title in {}: {}\n".format(lang, title2)
+    langs_str = data["lang"]
+    lang_codes = langs_str.split(", ")
+    if not lang_codes:
+        raise IuError("at least one language is required in `lang`")
+    lang_names = []
+    for code in lang_codes:
+        lang_name = LANGUAGES.get(code)
+        if not lang_name:
+            raise IuError("unknown language code: " + code)
+        lang_names.append(lang_name)
+
+    md += "- language: {}\n".format(", ".join(lang_names))
+    titlesx = titlesx_md(data, lang_codes)
+    if titlesx:
+        md += titlesx
+
     md += "- start UTC: {}\n".format(data["start_utc"])
     if "end_utc" in data:
         md += "- end UTC: {}\n".format(data["end_utc"])
@@ -169,9 +185,9 @@ def entry_md(eid, data):
             md += "\n"
             md += "### {}\n\n".format(subtitle)
             # begin key stats
-            subtitle2 = subevent.get("title_" + langcode)
-            if subtitle2:
-                md += "- title in {}: {}\n".format(lang, subtitle2)
+            subtitlesx = titlesx_md(subevent, lang_codes)
+            if subtitlesx:
+                md += subtitlesx
             substart = subevent.get("start_utc")
             if substart:
                 md += "- start UTC: {}\n".format(substart)
