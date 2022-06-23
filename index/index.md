@@ -2,6 +2,14 @@
 
 This is the index of past Decred events. Pages are generated from YAML files. To list your event please follow [these instructions](https://github.com/decredcommunity/events/blob/master/docs/submit-index.md).
 
+## June 2022
+
+- Jun-01: [Partnership signature with JCI](20220601.1.md) (arij)
+
+## May 2022
+
+- May-18: [EMEC EXPO 2022 (2nd edition)](20220518.1.md) (arij, khalidesi)
+
 ## March 2022
 
 - Mar-26: [Decred and AEFDS Association](20220326.1.md) (arij)
