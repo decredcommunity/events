@@ -18,6 +18,9 @@ class Const:
     index       = "index"
 
 
+## I/O
+
+
 def load_str(path):
     with open(path) as f:
         return f.read()
@@ -39,6 +42,9 @@ def init_build_dir(path):
         print("Created directory:", path)
 
 
+## Formats
+
+
 def parse_date(s):
     for fmt in ["%Y-%m-%d %H:%M:%S", "%Y-%m-%d %H:%M", "%Y-%m-%d"]:
         try:
@@ -56,6 +62,9 @@ LANGUAGES = {
     "pt": "Portuguese",
     "zh": "Chinese",
 }
+
+
+## Site utils
 
 
 SITES = {
@@ -88,67 +97,120 @@ def twitter_username(url):
     return segments[1]
 
 
-def list_md(items, indent=0):
-    md = ""
-    indentstr = "  " * indent
+## Generic Markdown utils
+
+
+SEP = "\n"
+
+
+def md_blank(l):
+    l.append(SEP)
+
+
+def md_parag(l, s, preblank=True):
+    if preblank:
+        md_blank(l)
+    # Don't add an extra sep if `s` already has it.
+    sep = "" if s.endswith("\n") else SEP
+    l.append(s + sep)
+
+
+def md_heading(l, level, s, preblank=True):
+    md_parag(l, ("#" * level) + " " + s, preblank)
+
+
+def md_begin_list(l):
+    md_blank(l)
+
+
+def md_li(l, s):
+    l.append("- " + s + SEP)
+
+
+def md_list(l, items):
+    md_begin_list(l)
     for it in items:
-        md += indentstr + "- {}\n".format(it)
-    return md
+        md_li(l, it)
 
 
-def paragraph_md(p):
-    md = p
-    if not p.endswith("\n"):
-        # If `p` doesn't have its own line ending, add it.
-        md += "\n"
-    return md
+def md_link(text, url):
+    return "[{}]({})".format(text, url)
 
 
-def announcements_md(anns, indent=0):
-    md = ""
-    indentstr = "  " * indent
-    tweets, nontweets = [], []
-    for aurl in anns:
-        if hostname(aurl) == "twitter.com":
-            tweets.append("[@{}]({})".format(twitter_username(aurl), aurl))
-        else:
-            nontweets.append(aurl)
-    if tweets:
-        md += indentstr + "- tweets: {}\n".format(", ".join(tweets))
-    for url in nontweets:
-        md += indentstr + "- [{}]({})\n".format(site_name(url), url)
-    return md
+## Event-specific Markdown utils
 
 
-def media_md(medias, indent=0):
-    md = ""
-    indentstr = "  " * indent
-    for m in medias:
-        if isinstance(m, str):
-            murl = m
-        elif isinstance(m, dict):
-            murl = m["url"]
-        md += indentstr + "- [{}]({})\n".format(site_name(murl), murl)
-    return md
-
-
-def titlesx_md(data, lang_codes):
-    md = ""
+def md_titlesx(l, data, lang_codes):
     for code in lang_codes:
         if not code == "en":
             titlex = data.get("title_" + code)
             if titlex:
-                md += "- title in {}: {}\n".format(LANGUAGES[code], titlex)
-    return md
+                md_li(l, "title in {}: {}".format(LANGUAGES[code], titlex))
+
+
+def md_announcements(l, anns):
+    tweets, nontweets = [], []
+    for aurl in anns:
+        if hostname(aurl) == "twitter.com":
+            tweets.append(md_link("@" + twitter_username(aurl), aurl))
+        else:
+            nontweets.append(aurl)
+    items = []
+    if tweets:
+        items.append("tweets: " + ", ".join(tweets))
+    for url in nontweets:
+        items.append(md_link(site_name(url), url))
+    md_list(l, items)
+
+
+def md_media(l, media):
+    items = []
+    for m in media:
+        if isinstance(m, str):
+            murl = m
+        elif isinstance(m, dict):
+            murl = m["url"]
+        items.append(md_link(site_name(murl), murl))
+    md_list(l, items)
+
+
+def md_optionals(l, data):
+    desc = data.get("description")
+    if desc:
+        md_parag(l, desc)
+
+    anns = data.get("announcements")
+    if anns:
+        md_parag(l, "Announcements:")
+        md_announcements(l, anns)
+
+    attendance = data.get("attendance")
+    if attendance:
+        md_parag(l, "Attendance:")
+        md_list(l, attendance)
+
+    media = data.get("media")
+    if media:
+        md_parag(l, "Media:")
+        md_media(l, media)
+
+    notes = data.get("notes")
+    if notes:
+        md_parag(l, "Notes:")
+        md_list(l, notes)
 
 
 def entry_md(eid, data):
     """Render one index entry as Markdown."""
-    md = "back to [index]({}.md)\n\n".format(Const.index)
+    l = []
+    md_parag(l, "back to [index]({}.md)".format(Const.index), preblank=False)
     # Required fields are accessed without testing to trigger an error if
     # missing.
-    md += "# {}\n\n".format(data["title"])
-    # Begin key stats.
+    md_heading(l, 1, data["title"])
+
+    # Begin key fields.
+    md_begin_list(l)
+
     langs_str = data["lang"]
     lang_codes = langs_str.split(", ")
     if not lang_codes:
@@ -159,115 +221,90 @@ def entry_md(eid, data):
         if not lang_name:
             raise IuError("Unknown language code: " + code)
         lang_names.append(lang_name)
+    md_li(l, "language: " + ", ".join(lang_names))
 
-    md += "- language: {}\n".format(", ".join(lang_names))
-    titlesx = titlesx_md(data, lang_codes)
-    if titlesx:
-        md += titlesx
+    md_titlesx(l, data, lang_codes)
 
-    md += "- start UTC: {}\n".format(data["start_utc"])
-    if "end_utc" in data:
-        md += "- end UTC: {}\n".format(data["end_utc"])
-    md += "- location: {}\n".format(data["location"])
+    md_li(l, "start UTC: " + data["start_utc"])
+    end_utc = data.get("end_utc")
+    if end_utc:
+        md_li(l, "end UTC: " + end_utc)
+
+    md_li(l, "location: " + data["location"])
+
     orgs = []
     for org in data["organizers"]:
         ostr = "[{}]({})".format(org["org"], org["url"])
         if "person" in org:
             ostr += " ({})".format(org["person"])
         orgs.append(ostr)
-    md += "- organizers: {}\n".format(", ".join(orgs))
-    md += "- Decred participants: {}\n".format(", ".join(data["decred_people"]))
-    # End key stats.
-    if "description" in data:
-        md += "\n"
-        desc = data["description"]
-        md += paragraph_md(desc)
-    if "announcements" in data:
-        md += "\n"
-        md += "Announcements:\n\n"
-        md += announcements_md(data["announcements"])
-    if "attendance" in data:
-        md += "\n"
-        md += "Attendance:\n\n"
-        md += list_md(data["attendance"])
-    if "media" in data:
-        md += "\n"
-        md += "Media:\n\n"
-        md += media_md(data["media"])
-    if "notes" in data:
-        md += "\n"
-        md += "Notes:\n\n"
-        md += list_md(data["notes"])
-    if "subevents" in data:
-        md += "\n"
-        md += "## Subevents\n"
-        for subevent in data["subevents"]:
-            subtitle = subevent["title"]
-            md += "\n"
-            md += "### {}\n\n".format(subtitle)
-            # Begin key stats.
-            subtitlesx = titlesx_md(subevent, lang_codes)
-            if subtitlesx:
-                md += subtitlesx
+    md_li(l, "organizers: " + ", ".join(orgs))
+
+    md_li(l, "Decred participants: " + ", ".join(data["decred_people"]))
+
+    # End key fields. Begin optional fields.
+
+    md_optionals(l, data)
+
+    subevents = data.get("subevents")
+    if subevents:
+        md_heading(l, 2, "Subevents")
+        for subevent in subevents:
+            md_heading(l, 3, subevent["title"])
+
+            # Begin key fields.
+            md_begin_list(l)
+
+            md_titlesx(l, subevent, lang_codes)
+
             substart = subevent.get("start_utc")
             if substart:
-                md += "- start UTC: {}\n".format(substart)
+                md_li(l, "start UTC: " + substart)
+
             subend = subevent.get("end_utc")
             if subend:
-                md += "- end UTC: {}\n".format(subend)
+                md_li(l, "end UTC: " + subend)
+
             subpresenters = subevent.get("presenters")
             if subpresenters:
-                md += "- presenters: {}\n".format(subpresenters)
-            # End key stats.
-            subdesc = subevent.get("description")
-            if subdesc:
-                md += "\n"
-                md += paragraph_md(subdesc)
-            subanns = subevent.get("announcements")
-            if subanns:
-                md += "\n"
-                md += "Announcements:\n\n"
-                md += announcements_md(subanns)
-            subatt = subevent.get("attendance")
-            if subatt:
-                md += "\n"
-                md += "Attendance:\n\n"
-                md += list_md(subatt)
-            submedia = subevent.get("media")
-            if submedia:
-                md += "\n"
-                md += "Media:\n\n"
-                md += media_md(submedia)
-            subnotes = subevent.get("notes")
-            if subnotes:
-                md += "\n"
-                md += "Notes:\n\n"
-                md += list_md(subnotes)
-    return md
+                md_li(l, "presenters: " + subpresenters)
+
+            # End key fields. Begin optional fields.
+
+            md_optionals(l, subevent)
+
+    return "".join(l)
 
 
 def index_md(entries):
     """Build top-level Markdown index page."""
-    md = ("# Decred Events\n\n"
-          "This is the index of past Decred events."
-          " Pages are generated from YAML files."
-          " To list your event please follow [these instructions]("
-          "https://github.com/decredcommunity/events/blob/master/docs/submit-index.md).\n")
+    l = []
+    md_heading(l, 1, "Decred Events", preblank=False)
+    md_parag(l,
+        "This is the index of past Decred events. Pages are generated from"
+        " YAML files. To list your event please follow"
+        " [these instructions]("
+        "https://github.com/decredcommunity/events/blob/master/docs/submit-index.md).")
+
     year, month = None, None
     for eid, yaml in sorted(entries.items(), reverse=True):
         data = yaml.data
         date = parse_date(data["start_utc"])
-        # Group by month.
+
+        # Start new group when month changes.
         if not (year == date.year and month == date.month):
             year, month = date.year, date.month
-            md += "\n## {}\n\n".format(date.strftime("%B %Y"))
-        item = "- {date}: [{title}]({eid}.md) ({people})\n".format(
+            md_heading(l, 2, date.strftime("%B %Y"))
+            md_begin_list(l)
+
+        item = "{date}: [{title}]({eid}.md) ({people})".format(
             date=date.strftime("%b-%d"),
             title=data["title"],
             eid=eid,
             people=", ".join(data["decred_people"]))
-        md += item
-    return md
+        md_li(l, item)
+
+    return "".join(l)
 
 
 def write_md(outdir, basename, s):
@@ -275,6 +312,9 @@ def write_md(outdir, basename, s):
     filepath = os.path.join(outdir, filename)
     write_str(filepath, s)
     print("Wrote", filename)
+
+
+## Command-line interface
 
 
 def build_md(args):
