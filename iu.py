@@ -44,6 +44,7 @@ LANGUAGES = {
     "ar": "Arabic",
     "en": "English",
     "es": "Spanish",
+    "fr": "French",
     "pt": "Portuguese",
     "zh": "Chinese",
 }
