@@ -1,6 +1,6 @@
 # Events index specification
 
-Version: 0.3
+Version: 0.4
 
 ## Event ID
 
@@ -32,7 +32,13 @@ Non-English events may have a field like `title_es` or `title_pt` with the value
 
 ### lang
 
-Short code of event's language, e.g. `en`, `es`, `pt`, `ar`, `zh`.
+Comma-separated list with short codes for languages spoken at the event, e.g. `en`, `es`, `pt`, `ar`, `zh`.
+
+Example:
+
+    lang: en
+
+    lang: ar, en, fr
 
 ### start_utc
 
