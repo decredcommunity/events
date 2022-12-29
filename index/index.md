@@ -2,6 +2,10 @@
 
 This is the index of past Decred events. Pages are generated from YAML files. To list your event please follow [these instructions](https://github.com/decredcommunity/events/blob/master/docs/submit-index.md).
 
+## December 2022
+
+- Dec-20: [Women Entrepreneurship](20221220.1.md) (arij)
+
 ## June 2022
 
 - Jun-01: [Partnership signature with JCI](20220601.1.md) (arij)
@@ -12,7 +16,7 @@ This is the index of past Decred events. Pages are generated from YAML files. To
 
 ## March 2022
 
-- Mar-26: [Decred and AEFDS Association](20220326.1.md) (arij)
+- Mar-26: [Decred and AEFDS Association](20220326.1.md) (arij, khalidesi)
 
 ## February 2022
 
