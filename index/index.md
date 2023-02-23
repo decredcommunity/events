@@ -2,6 +2,10 @@
 
 This is the index of past Decred events. Pages are generated from YAML files. To list your event please follow [these instructions](https://github.com/decredcommunity/events/blob/master/docs/submit-index.md).
 
+## February 2023
+
+- Feb-05: [Decred 7th Anniversary Party](20230205.1.md) (arij, khalidesi, FatimaZahra)
+
 ## January 2023
 
 - Jan-07: [DevFest Settat x Marrakesh 2022](20230107.1.md) (arij)
