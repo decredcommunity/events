@@ -1,21 +1,21 @@
 title: "Blockchain and Entrepreneurship: Technology Adoption Progresses in Morocco"
-lang: Ar
+lang: ar
 start_utc: 2023-03-04 14:30
 end_utc: 2023-03-04 17:30
 announcements:
   - https://twitter.com/in_insaf/status/1630154853791023109
   - https://www.linkedin.com/posts/hind-hatim-49681027_blockchain-entrepreneurship-activity-7037733502989017088-fI_H
-
 location: Morocco / Casablanca / Technopark Casablanca
 organizers:
-  - org: Decred Arabia and Technopark Casablanca
+  - org: Decred Arabia
+    url: https://twitter.com/DecredArabia
+  - org: Technopark Casablanca
     url: https://www.technopark.ma
 decred_people:
   - arij
 attendance:
   - 20
 description: |
-
   It was an opportunity to start our first training session in 2023, and we chose the theme "Blockchain and Entrepreneurship."
 
   I started the presentation with an introduction to blockchain technology, its different use cases, and its history.
@@ -23,6 +23,5 @@ description: |
   I also showed a blockchain demo and explained the difference between private and public keys, gave an example of decrediton, and talked about politeia and different consensus mechanisms.
 
   The attendees were from different backgrounds, ranging from finance and economics to the energy sector to IT specialists. The majority of the attendees saw the announcement on LinkedIn.
-
 media:
   - https://twitter.com/in_insaf/status/1632669315420889088
