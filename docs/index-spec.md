@@ -1,6 +1,6 @@
 # Events index specification
 
-Version: 0.4
+Version: 0.5
 
 ## Event ID
 
@@ -92,16 +92,17 @@ Examples:
 
 ### organizers
 
-Key facts about each co-organizer. Optionally, add individuals.
+Key facts about each co-organizer. `url` (org site/homepage) and `person` (individual from the org) are optional.
 
 Example:
 
-    - org: Decred
-      url: https://decred.org
-      person: elian
-    - org: Bitcoin Embassy Jupiter
-      person: Sam
-      url: https://twitter.com/bitcoinembjupiter
+    organizers:
+      - org: Decred
+        url: https://decred.org
+        person: elian
+      - org: Bitcoin Embassy Jupiter
+        url: https://twitter.com/bitcoinembjupiter
+        person: Sam
 
 ### subevents
 
