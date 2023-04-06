@@ -3,15 +3,30 @@ lang: ar
 start_utc: 2023-03-11 15:00
 end_utc: 2023-03-22 21:30
 announcements:
-  - https://twitter.com/khalidesitra/status/1634502697415069698
-  - https://twitter.com/khalidesitra/status/1637568952690769921
   - https://www.facebook.com/photo/?fbid=10228939933739829&set=a.10203449755221297
   - https://www.facebook.com/photo/?fbid=759306448920551&set=pcb.759306485587214
 location: Morocco / Casablanca / Aïn Chock
 organizers:
   - org: Decred Arabia
     url: https://twitter.com/DecredArabia
-  - org: The sports association of Ain Chok, in partnership with the District Council of Ain Chok Casablanca
+  - org: The sports association of Aïn Chock, in partnership with the District Council of Aïn Chock Casablanca
+subevents:
+  - title: "Day 1: Introduction to Blockchains"
+    start_utc: 2023-03-11 15:00
+    end_utc: 2023-03-11 17:00
+    announcements:
+      - https://twitter.com/khalidesitra/status/1634502697415069698
+    presenters: khalidesi
+    media:
+      - https://twitter.com/khalidesitra/status/1634671391902400512
+  - title: "Day 2: Application of Blockchains and the Decred Example"
+    start_utc: 2023-03-22 18:30
+    end_utc: 2023-03-22 21:30
+    announcements:
+      - https://twitter.com/khalidesitra/status/1637568952690769921
+    presenters: khalidesi
+    media:
+      - https://twitter.com/khalidesitra/status/1638856985541214213
 decred_people:
   - khalidesi
   - arij
@@ -28,9 +43,5 @@ description: |
 
   There were a closing ceremony at the end of the event.
 media:
-  - https://twitter.com/khalidesitra/status/1634671391902400512
-  - https://twitter.com/khalidesitra/status/1638856985541214213
   - https://www.facebook.com/photo/?fbid=10229020069903183&set=pcb.10229020072143239
   - https://www.facebook.com/photo/?fbid=10228943629032209&set=pcb.10228943632072285
-notes:
-  - First Decred presentation took place on 2023-03-11 from 15:00 till 17:00 UTC. Second on 2023-03-22 from 18:30 till 21:30 UTC.
