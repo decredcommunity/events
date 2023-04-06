@@ -234,7 +234,10 @@ def entry_md(eid, data):
 
     orgs = []
     for org in data["organizers"]:
-        ostr = "[{}]({})".format(org["org"], org["url"])
+        if "url" in org:
+            ostr = "[{}]({})".format(org["org"], org["url"])
+        else:
+            ostr = org["org"]
         if "person" in org:
             ostr += " ({})".format(org["person"])
         orgs.append(ostr)
