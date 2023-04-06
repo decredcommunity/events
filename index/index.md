@@ -4,6 +4,7 @@ This is the index of past Decred events. Pages are generated from YAML files. To
 
 ## March 2023
 
+- Mar-11: [Blockchain and Artificial Intelligence Issues and Challenges](20230311.1.md) (khalidesi, arij)
 - Mar-04: [Blockchain and Entrepreneurship: Technology Adoption Progresses in Morocco](20230304.1.md) (arij)
 
 ## February 2023
