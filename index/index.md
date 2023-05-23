@@ -2,6 +2,10 @@
 
 This is the index of past Decred events. Pages are generated from YAML files. To list your event please follow [these instructions](https://github.com/decredcommunity/events/blob/master/docs/submit-index.md).
 
+## May 2023
+
+- May-10: [EMEC EXPO 2023](20230511.1.md) (khalidesi, arij)
+
 ## March 2023
 
 - Mar-11: [Blockchain and Artificial Intelligence Issues and Challenges](20230311.1.md) (khalidesi, arij)
