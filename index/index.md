@@ -2,6 +2,10 @@
 
 This is the index of past Decred events. Pages are generated from YAML files. To list your event please follow [these instructions](https://github.com/decredcommunity/events/blob/master/docs/submit-index.md).
 
+## June 2023
+
+- Jun-01: [Gitex Africa Digital Summit](20230601.1.md) (arij, khalidesi)
+
 ## May 2023
 
 - May-10: [EMEC EXPO 2023](20230511.1.md) (khalidesi, arij)
