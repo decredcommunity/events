@@ -2,6 +2,10 @@
 
 This is the index of past Decred events. Pages are generated from YAML files. To list your event please follow [these instructions](https://github.com/decredcommunity/events/blob/master/docs/submit-index.md).
 
+## September 2023
+
+- Sep-23: [Decred Partnership with the National Institute of Innovation and Advanced Technology (NIIAT)](20230923.1.md) (arij)
+
 ## June 2023
 
 - Jun-01: [Gitex Africa Digital Summit](20230601.1.md) (arij, khalidesi)
