@@ -8,8 +8,11 @@ announcements:
 location: Morocco / Berrechid / ENSA Berrechid
 organizers:
   - org: DigiGirlz ENSA Berrechid
+    url: https://www.facebook.com/DigiGirlz-at-ENSA-Berrechid-136003508373318/
   - org: Enactus ENSA Berrechid
+    url: https://www.facebook.com/enactusensab/
   - org: ADEI ENSA Berrechid
+    url: https://www.facebook.com/adei.ensab/
 decred_people:
   - arij
 attendance:
