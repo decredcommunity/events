@@ -2,6 +2,10 @@
 
 This is the index of past Decred events. Pages are generated from YAML files. To list your event please follow [these instructions](https://github.com/decredcommunity/events/blob/master/docs/submit-index.md).
 
+## March 2024
+
+- Mar-08: [Girlz for Impact: Empowering Leadership, Entrepreneurship, and Breaking Barriers in Tech](20240308.1.md) (arij)
+
 ## November 2023
 
 - Nov-21: [Investment Dynamics and the Emergence of the Blockchain Ecosystem in Morocco](20231121.1.md) (arij)
